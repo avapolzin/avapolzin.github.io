@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <style>
+    body {
+        margin: 50px;
+        background-image: url("m79.jpg")
+    }
+    
+    
+     ul  {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+            
+            	
+	 p{
+        font-size: 18px;
+        line-height: 130%
+    } 
+        
+    .container {
+    overflow: hidden;
+    background-color: #00356b;
+    font-family: Arial;
+    }
+
+    .container a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+
+    .dropdown {
+    float: left;
+    overflow: hidden; 
+    }
+
+    .dropdown .dropbtn {
+    cursor: pointer;
+    font-size: 16px;    
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    }
+
+    .container a:hover, .dropdown:hover .dropbtn {
+    background-color: #005bb8;
+    }
+
+    .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #00356b;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    }
+
+    .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    }
+
+    .dropdown-content a:hover {
+    background-color: #ddd;
+    }
+
+    .show {
+    display: block;
+    }
+    
+    </style>
+    
+    <title>Research | Ava Polzin</title>
+
+   <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">     
+</head>
+
+<body>
+
+<script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+    var myDropdown = document.getElementById("myDropdown");
+      if (myDropdown.classList.contains('show')) {
+        myDropdown.classList.remove('show');
+      }
+  }
+};
+</script>
+
+<div class="header" style=" background: linear-gradient(to bottom, #00356b 0%, #000000 100%); padding: 10px; height: 150px ">
+  <div class="myself" style="float: left; padding-left: 20px">
+  <h1 style="color: white; font-family: Arial; font-size: 50px; margin-bottom: 0px">Ava Polzin</h1>
+  <p style="color: white; font-style: italic">Astronomy PhD Student at Yale University</p>
+  </div>
+  <div class="contact" style="float: right; width: 50%; padding-right: 20px" >
+    <h4 style="color: white; text-align: right; line-height: 20%">Contact:</h4>
+
+    <p style="color: white; font-size: 14px; text-align: right">ava.polzin [at] yale.edu</p>
+    <div class=links style="float:right">
+    <a href="https://www.linkedin.com/in/ava-polzin-978a0584/"><i class="fa fa-linkedin" style="color: white"></i></a>
+    </div>
+
+  </div>
+</div>
+
+<div class="container">
+  <a href="index.html">Home</a>
+  <a href="cv.html">CV</a>
+  <a href="research.html">Research</a>
+  <a href="otherinterests.html">Other Interests</a>
+</div>
+
+
+<div class="block1" style="position: absolute; background-color: #e5eaf0; margin-right: 50px">
+
+<div class=desc style="width: 75%; margin: 0 auto; padding-top: 50px">
+<h2 style="font-family: Arial">Research</h2>
+
+
+
+<h3 style="font-family: Arial">Current Work</h3>
+
+<b>Dwarf galaxies (van Dokkum Group), Yale University</b>
+
+<p>Observational, extragalactic research focused on dwarf galaxies.</p>
+
+<b>21cm cosmology (Newburgh Group), Yale University</b>
+
+<p style="margin-bottom:1.5cm;">Working on the Canadian Hydrogen Intensity Mapping Experiment (CHIME) pipeline. Formerly looked into using a drone to calibrate the Hydrogen Intensity and Real-time Analysis eXperiment (HIRAX).</p>
+
+<p></p>
+<p></p>
+
+
+<h3 style="font-family: Arial">Past Research</h3>
+
+<b>X-ray transients and variables (Margutti Group), Northwestern University</b>
+
+<p>Generating a complete picture of the X-ray Duration-Luminosity Phase Space (DLPS) for transient and variable phenomena. Using real light curves where data are available.</p>
+
+
+<b>Eclipsing binary yield of the Vera Rubin Observatory (Geller Group), Northwestern University</b>
+
+<p>Simulating eclipsing binary observations over the ten-year run of the VRO&#39;s Legacy Survey of Space and Time (LSST) to determine the observed fraction, as well, as the fraction for which we&#39;ll be able to recover the physical properties.</p>
+
+
+<b>Micro-X (Figueroa Group), Northwestern University</b>
+
+<p>X-ray telescope payload for launched Summer 2018. Intended as possible means of dark matter direct detection.</p>
+
+
+
+<b>Nealson Lab, University of Southern California</b>
+
+<p style="margin-bottom:1.5cm;">Meant as preparation for anticipated summer work at the Jet Propulsion Lab, Pasadena, CA. Environmental geomicrobiology with astrobiological implications.</p>
+
+<h3 style="font-family: Arial"><i> For clarification or details about any of the above work, please visit my CV or contact me directly! </i></h3>
+
+</div>
+
+</body>
+</html>
+

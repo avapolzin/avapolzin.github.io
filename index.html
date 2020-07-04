@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <style>
+    body {
+        margin: 50px;
+        background-image: url("m79.jpg")
+    }
+
+    p {
+        font-size: 18px;
+        line-height: 130%
+    }
+        
+    .contact {
+        width: 20%;
+    }
+    
+    .container {
+    overflow: hidden;
+    background-color: #00356b;
+    font-family: Arial;
+    }
+
+    .container a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+
+    .dropdown {
+    float: left;
+    overflow: hidden; 
+    }
+
+    .dropdown .dropbtn {
+    cursor: pointer;
+    font-size: 16px;    
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    }
+
+    .container a:hover, .dropdown:hover .dropbtn {
+    background-color: #005bb8;
+    }
+
+    .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #00356b;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    }
+
+    .dropdown-content a {
+    float: none;
+    color: #00356b;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    }
+
+    .dropdown-content a:hover {
+    background-color: #ddd;
+    }
+
+    .show {
+    display: block;
+    }
+
+    
+    </style>
+    
+    <title>Ava Polzin</title>
+
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+        
+</head>
+
+<body>
+
+<script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+    var myDropdown = document.getElementById("myDropdown");
+      if (myDropdown.classList.contains('show')) {
+        myDropdown.classList.remove('show');
+      }
+  }
+};
+</script>
+<div class="header" style=" background: linear-gradient(to bottom, #00356b 0%, #000000 100%); padding: 10px; height: 150px ">
+  <div class="myself" style="float: left; padding-left: 20px">
+  <h1 style="color: white; font-family: Arial; font-size: 50px; margin-bottom: 0px">Ava Polzin</h1>
+  <p style="color: white; font-style: italic">Astronomy PhD Student at Yale University</p>
+  </div>
+  <div class="contact" style="float: right; width: 50%; padding-right: 20px" >
+    <h4 style="color: white; text-align: right; line-height: 20%">Contact:</h4>
+
+    <p style="color: white; font-size: 14px; text-align: right">ava.polzin [at] yale.edu</p>
+    <div class=links style="float:right">
+    <a href="https://www.linkedin.com/in/ava-polzin-978a0584/"><i class="fa fa-linkedin" style="color: white"></i></a>
+    &nbsp;
+    </div>
+
+  </div>
+</div>
+
+<div class="container">
+  <a href="index.html">Home</a>
+  <a href="cv.html">CV</a>
+  <a href="research.html">Research</a>
+  <a href="otherinterests.html">Other Interests</a>
+</div>
+
+<div class="block1" style="background-color: #e5eaf0; position: absolute; margin-right: 50px;">
+  <div class="me">
+     <img src="AvaEmma.jpg" style="float: right; width: 30%; padding: 50px;">
+  </div>
+
+
+  <div class="description" style="padding: 50px;">
+    <h2 style="font-family: Arial"> About </h2>
+
+    <p>I'm a PhD student in Astronomy at Yale University, focusing on extragalactic astrophysics and cosmology. A lifelong resident of the Chicago area, I graduated from Northwestern University in 2018 (with a degree in Physics &amp; Astronomy and a minor in Earth &amp; Planetary Sciences) after a couple-of-year detour to Los Angeles to learn from, and work under, the best of the best in the music industry. When I'm not engaged in the usual graduate student activities (research, teaching, etc.), I'm wholly committed to outreach to underrepresented groups in STEM. </p>
+    
+    <p>
+    Of course, none of this would have been possible without the <a href=https://www.brucefishkinscholarshipfund.com>Bruce Fishkin Scholarship Fund</a>. 
+    Thank you to the Fishkin family for your support, and the educational freedom it allowed.
+  </div>
+
+
+
+
+</div>
+
+
+</body>
+</html>

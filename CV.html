@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <style>
+    body {
+        margin: 50px;
+        background-image: url("m79.jpg")
+    }
+    
+    
+     ul  {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+            
+            	
+	 p{
+        font-size: 18px;
+        line-height: 130%
+    } 
+        
+    .container {
+    overflow: hidden;
+    background-color: #00356b;
+    font-family: Arial;
+    }
+
+    .container a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+
+    .dropdown {
+    float: left;
+    overflow: hidden; 
+    }
+
+    .dropdown .dropbtn {
+    cursor: pointer;
+    font-size: 16px;    
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    }
+
+    .container a:hover, .dropdown:hover .dropbtn {
+    background-color: #005bb8;
+    }
+
+    .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #00356b;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    }
+
+    .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    }
+
+    .dropdown-content a:hover {
+    background-color: #ddd;
+    }
+
+    .show {
+    display: block;
+    }
+    
+    </style>
+    
+    <title>CV | Ava Polzin</title>
+
+   <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">     
+</head>
+
+<body>
+
+<script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+    var myDropdown = document.getElementById("myDropdown");
+      if (myDropdown.classList.contains('show')) {
+        myDropdown.classList.remove('show');
+      }
+  }
+};
+</script>
+
+<div class="header" style=" background: linear-gradient(to bottom, #00356b 0%, #000000 100%); padding: 10px; height: 150px ">
+  <div class="myself" style="float: left; padding-left: 20px">
+  <h1 style="color: white; font-family: Arial; font-size: 50px; margin-bottom: 0px">Ava Polzin</h1>
+  <p style="color: white; font-style: italic">Astronomy PhD Student at Yale University</p>
+  </div>
+  <div class="contact" style="float: right; width: 50%; padding-right: 20px" >
+    <h4 style="color: white; text-align: right; line-height: 20%">Contact:</h4>
+
+    <p style="color: white; font-size: 14px; text-align: right">ava.polzin [at] yale.edu</p>
+    <div class=links style="float:right">
+    <a href="https://www.linkedin.com/in/ava-polzin-978a0584/"><i class="fa fa-linkedin" style="color: white"></i></a>
+    </div>
+
+  </div>
+</div>
+
+<div class="container">
+  <a href="index.html">Home</a>
+  <a href="cv.html">CV</a>
+  <a href="research.html">Research</a>
+  <a href="otherinterests.html">Other Interests</a>
+</div>
+
+
+<div class="block1" style="position: absolute; background-color: #e5eaf0; margin-right: 50px">
+
+<div class=desc style="width: 75%; margin: 0 auto; padding-top: 50px">
+<h2 style="font-family: Arial">(Abridged) CV</h2>
+
+A more comprehensive PDF of my CV is available <a href="cv.pdf">here</a>.
+
+<p></p>
+<h3 style="font-family: Arial">Research Experience</h3>
+<p></p>
+
+<b>Graduate Research Assistant (Newburgh Group)</b>, Yale University Department of Physics, June 2020 - Present<br>
+
+<p><font size="3">Supervisors: Dr. Laura Newburgh </font></p>
+
+<p><font size="3">Working on the Canadian Hydrogen Intensity Mapping Experiment (CHIME) pipeline.</font></p>
+
+<b>Graduate Research Assistant (van Dokkum Group)</b>, Yale University Department of Astronomy, August 2019 - Present<br>
+
+<p><font size="3">Supervisors: Dr. Pieter van Dokkum </font></p>
+
+<p><font size="3">Observational extragalactic astrophysics focused on dwarf galaxies.</font></p>
+
+<b>Research Assistant (Margutti Group)</b>, Center for Interdisciplinary Exploration
+and Research in Astrophysics (CIERA), Northwestern University, January 2019 - July 2019<br>
+
+<p><font size="3">Supervisors: Dr. Raffaella Margutti </font></p>
+
+<p><font size="3">Worked on a review of X-ray transients in the duration-luminosity phase space.</font></p>
+
+<b>Intern, Vera Rubin Observatory (formerly Large Synoptic Survey Telescope)</b>, Center for Interdisciplinary Exploration
+and Research in Astrophysics (CIERA), Northwestern University, June 2017 - July 2019<br>
+
+<p><font size="3">Supervisors: Dr. Aaron Geller and Dr. Adam Miller </font></p>
+
+<p style="margin-bottom:1.5cm;"><font size="3">Used python code (based in the packages ellc and gatspy) with a full-scale 
+galactic simulation to determine a new minimum prediction for the Legacy Survey of Space and Time's eclipsing binary yield over its 
+ten-year run. This research is fleshed out by determining the factors that impact binary detection 
+and looking further at the idea of accurate identification of both binaries and their periods.</font></p>
+<p></p>
+
+<p></p>
+<p></p>
+
+<h3 style="font-family: Arial">Teaching Experience</h3>
+<p></p>
+
+<b>Lead Instructor</b>, Yale Young Global Scholars, Yale University Office of International Affairs, Summer 2020
+
+<p><font size="3">Supervisors: Dr. Jemilat Salami-Oyenuga </font></p>
+
+<p><font size="3">Designed and implemented seminars about astrophysics and the history of astrophysics targeted at advanced high school students (e.g., <i>Introduction to Extragalactic Astrophysics</i> and <i>Astronomy Sans the White Dudes</i>). </font></p>
+
+<b>Teaching Assistant</b>, Yale Summer Program in Astrophysics, Yale University Department of Astronomy, Summers 2019 and 2020
+
+<p><font size="3">Supervisors: Dr. Michael Faison </font></p>
+
+<p><font size="3">Mentor students in their research projects, aid with assignments (both in a tutoring capacity and a grading one), and serve as telescope Time Allocation Committee (TAC). During Summer 2019, oversaw/ran nightly observing sessions. </font></p>
+
+<b>Graduate Teaching Fellow</b>, Yale University Department of Astronomy, August 2019 - Present
+
+<p><font size="3">-ASTR 110 (Planets & Stars) with Dr. Michael Faison, Fall 2019 (4.6/5.0) </font></p>
+<p><font size="3">-ASTR 170 (Introduction to Cosmology) with Professor Priya Natarajan, Spring 2020 </font></p>
+
+
+<b>Learning Assistant</b>, Searle Center for Advancing Learning and Teaching, Northwestern University, April 2018 - Present
+
+<p><font size="3">Supervisors: Dr. Zosia Krusberg, Taiyo Sogawa </font></p>
+
+<p><font size="3">Attend all lectures and discussions to provide TA-like support to students during introductory physics class. Participating in Professor Zosia Krusberg&#39;s Physics 135-3 pilot of the LA program in Spring 2018. </font></p>
+
+<p></p>
+<b>Peer-Guided Study Group Facilitator</b>, Searle Center for Advancing Learning and Teaching, Northwestern University, September 2017 - Present
+
+<p><font size="3">Supervisor: Borislava Miltcheva </font></p>
+
+<p style="margin-bottom:1.5cm;"><font size="3">Run 2-hour weekly sessions, providing supplemental instruction for introductory physics courses. </font></p>
+
+
+<p></p>
+
+<p></p>
+<p></p>
+<h3 style="font-family: Arial">Selected Publications & Presentations</h3>
+<p></p>
+<p><font size="3"> <i>In preparation for submission to The Astrophysical Journal</i>: Polzin A, Geller A, Miller A, 
+Breivik K. Exploring an Improved Method for Determining LSST&#39;s Eclipsing Binary Yield. 2018.</font> </p>
+<p></p>
+<p><font size="3"> Polzin A, Geller A, Miller A, Breivik K. Exploring an Improved Method for Determining 
+LSST&#39;s Eclipsing Binary Yield. Poster session presented at the Adler Planetarium and Northwestern 
+Department of Physics & Astronomy for the 2017 CIERA REU; 2017 Aug. 17-18; Evanston, IL and Chicago, IL.</font></p>
+<p></p>
+<p><font size="3">Polzin A. Becoming Mar&#237;a Mandinga: The Value of Self-Definition and Its Journey in <i>Of Love and Other Demons</i>. 
+Paper presented at What&#39;s Past Is Prologue: 18th Annual Thematic Option Research Conference; 2015 April 14-15; Los Angeles, CA.</font></p>
+
+</div>
+
+</body>
+</html>
