@@ -34,6 +34,11 @@
   margin: 0;
 }
 
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-1 .u-text-5 {
   margin: 58px 0 0;
 }
@@ -158,7 +163,6 @@
 .u-section-2 .u-group-1 {
   min-height: 310px;
   width: 1129px;
-  height: auto;
   margin: 0 auto;
 }
 
@@ -200,7 +204,6 @@
 @media (max-width: 1199px) {
   .u-section-2 .u-group-1 {
     width: 940px;
-    height: auto;
   }
 
   .u-section-2 .u-text-1 {
