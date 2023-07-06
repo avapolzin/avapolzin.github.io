@@ -1,0 +1,316 @@
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Albert Einstein
+#     - name: Date of Birth
+#       value: 14th March 1879
+#     - name: Languages
+#       value: English, German
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Astronomy & Astrophysics
+      institution: The University of Chicago
+      year: Exp. 2026
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
+    - title: M.S. and M.Phil. in Astronomy (en route)
+      institution: Yale University
+      year: Dec. 2022
+      description:
+        - Dean's Emerging Scholars Fellowship
+        - Transferred to UChicago post-candidacy
+    - title: B.A. in Physics (with honors, concentration in Astronomy)
+      institution: Northwestern University
+      year: Dec. 2018
+      description:
+        # - <a href="/assets/pdf/SeniorThesis_reallyfinal.pdf" target = "blank_" >Thesis&#58; Exploring the Eclipsing Binary Yield of the Large Synoptic Survey Telescope with Prof. Aaron Geller</a>
+        # - "Thesis: Exploring the Eclipsing Binary Yield of the Large Synoptic Survey Telescope with Prof. Aaron Geller"
+        - Thesis&#58; Exploring the Eclipsing Binary Yield of the Large Synoptic Survey Telescope with Prof. Aaron Geller (<a href="/assets/pdf/SeniorThesis_reallyfinal.pdf" target = "blank_" >PDF</a>)
+        - Minor in Earth & Planetary Sciences
+
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Graduate Research Assistant
+      institution: The University of Chicago
+      year: 2022 - Present
+      description: 
+        - "Theory/computation and observation; advisors: Profs. Andrey Kravtsov and Hsiao-Wen Chen"
+        - Focusing on star formation and the baryon cycle in dwarf galaxies.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
+    - title: Graduate Research Assistant
+      institution: Yale University
+      year: 2019 - 2022
+      description:
+        - "Departments of Astronomy and Physics, advisors: Profs. Laura Newburgh and Pieter van Dokkum"
+        - Observational, extragalactic and cosmology research using data from the Canadian Hydrogen Intensity Mapping Experiment (CHIME) and the Dragonfly Telephoto Array.
+
+    - title: Research Assistant
+      institution: Margutti Group, Northwestern University
+      year: 2019
+      description:
+        - "X-ray duration-luminosity phase space; advisor: Prof. Raffaella Margutti"
+        - Worked on comprehensive review of soft X-ray transients and variables to define discovery space for upcoming missions and generate a resource to allow for initial, qualitative classification of transient signals.
+
+    - title: Vera Rubin Observatory Intern
+      institution: Northwestern University
+      year: 2017 - 2019
+      description:
+        - "Time-domain astronomy, simulations; advisor: Prof. Aaron Geller"
+        - Created a Galactic simulation to determine a new minimum prediction for Rubin Observatory’s eclisping binary yield over its ten-year run.
+
+
+    - title: Visiting Undergraduate Researcher
+      institution: Newburgh Lab, Yale University
+      year: Summer 2018
+      description:
+        - "Experimental cosmology research, instrumentation; advisor: Prof. Laura Newburgh"
+        - Examined the feasibility of using drones for calibration and beam-mapping of static Hydrogen Intensity and Real-time Analysis eXperiment (HIRAX) – and CHIME – dishes.
+
+    - title: Undergraduate Research Assistant
+      institution: Micro-X Lab, Northwestern University
+      year: 2016 - 2017
+      description:
+        - "High-energy astroparticle physics, instrumentation; advisors: Prof. Enectali Figueroa-Feliciano, Dr. David Goldfinger, and Dr. Antonia Hubbard"
+        - Primarily worked on Transition Edge Sensors and simulated the helium consumption of the lab’s dewars in advance of sounding rocket launch.
+
+
+    - title: Undergraduate Research Volunteer
+      institution: Nealson Lab, University of Southern California
+      year: Spring 2016
+      description:
+        - "Environmental microbiology, geological sciences; advisors: Prof. Ken Nealson, Dr. Casey Barr"
+        - Intended as training for planned research in environmental microbiology scheduled to be carried out at the Jet Propulsion Lab, Pasadena, CA, Summer 2016. In addition to setting up electrochemical tests, general biology lab experience – making plates, mixing media, isolating samples for re-plating, organizing and cataloging chemical shelves, etc.
+
+
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: CCTL Graduate Fellow
+      institution: Chicago Center for Teaching and Learning, The University of Chicago
+      year: 2023 - Present
+      description: Develop and deliver instruction and programming related to teaching and pedagogy at the University of Chicago.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
+    - title: Lead Instructor
+      institution: Yale Young Global Scholars, Yale University
+      year: 2020 - 2022
+      description:
+        - Design and implement seminars about astrophysics and the history of astrophysics targeted at advanced high school students (e.g., “Introduction to Extragalactic Astrophysics” and “Astronomy Sans the White Dudes”.)
+        - Invited to deliver sample seminar for new instructors, “Introduction to Extragalactic Astrophysics,” at YYGS Spring Training (March 5, 2022). Included analysis of seminar design and presentation.
+        - Evaluations&#58; <a href="/assets/evals/YYGS2020.pdf" target = "blank_" >2020</a>, <a href="/assets/evals/YYGS2021.pdf" target = "blank_" >2021</a>, and <a href="/assets/evals/YYGS2022.pdf" target = "blank_" >2022</a>
+
+    - title: Certificate of College Teaching Preparation
+      institution: Poorvu Center for Teaching & Learning, Yale University
+      year: 2022
+      description:
+        - Meets the requirements for CIRTL Associate, as well.
+
+    - title: Graduate Teaching Fellow
+      institution: Yale University
+      year: 2019 - 2021
+      description:
+        - ASTR 110&#58; Planets & Stars with Dr. Michael Faison, Fall 2019 (<a href="/assets/evals/ASTR110_Fall2019.pdf" target = "blank_" >4.6/5.0</a>)
+        - ASTR 170&#58; Introduction to Cosmology with Prof. Priya Natarajan, Spring 2020 (<a href="/assets/evals/ASTR170_Spring2020.pdf" target = "blank_" >N/A due to COVID-19</a>)
+        - ASTR 110&#58; Planets & Stars with Dr. Michael Faison, Fall 2020 (<a href="/assets/evals/ASTR110_Fall2020.pdf" target = "blank_" >4.7/5.0</a>)
+        - ASTR 255/PHYS 295&#58; Research Methods in Astrophysics with Prof. Héctor Arce, Fall 2021 (<a href="/assets/evals/ASTR255_Fall2021.pdf" target = "blank_" >4.1/5.0</a>)
+
+
+    - title: Teaching Assistant
+      institution: Yale Summer Program in Astrophysics, Yale University
+      year: 2019 - 2020
+      description: Mentor students in their research projects, aid with assignments (both in a tutoring capacity and a grading one), and serve as telescope Time Allocation Committee (TAC). During Summer 2019, oversaw/ran nightly observing sessions at the Leitner Family Observatory and Planetarium.
+
+
+    - title: Grader
+      institution: Department of Physics & Astronomy, Northwestern University
+      year: Winter 2019
+      description: Graded assignments for Physics 330-2 (Classical Mechanics) with Prof. Nathaniel Stern, Winter 2019.
+
+
+    - title: Peer-Guided Study Group Facilitator
+      institution: Academic Support and Learning Advancement (Searle Center for Advancing Learning & Teaching), Northwestern University
+      year: 2017 - 2019
+      description:
+        - Led small group sessions supplemental to general physics courses. Worked with Prof. David Taylor’s and Prof. Art Schmidt’s classes for Fall 2017 and Prof. Deborah Brown’s classes Winter 2018 to Spring 2019.
+        - Selected to serve on student panel at annual ASLA New Faculty Workshop (September 21, 2018) and returning student leader panel at annual Peer Leader Training (September 26, 2018).
+
+    - title: N’Cat Tutor
+      institution: Northwestern Athletics, Northwestern University
+      year: 2017 - 2019
+      description: Tutored student athletes in physics, astronomy, math, music, and earth science courses. Worked both one-on-one and with groups.
+
+    - title: Learning Assistant
+      institution: Searle Center for Advancing Learning & Teaching, Northwestern University
+      year: Spring 2018
+      description: Attended all lectures and discussions to provide TA-like support to students during introductory physics class. Participated in Prof. Zosia Krusberg’s Physics 135-3 pilot of the Learning Assistant program.
+
+
+- title: Accepted Proposals
+  type: time_table
+  contents:
+    - title: Elucidating galaxy quenching in low-mass dwarfs
+      institution: "Magellan/IMACS (Submitter/Co-I; PI: Chen)"
+      year: 2023A
+      description: Graduate students are not able to PI Magellan proposals at UChicago, so “submitter” indicates primary responsibility.
+    - title: Elucidating galaxy quenching with absorption probes of halos around low-mass dwarfs
+      institution: HST AR-17049 (PI)
+      year: Cycle 30
+    - title: A galaxy apparently formed by star formation in massive, extremely dense clumps of gas
+      institution: "Keck LRIS + KCWI (Co-I, PI: van Dokkum)"
+      year: 2022A
+    - title: Radial velocities of low mass galaxies from broad slit spectroscopy with LRIS
+      institution: "Keck LRIS (Co-I; PI: van Dokkum)"
+      year: 2021B
+    - title: A nearby globular cluster-rich ultra diffuse galaxy
+      institution: "Keck LRIS + KCWI (Co-I; PI: van Dokkum)"
+      year: 2020A
+    
+- title: Observing and Computing Experience
+  type: time_table
+  contents:
+    - title: Dragonfly Telephoto Array
+      year: 52 nights
+    - title: Keck/LRIS
+      year: 2 nights
+    - title: Keck/NIRES
+      year: 2 nights
+    - title: Magellan/IMACS
+      year: 3 nights
+    - title: Magellan/LDSS3
+      year: 1 night
+    - title: Palomar/TripleSpec
+      year: 2 nights
+    - title: Midway High Performance Computing Cluster
+      institution: The University of Chicago
+      year: 2022 - Present
+    - title: Cedar High Performance Computing Cluster
+      institution: Compute Canada
+      year: 2020 - 2022
+    - title: Quest High Performance Computing Cluster
+      institution: Northwestern University
+      year: 2017 - 2019
+
+- title: Selected Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - WGAP Fellowship, IAU North American Regional Office of Astronomy for Development 
+        - Alternate + Honorable Mention, NAS Ford Foundation Predoctoral Fellowship
+    - year: 2022
+      items: 
+        - Semi-finalist, Quad Fellowship by Schmidt Futures
+        - NASA Illinois Space Grant Consortium Graduate Fellowship
+        - Honorable Mention, NAS Ford Foundation Predoctoral Fellowship
+    - year: 2021
+      items:
+        - Honorable Mention, NSF Graduate Research Fellowship Program
+    - year: 2019
+      items:
+        - Dean’s Emerging Scholars Fellowship, Yale University
+        - Honorable Mention, NSF Graduate Research Fellowship Program
+        # - Center for Native American & Indigenous Research Event Co-Sponsorhip Grant, Northwestern University
+        # - Office of Institutional Diversity & Inclusion Event Sponsorship Grant, Northwestern University
+    - year: 2017
+      items: 
+        - DAAD Research Internship in Science and Engineering
+        - NASA Illinois Space Grant Consortium Undergraduate Fellowship
+    - year: 2015
+      items:
+        - Fulbright Summer Institute (<a href="https://dornsife.usc.edu/news/stories/meet-the-fabulous-fulbrights/" target = "blank_" >USC Dornsife News</a>)
+        - HERLead (formerly ANNpower)/Vital Voices Grant (<a href="https://chicago.suntimes.com/2016/6/24/18440000/illinois-teens-selected-for-national-women-s-mentoring-program" target = "blank_" >Chicago Sun-Times</a>)
+        - USC Academic Achievement Award
+    - year: 2014
+      items:
+        - HERLead/Vital Voices Grant
+        - HERLead Leadership Forum Fellow
+        - USC Deans and University Scholarships
+        - USC Thematic Option Honors Program
+        - USC Resident Honors Program
+        - Bruce Fishkin Scholarship (<a href="https://www.chicagotribune.com/suburbs/lake-county-news-sun/opinion/ct-lns-rutter-libertyville-ava-polzin-st-1021-20151020-column.html" target = "blank_" >Chicago Tribune</a>)
+
+
+
+# - title: Experience
+#   type: time_table
+#   contents:
+#     - title: Professor of Theoretical Physics
+#       institution: Institute for Advanced Study, Princeton University
+#       year: 1933 - 1955
+#       description:
+#         - Description 1.
+#         - Description 2.
+#         - title: Description 3.
+#           contents:
+#             - Sub-description 1.
+#             - Sub-description 2.
+#     - title: Visiting Professor
+#       institution: California Institute of Technology, Pasadena, California, US
+#       year: 1933
+#       description:
+#         - Description 1.
+#         - Description 2.
+
+#     - title: Director
+#       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+#       year: 1917-1933
+
+#     - title: Professor of Theoretical Physics
+#       institution: Karl-Ferdinand University, Prague, Czechoslovakia
+#       year: 1911 - 1917
+#       description:
+
+#     - title: Associate Professor of Theoretical Physics
+#       institution: University of Zurich, Zurich, Switzerland
+#       year: 1909 - 1911
+
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
