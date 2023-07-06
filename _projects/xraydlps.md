@@ -61,7 +61,7 @@ You can also play with an interactive version of the full DLPS above or some of 
 {% details E<sub>iso</sub> vs. Duration %}
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe src="{{ '/assets/plotly/interactive_dlps_eisodur.html' | relative_url }}" frameborder='0' scrolling='no' height="630px" width="120%"></iframe>
+        <iframe src="{{ '/assets/plotly/interactive_dlps_eisodur.html' | relative_url }}" frameborder='0' scrolling='no' width="100vw" height="80vh"></iframe>
     </div>
 </div>
 {% enddetails %}
