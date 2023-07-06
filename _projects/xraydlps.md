@@ -20,8 +20,8 @@ category: Time-Domain Astronomy
     An interactive version of the soft X-ray DLPS. To toggle individual classes on and off, click on items in the legend. Double click on one item to show only that class (double click the legend again and all classes will be turned on). Mousing over a light curve will show the name of the event. You can also zoom and pan.
 </div>
 
-<!-- [Polzin et al. submitted](https://ui.adsabs.harvard.edu/abs/2022arXiv221101232P/abstract)
-{: style="font-size: 110%; text-align: center;"} -->
+[Polzin et al. submitted](https://ui.adsabs.harvard.edu/abs/2022arXiv221101232P/abstract)
+{: style="font-size: 110%; text-align: center;"}
 
 In this paper, we give an overview of transient and variable phenomena in the 0.3 - 10 keV band, looking at gamma-ray bursts, shock breakouts, supernovae, tidal disruption events, active galactic nuclei, fast blue optical transients, cataclysmic variables (like novae and dwarf novae), magnetar flares and outbursts, fast radio bursts, cool stellar flares, X-ray binaries, and ultraluminous X-ray sources.
 
