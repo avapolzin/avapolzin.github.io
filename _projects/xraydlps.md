@@ -45,7 +45,7 @@ You can also play with an interactive version of the full DLPS above or some of 
 {% details L<sub>x</sub> vs. t<sub>1/2</sub> %}
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe src="{{ '/assets/plotly/interactive_dlps_lxthalf.html' | relative_url }}" frameborder='0' scrolling='no' height="630px" width="125%"></iframe>
+        <iframe src="{{ '/assets/plotly/interactive_dlps_lxthalf.html' | relative_url }}" frameborder='0' scrolling='no' height="630px" width="150%"></iframe>
     </div>
 </div>
 {% enddetails %}
