@@ -13,5 +13,3 @@ $max-content-width: {{ site.max_width }};
   "base",
   "distill"
 ;
-
-$( '#iframe' ).attr( 'src', function ( i, val ) { return val; });
