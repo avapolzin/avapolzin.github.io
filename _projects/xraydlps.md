@@ -12,7 +12,7 @@ category: Time-Domain Astronomy
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <!-- <iframe src="{{ '/assets/plotly/demo.html' | relative_url }}" frameborder='0' scrolling='no' height="500px" width="100%" style="border: 1px dashed grey;"></iframe> -->
-        <iframe src="{{ '/assets/plotly/interactive_dlps.html' | relative_url }}" frameborder='0' scrolling='no' height="630px" width="120%"></iframe>
+        <iframe src="{{ '/assets/plotly/interactive_dlps.html' | relative_url }}" frameborder='0' scrolling='no' height="630px" width="840px"></iframe>
     </div>
 </div>
 
@@ -37,7 +37,7 @@ You can also play with an interactive version of the full DLPS above or some of 
 <!-- Somewhat more crowded, but very useful for more detailed examination! -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe src="{{ '/assets/plotly/interactive_dlps_subclasses.html' | relative_url }}" frameborder='0' scrolling='no' height="630px" width="120%"></iframe>
+        <iframe src="{{ '/assets/plotly/interactive_dlps_subclasses.html' | relative_url }}" frameborder='0' scrolling='no' height="630px" width="840px"></iframe>
     </div>
 </div>
 {% enddetails %}
