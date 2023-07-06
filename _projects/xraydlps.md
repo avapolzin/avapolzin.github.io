@@ -37,7 +37,7 @@ You can also play with an interactive version of the full DLPS above or some of 
 <!-- Somewhat more crowded, but very useful for more detailed examination! -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <embed src="{{ '/assets/plotly/interactive_dlps_subclasses.html' | relative_url }}" frameborder='0' scrolling='no' height="630px" width="120%"></iframe>
+        <embed src="{{ '/assets/plotly/interactive_dlps_subclasses.html' | relative_url }}" frameborder='0' scrolling='no' height="630px" width="120%"/>
     </div>
 </div>
 {% enddetails %}
@@ -45,7 +45,7 @@ You can also play with an interactive version of the full DLPS above or some of 
 {% details L<sub>x</sub> vs. t<sub>1/2</sub> %}
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe src="{{ '/assets/plotly/interactive_dlps_lxthalf.html' | relative_url }}" frameborder='0' scrolling='no' height="610pt" width="800pt"></iframe>
+        <embed src="{{ '/assets/plotly/interactive_dlps_lxthalf.html' | relative_url }}" frameborder='0' scrolling='no' height="630px" width="120%"/>
     </div>
 </div>
 {% enddetails %}
@@ -53,7 +53,7 @@ You can also play with an interactive version of the full DLPS above or some of 
 {% details Subclass-highlighted L<sub>x</sub> vs. t<sub>1/2</sub> %}
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe src="{{ '/assets/plotly/interactive_dlps_lxthalf_subclasses.html' | relative_url }}" frameborder='0' scrolling='no' height="630px" width="120%"></iframe>
+        <embed src="{{ '/assets/plotly/interactive_dlps_lxthalf_subclasses.html' | relative_url }}" frameborder='0' scrolling='no' height="630px" width="120%"/>
     </div>
 </div>
 {% enddetails %}
@@ -61,7 +61,7 @@ You can also play with an interactive version of the full DLPS above or some of 
 {% details E<sub>iso</sub> vs. Duration %}
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe src="{{ '/assets/plotly/interactive_dlps_eisodur.html' | relative_url }}" frameborder='0' scrolling='no' width=100 height=100></iframe>
+        <embed src="{{ '/assets/plotly/interactive_dlps_eisodur.html' | relative_url }}" frameborder='0' scrolling='no' height="630px" width="120%"/>
     </div>
 </div>
 {% enddetails %}
@@ -70,7 +70,7 @@ You can also play with an interactive version of the full DLPS above or some of 
 {% details Subclass-highlighted E<sub>iso</sub> vs. Duration %}
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe src="{{ '/assets/plotly/interactive_dlps_eisodur_subclasses.html' | relative_url }}" frameborder='0' scrolling='no' height="630px" width="120%"></iframe>
+        <embed src="{{ '/assets/plotly/interactive_dlps_eisodur_subclasses.html' | relative_url }}" frameborder='0' scrolling='no' height="630px" width="120%"/>
     </div>
 </div>
 {% enddetails %}
@@ -78,7 +78,7 @@ You can also play with an interactive version of the full DLPS above or some of 
 {% details DFPS %}
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe src="{{ '/assets/plotly/interactive_dfps.html' | relative_url }}" frameborder='0' scrolling='no' height="630px" width="120%"></iframe>
+        <embed src="{{ '/assets/plotly/interactive_dfps.html' | relative_url }}" frameborder='0' scrolling='no' height="630px" width="120%"/>
     </div>
 </div>
 {% enddetails %}
@@ -87,7 +87,7 @@ You can also play with an interactive version of the full DLPS above or some of 
 {% details Subclass-highlighted DFPS %}
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe src="{{ '/assets/plotly/interactive_dfps_subclasses.html' | relative_url }}" frameborder='0' scrolling='no' height="630px" width="120%"></iframe>
+        <embed src="{{ '/assets/plotly/interactive_dfps_subclasses.html' | relative_url }}" frameborder='0' scrolling='no' height="630px" width="120%"/>
     </div>
 </div>
 {% enddetails %}
