@@ -31,7 +31,7 @@ We also take this opportunity to look at the performance parameters of various s
 
 Data used in the paper are available on [GitHub](https://github.com/avapolzin/X-rayLCs) along with a package (`xraydlps`) intended to help with plotting and, *very preliminary*, classification from X-ray light curves.
 
-You can also play with an interactive version of the full DLPS above or some of the other phase space plots below.
+You can also play with an interactive version of the full DLPS above or some of the other phase space plots below (note: if you are using Firefox as a browser, the interactive plots may not appear in full; switching to Safari or Chrome -- or Chrome products like Brave -- should fix it).
 
 {% details Subclass-highlighted DLPS %}
 <!-- Somewhat more crowded, but very useful for more detailed examination! -->
