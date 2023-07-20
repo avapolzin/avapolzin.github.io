@@ -75,6 +75,7 @@ In a past life, my research was focused on time-domain astronomy (it's where my 
 In my spare time, I enjoy working on more computationally oriented projects that will hopefully be useful to the larger community. A few such projects are in the works right now, so do check back for updates.
 - [`albumpl`](https://github.com/avapolzin/albumpl) -- Custom matplotlib color palettes based on album covers.
 - [`neighborhood`](https://github.com/avapolzin/neighborhood) -- Crossmatch a field with existing galaxy catalogs and check virial coverage. (This idea was spun off of a function in [`uwstatus`](https://github.com/avapolzin/UWSStatusSearch), my package for checking the status of Dragonfly UW observations and cross-matching UW fields with existing galaxy catalogs.)
+- [`teltrace`](https://github.com/ben-sappey/teltrace) -- Recover temperature and pressure of exoplanet atmospheres from Voigt profile fitting of telluric lines. (Made during Code/Astro 2023.)
 
 Some software comes out of the course of my usual work, too!
 - [`xraydlps`](https://github.com/avapolzin/X-rayLCs) -- Plot and classify X-ray transient light curves. (*Will be made public when the paper is accepted.*)
