@@ -24,7 +24,7 @@ This project was started during the 2021 La Serena School for Data Science, and 
 
 In conjunction with the ALeRCE team and under the supervision of Prof. Francisco Förster Burón, we trained a convolutional neural network to rapidly associate transient signals with candidate host galaxies, which is vital for gaining preliminary redshift information.
 
-Our deep learning method (which employs the CNN to identify a transient's host from survey postage stamps) consistently does as well as, or better than, predicting hosts fron normalized distances or gradient ascent measurements.
+Our deep learning method (which employs the CNN to identify a transient's host from survey postage stamps) consistently does as well as, or better than, predicting hosts from normalized distances or gradient ascent measurements.
 
 DELIGHT was featured in [El Mostrador](https://www.elmostrador.cl/cultura/2023/01/11/broker-astronomico-chileno-alerce-crea-herramienta-para-identificar-de-forma-automatica-las-galaxias-donde-se-producen-nuevas-supernovas/) and [Nova Ciencia](https://novaciencia.es/la-herramienta-para-identificar-de-forma-automatica-las-galaxias-donde-se-producen-nuevas-supernovas/).
 

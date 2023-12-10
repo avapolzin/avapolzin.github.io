@@ -12,7 +12,7 @@ horizontal: false
 
 My research focus is broadly galaxy evolution and cosmology. I have been a member of the Canadian Hydrogen Intensity Mapping Experiment and the Dragonfly Telephoto Array team, and I am the X-ray Transients Sub-Group lead for the High Energy X-ray Probe ([HEX-P](https://hexp.org)) proposal team.
 
-I am interested in understanding the processes that impact star formation and the baryon cycle in low mass, low metallicity galaxies. I use both observations (of stellar populations and the gas in and around galaxies) and simulations to more holistically study the conditions under which star formation proceeds (or doesn't!) in dwarf galaxies. 
+I am interested in understanding the processes that impact star formation and the baryon cycle in low mass, low metallicity galaxies. I use both observations (of stellar populations and the gas in and around galaxies) and simulations to more holistically study the conditions under which star formation proceeds (or doesn't!) in local dwarf galaxies and galaxies at high redshift. An up-to-date list of quenched, isolated dwarf galaxy candidates and their inferred physical properties is available [here](https://avapolzin.github.io/projects/quench_list/).
 
 See below for some research highlights (with brief summaries) and a list of publications.
 
@@ -74,11 +74,11 @@ In a past life, my research was focused on time-domain astronomy (it's where my 
 
 In my spare time, I enjoy working on more computationally oriented projects that will hopefully be useful to the larger community. A few such projects are in the works right now, so do check back for updates.
 - [`albumpl`](https://github.com/avapolzin/albumpl) -- Custom matplotlib color palettes based on album covers.
-- [`neighborhood`](https://github.com/avapolzin/neighborhood) -- Crossmatch a field with existing galaxy catalogs and check virial coverage. (This idea was spun off of a function in [`uwstatus`](https://github.com/avapolzin/UWSStatusSearch), my package for checking the status of Dragonfly UW observations and cross-matching UW fields with existing galaxy catalogs.)
-- [`teltrace`](https://github.com/ben-sappey/teltrace) -- Recover temperature and pressure of exoplanet atmospheres from Voigt profile fitting of telluric lines. (Made during Code/Astro 2023.)
+- [`angelus`](https://github.com/avapolzin/angelus) -- Crossmatch a field with existing galaxy catalogs and check virial coverage. (This idea was spun off of a function in [`uwstatus`](https://github.com/avapolzin/UWSStatusSearch), my package for checking the status of Dragonfly UW observations and cross-matching UW fields with existing galaxy catalogs.)
+<!-- - [`teltrace`](https://github.com/ben-sappey/teltrace) -- Recover temperature and pressure of exoplanet atmospheres from Voigt profile fitting of telluric lines. (Made during Code/Astro 2023.) -->
 
 Some software comes out of the course of my usual work, too!
-- [`xraydlps`](https://github.com/avapolzin/X-rayLCs) -- Plot and classify X-ray transient light curves. (*Will be made public when the paper is accepted.*)
+- [`xraydlps`](https://github.com/avapolzin/X-rayLCs) -- Plot and classify X-ray transient light curves.
 - [`silkscreen`](https://github.com/tbmiller-astro/silkscreen) -- Infer properties of dwarf galaxies and star clusters from survey imaging using simulation-based inference.
 - [`delight`](https://github.com/fforster/DELIGHT) -- Deep Learning Identification of Galaxy Hosts in Transients
 

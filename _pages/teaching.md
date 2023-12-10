@@ -16,7 +16,9 @@ I'm very passionate about STEM education and pedagogical practices, especially a
 
 In May 2022, I earned a Certificate of College Teaching Preparation from the Yale University Poorvu Center for Teaching and Learning, which also meets the requirements for CIRTL Associate.  And, to the end of better conveying complex material to learners (and the public in an outreach capacity), I earned a Certificate in Science Communication through the Northwestern University Center for Interdisciplinary Exploration and Research in Astrophysics SCOPE program in June 2022.
 
-I also maintain [astroteaching.github.io](https://astroteaching.github.io){:target = "blank_"}, where I have aggregated various open source course materials and visualizations/resources to make it easier for other instructors to find. Please feel free to e-mail me if you'd like to see something added!
+I also maintain [astroteaching.github.io](https://astroteaching.github.io){:target = "_blank"}, where I have aggregated various open source course materials and visualizations/resources to make it easier for other instructors to find. Please feel free to e-mail me if you'd like to see something added!
+
+I recently led an effort by more than 30 (!!) women to create a primer on astrophysics for students interested in pursuing the field. An online version of that book is available [here](https://arxiv.org/abs/2312.04041){:target="_blank"}.
 
 
 Below is a list of my specific teaching involvements (past + present); evaluations are linked where available.
@@ -32,30 +34,30 @@ I am a Graduate Fellow of the Chicago Center for Teaching & Learning. As a Fello
 #### Yale University
 
 **Lead Instructor**, Yale Young Global Scholars, 2020 - 2022
-- Summer 2020 ([evaluations](/assets/evals/YYGS2020.pdf){:target = "blank_"})
+- Summer 2020 ([evaluations](/assets/evals/YYGS2020.pdf){:target = "_blank"})
 	- STEM11AP: *Astronomy Sans the White Dudes*
 	- STEM12AP: *Introduction to Extragalactic Astrophysics*
 	- STEM13AP: *Physics Sans the White Dudes*
 	- STEM14AP: *Introduction to Stellar Astrophysics*
 
-- Summer 2021 ([evaluations](/assets/evals/YYGS2021.pdf){:target = "blank_"})
+- Summer 2021 ([evaluations](/assets/evals/YYGS2021.pdf){:target = "_blank"})
 	- IST21AvaP/IST31AvaP: *Introduction to Extragalactic Astrophysics*
 	- IST22AvaP/IST32AvaP: *Monetizing Misinformation -- what happens when astronomers sell out the science* 
 	- IST23AvaP/IST33AvaP: *Astronomy Sans the White Dudes*
 	- IST24AvaP/IST34AvaP: *Introduction to Stellar Astrophyics*
 
-- Summer 2022 ([evaluations](/assets/evals/YYGS2022.pdf){:target = "blank_"})
+- Summer 2022 ([evaluations](/assets/evals/YYGS2022.pdf){:target = "_blank"})
 	- IST11AvaP: *Introduction to Extragalactic Astrophysics*
 	- IST12AvaP: *Monetizing Misinformation -- what happens when astronomers sell out the science*
 	- IST13AvaP: *The $pace Industry -- Manifest Destiny and the Final Frontier*
 	- IST14AvaP: *Dancing in the Dark -- Exploring the dark sector* 
 
 **Graduate Teaching Fellow**, 2019 - 2021
-- ASTR 110: *Planets & Stars*, Dr. Michael Faison, Fall 2019 ([4.6/5.0](/assets/evals/ASTR110_Fall2019.pdf){: target = "blank_"})
-- ASTR 170: *Introduction to Cosmology*, Prof. Priya Natarajan, Spring 2020 ([N/A due to COVID-19](/assets/evals/ASTR170_Spring2020.pdf){:target = "blank_"})
-- ASTR 110: *Planets & Stars*, Prof. Michael Faison, Fall 2020 ([4.7/5.0](/assets/evals/ASTR110_Fall2020.pdf){:target = "blank_"}) 
-- ASTR255/PHYS295: *Research Methods in Astrophysics*, Prof. Héctor Arce, Fall 2021 ([4.1/5.0](/assets/evals/ASTR255_Fall2021.pdf){:target = "blank_"})
-	- Tutorials created for students in ASTR 255 are available [here](https://github.com/avapolzin/ASTR255_Fall2021){:target = "blank_"}.
+- ASTR 110: *Planets & Stars*, Dr. Michael Faison, Fall 2019 ([4.6/5.0](/assets/evals/ASTR110_Fall2019.pdf){: target = "_blank"})
+- ASTR 170: *Introduction to Cosmology*, Prof. Priya Natarajan, Spring 2020 ([N/A due to COVID-19](/assets/evals/ASTR170_Spring2020.pdf){:target = "_blank"})
+- ASTR 110: *Planets & Stars*, Prof. Michael Faison, Fall 2020 ([4.7/5.0](/assets/evals/ASTR110_Fall2020.pdf){:target = "_blank"}) 
+- ASTR255/PHYS295: *Research Methods in Astrophysics*, Prof. Héctor Arce, Fall 2021 ([4.1/5.0](/assets/evals/ASTR255_Fall2021.pdf){:target = "_blank"})
+	- Tutorials created for students in ASTR 255 are available [here](https://github.com/avapolzin/ASTR255_Fall2021){:target = "_blank"}.
 
 **Teaching Assistant**, Yale Summer Program in Astrophysics, 2019 - 2020
 
@@ -82,7 +84,7 @@ I am a Graduate Fellow of the Chicago Center for Teaching & Learning. As a Fello
 
 # Mentorship
 
-I'm also very interested in good mentorship practices. I have worked with a number of high school students, both through my research involvements in graduate school and through [Polygence](https://www.polygence.org){:target="blank_"}. 
+I'm also very interested in good mentorship practices. I have worked with a number of high school students, both through my research involvements in graduate school and through [Polygence](https://www.polygence.org){:target="_blank"}. 
 
 My past students are listed below. If you are a high schooler interested in working with me through Polygence, just make sure to list me as your preference for mentor when you go through the application process.
 
