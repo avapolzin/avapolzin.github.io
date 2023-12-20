@@ -14,11 +14,11 @@ social: false
 
 I'm very passionate about STEM education and pedagogical practices, especially as they relate to the math hesitant and to traditionally underrepresented groups in the sciences. My teaching statement and sample course materials are available on request.
 
-In May 2022, I earned a Certificate of College Teaching Preparation from the Yale University Poorvu Center for Teaching and Learning, which also meets the requirements for CIRTL Associate.  And, to the end of better conveying complex material to learners (and the public in an outreach capacity), I earned a Certificate in Science Communication through the Northwestern University Center for Interdisciplinary Exploration and Research in Astrophysics SCOPE program in June 2022.
+In May 2022, I earned a Certificate of College Teaching Preparation from the Yale University Poorvu Center for Teaching and Learning, which also meets the requirements for CIRTL Associate.  And, to the end of better conveying complex material to learners (and the public in an outreach capacity), I earned a Certificate in Science Communication through the Northwestern University Center for Interdisciplinary Exploration and Research in Astrophysics SCOPE program in June 2022 and a Kavli SciComm Essentials Certificate from the Kavli Foundation in December 2023.
 
 I also maintain [astroteaching.github.io](https://astroteaching.github.io){:target = "_blank"}, where I have aggregated various open source course materials and visualizations/resources to make it easier for other instructors to find. Please feel free to e-mail me if you'd like to see something added!
 
-I recently led an effort by more than 30 (!!) women to create a primer on astrophysics for students interested in pursuing the field. An online version of that book is available [here](https://arxiv.org/abs/2312.04041){:target="_blank"}.
+I recently led an effort by more than 30 (!!) women to create a primer on astrophysics for students interested in pursuing the field. An online version of that book, *Astronomy as a Field: A Guide for Aspiring Astrophysicists*, is available [here](https://arxiv.org/abs/2312.04041){:target="_blank"}.
 
 
 Below is a list of my specific teaching involvements (past + present); evaluations are linked where available.
@@ -94,18 +94,19 @@ I'm sometimes approached by students for informational interviews; please do rea
 - Rohan S. (Choate Rosemary Hall) -- Integrated light photometry, galaxy morphology, Dragonfly Wide-Field Survey
 
 #### Polygence
-- Anagha R. -- "*Finding the constant of an accelerating universe: the Hubble constant*" (JOURNYS)
-- Cora C. -- "*Fourth order integration of the solar system*"
-- Anirudh K. -- "*A review of black hole X-ray transients*"
-- Jacqueline H. -- "*A surface brightness profile of M31 from archival SDSS data*" (JOURNYS, submitted)
-- Jeshwanth M. -- "*Multi-messenger observability of neutron star binary systems*" (JOURNYS, submitted)
-- Tommaso F. -- "*The correlation between the luminosity of active galactic nuclei and host galaxy parameters"*
+- Anagha R. -- "*Finding the constant of an accelerating universe: the Hubble constant*" (University of Rochester '26; JOURNYS)
+- Cora C. -- "*Fourth order integration of the solar system*" (UCSB Physics)
+- Anirudh K. -- "*A review of black hole X-ray transients*" (UCLA Comp Sci + Math '25')
+- Jacqueline H. -- "*A surface brightness profile of M31 from archival SDSS data*" (UCSD Comp Sci '25; JOURNYS, submitted)
+- Jeshwanth M. -- "*Multi-messenger observability of neutron star binary systems*" (UC Berkeley Engineering Physics '26; JOURNYS, submitted)
+- Tommaso F. -- "*The correlation between the luminosity of active galactic nuclei and host galaxy parameters"* (University of Waterloo Physics and Astronomy '27)
 - Saanvi K. -- "*A review of modern X-ray instrumentation*"
 - Gabriel K. -- "*Fitting Luminosity Decay Curves of Long Gamma-Ray Bursts, Short Gamma-Ray Bursts, Magnetar Flares, and Kilonovae"* (in prep for submission to a HS journal)
-- Aaron F. -- "*How do our solar system's planets fit with other exoplanets?"*
+- Aaron F. -- "*How do our solar system's planets fit with other exoplanets?"* (Boston University Astronomy '27')
 - Paul B. -- Redshift, radial velocity measurements (in prep for submission to a HS journal)
 - Maitrii P. -- Cosmology
 - Harshitha M. -- "*What evidence points to the existence of Planet 9?"* (in prep for submission to a HS journal)
 - Nishant Kartik N. -- Dark matter
 - Mahika K. -- Sky brightness; correlation with lunar phase, seeing, azimuthal angle
 - Ila B. -- Recovering the X-ray light curve of SNe
+- Zhi Ling (Lauren) C. -- 
