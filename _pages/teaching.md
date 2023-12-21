@@ -91,22 +91,23 @@ My past students are listed below. If you are a high schooler interested in work
 I'm sometimes approached by students for informational interviews; please do reach out if you're interested in learning more about my research or trajectory. One of the most informative things I did as an undergraduate (which I wish I had done even sooner) was cold email astrophysicists at various career stages to chat about their work and path to/through science.
 
 #### Yale University
-- Rohan S. (Choate Rosemary Hall) -- Integrated light photometry, galaxy morphology, Dragonfly Wide-Field Survey
+- Rohan S. (Choate Rosemary Hall externship; now Yale '27) -- Integrated light photometry, galaxy morphology, Dragonfly Wide-Field Survey
 
 #### Polygence
-- Anagha R. -- "*Finding the constant of an accelerating universe: the Hubble constant*" (University of Rochester '26; JOURNYS)
-- Cora C. -- "*Fourth order integration of the solar system*" (UCSB Physics)
-- Anirudh K. -- "*A review of black hole X-ray transients*" (UCLA Comp Sci + Math '25')
-- Jacqueline H. -- "*A surface brightness profile of M31 from archival SDSS data*" (UCSD Comp Sci '25; JOURNYS, submitted)
-- Jeshwanth M. -- "*Multi-messenger observability of neutron star binary systems*" (UC Berkeley Engineering Physics '26; JOURNYS, submitted)
-- Tommaso F. -- "*The correlation between the luminosity of active galactic nuclei and host galaxy parameters"* (University of Waterloo Physics and Astronomy '27)
+- Anagha R. (now University of Rochester Physics and Astronomy '26) -- "*Finding the constant of an accelerating universe: the Hubble constant*" ([JOURNYS](https://issuu.com/journys7/docs/journys_12.2/4){:target="_blank"})
+- Cora C. (now UCSB Physics '25) -- "*Fourth order integration of the solar system*"
+- Anirudh K. (now UCLA Comp Sci + Math '25) -- "*A review of black hole X-ray transients*"
+- Jacqueline H. (now UCSD Comp Sci '25) -- "*A surface brightness profile of M31 from archival SDSS data*" (JOURNYS, submitted)
+- Jeshwanth M. (now UC Berkeley Engineering Physics '26) -- "*Multi-messenger observability of neutron star binary systems*" (JOURNYS, submitted)
+- Tommaso F. (now University of Waterloo Physics and Astronomy '27) -- "*The correlation between the luminosity of active galactic nuclei and host galaxy parameters"* ([Research Archive of Rising Scholars](https://research-archive.org/index.php/rars/preprint/view/37){:target = "_blank"})
 - Saanvi K. -- "*A review of modern X-ray instrumentation*"
 - Gabriel K. -- "*Fitting Luminosity Decay Curves of Long Gamma-Ray Bursts, Short Gamma-Ray Bursts, Magnetar Flares, and Kilonovae"* (in prep for submission to a HS journal)
-- Aaron F. -- "*How do our solar system's planets fit with other exoplanets?"* (Boston University Astronomy '27')
+- Aaron F. (now Boston University Astronomy '27) -- "*How do our solar system's planets fit with other exoplanets?"*
 - Paul B. -- Redshift, radial velocity measurements (in prep for submission to a HS journal)
 - Maitrii P. -- Cosmology
 - Harshitha M. -- "*What evidence points to the existence of Planet 9?"* (in prep for submission to a HS journal)
 - Nishant Kartik N. -- Dark matter
 - Mahika K. -- Sky brightness; correlation with lunar phase, seeing, azimuthal angle
-- Ila B. -- Recovering the X-ray light curve of SNe
-- Zhi Ling (Lauren) C. -- 
+- Ila B. -- Recovering the X-ray light curve of SN 2012ca
+- Zhi Ling (Lauren) C. -- Varying AGN observability with changing physical parameters
+- Inaya K. -- Stellar variability

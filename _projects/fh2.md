@@ -2,7 +2,7 @@
 layout: page
 title: Modeling Molecular Hydrogen in Low Metallicity Galaxies
 description: 
-img: assets/img/fh2.png
+img: assets/img/fh2_crop.png
 importance: 3
 category: Galaxy Evolution
 ---
