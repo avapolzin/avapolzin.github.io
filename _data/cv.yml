@@ -164,10 +164,13 @@
 - title: Accepted Proposals
   type: time_table
   contents:
+    - title: Completing a Southern sky sub-sample of representative dwarf galaxies as a test of the baryon cycle
+      institution: "Magellan/IMACS (Submitter/Co-I; PI: Chen)"
+      year: 2024A
+      description: Graduate students are not able to PI Magellan proposals at UChicago, so “submitter” indicates primary responsibility.
     - title: Elucidating galaxy quenching in low-mass dwarfs
       institution: "Magellan/IMACS (Submitter/Co-I; PI: Chen)"
       year: 2023A
-      description: Graduate students are not able to PI Magellan proposals at UChicago, so “submitter” indicates primary responsibility.
     - title: Elucidating galaxy quenching with absorption probes of halos around low-mass dwarfs
       institution: HST AR-17049 (PI)
       year: Cycle 30
