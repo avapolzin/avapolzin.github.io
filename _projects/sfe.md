@@ -4,7 +4,7 @@ title: Uniformity of Star Formation Efficiency with Local Properties
 description: 
 img: assets/img/sfe.png
 importance: 4
-category: #Galaxy Evolution
+category: Galaxy Evolution
 ---
 
 <div class="row">

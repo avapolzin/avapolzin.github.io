@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CHIME as an Instrument for Studying Galaxy Evolution
-img: assets/img/chime.png
+img: assets/img/chime_clusters.png
 importance: 3
 category: Galaxy Evolution
 ---
