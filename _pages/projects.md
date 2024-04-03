@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 # description: A growing collection of your cool projects.
-years: [2023, 2022, 2021]
+years: [2024, 2023, 2022, 2021]
 nav: true
 nav_order: 2
 display_categories: [Galaxy Evolution, Time-Domain Astronomy]
@@ -80,7 +80,7 @@ In my spare time, I enjoy working on more computationally oriented projects that
 Some software comes out of the course of my usual work, too!
 - [`xraydlps`](https://github.com/avapolzin/X-rayLCs) -- Plot and classify X-ray transient light curves.
 - [`silkscreen`](https://github.com/tbmiller-astro/silkscreen) -- Infer properties of dwarf galaxies and star clusters from survey imaging using simulation-based inference.
-- [`delight`](https://github.com/fforster/DELIGHT) -- Deep Learning Identification of Galaxy Hosts in Transients
+- [`delight`](https://github.com/fforster/DELIGHT) -- Deep Learning Identification of Galaxy Hosts of Transients
 
 <hr style="height:15px; visibility:hidden;" />
 

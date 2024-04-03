@@ -27,7 +27,7 @@ In this paper, we give an overview of transient and variable phenomena in the 0.
 
 We use real light curves to populate the duration-luminosity phase space, and extrapolate from that areas of interest in which theorized or yet-undiscovered signals might exist. We identify L<sub>x</sub> = 10<sup>34</sup> - 10<sup>42</sup> erg s<sup>-1</sup> and t = 10<sup>-4</sup> - 0.1 days as a key discovery phase space in transient X-ray astronomy.
 
-We also take this opportunity to look at the performance parameters of various soft X-ray imaging instruments. Both extremely sensitive and large FOV instruments are key for the future of the field, with wide field instruments enabling serendipitous discovery of transient signals and low flux limits allowing for targeted follow up.
+We also take this opportunity to look at the performance parameters of various soft X-ray imaging instruments. Both extremely sensitive and large FOV instruments are key for the future of the field, with wide field instruments enabling serendipitous discovery of transient signals and instruments with low flux limits allowing for targeted follow up.
 
 Data used in the paper are available on [GitHub](https://github.com/avapolzin/X-rayLCs) along with a package (`xraydlps`) intended to help with plotting and, *very preliminary*, classification from X-ray light curves.
 
