@@ -27,5 +27,4 @@ We also demonstrate that the structure of the interstellar medium is heavily dep
 
 Though our prescriptions accurately describe the behavior of H<sub>2</sub>, we note that these expressions should not be used to directly model star formation. We find that, while the depletion time of molecular hydrogen varies by a factor of >200 across two decades in metallicity, the star formation rate only varies by a factor of 10. In this regime f<sub>H<sub>2</sub></sub> and star formation are not tightly/linearly coupled, and it is likely that the proportion of star formation occuring in atomic (rather than molecular) gas increases at low metallicity.
 
-
-
+Scripts containing the H<sub>2</sub> models are available [here](https://github.com/avapolzin/hydrogen_models){:target="_blank"}.
