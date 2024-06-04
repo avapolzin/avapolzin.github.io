@@ -5,7 +5,6 @@ title: Teaching
 # description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
-# display_categories: [Pedagogical Resources]
 social: false
 ---
 
@@ -20,54 +19,6 @@ In May 2022, I earned a Certificate of College Teaching Preparation from the Yal
 I also maintain [astroteaching.github.io](https://astroteaching.github.io){:target = "_blank"}, where I have aggregated various open source course materials and visualizations/resources to make it easier for other instructors to find. Please feel free to e-mail me if you'd like to see something added!
 
 I recently created a primer on astrophysics for students interested in pursuing the field, involving more than 30 (!!) women in the effort. An online version of that book, *Astronomy as a Field: A Guide for Aspiring Astrophysicists*, is available [here](https://arxiv.org/abs/2312.04041){:target="_blank"}.
-
-<!-- pages/projects.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
-
-{%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
-</div>
 
 
 Below is a list of my specific teaching involvements (past + present); evaluations are linked where available.
