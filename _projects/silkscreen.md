@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "SilkScreen: Dwarf galaxy masses, distances, and metallicities from survey imaging"
+title: "SilkScreen: Dwarf galaxy properties and distances from survey imaging"
 description: 
 img: assets/img/silkscreenlogo.png
 importance: 6
