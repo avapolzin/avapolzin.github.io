@@ -10,7 +10,7 @@ display_categories: [Galaxy Evolution, Time-Domain Astronomy]
 horizontal: false
 ---
 
-My research focus is broadly galaxy evolution and cosmology. I have been a member of the Canadian Hydrogen Intensity Mapping Experiment and the Dragonfly Telephoto Array team, and I am the X-ray Transients Sub-Group lead for the High Energy X-ray Probe ([HEX-P](https://hexp.org)) proposal team.
+My research focus is broadly galaxy evolution and cosmology. I have been a member of the Canadian Hydrogen Intensity Mapping Experiment and the Dragonfly Telephoto Array team, and I am a member of the Time Domain/Multi-Messenger Sub-Group for the High Energy X-ray Probe ([HEX-P](https://hexp.org)) proposal team.
 
 I am interested in understanding the processes that impact star formation and the baryon cycle in low mass, low metallicity galaxies. I use both observations (of stellar populations and the gas in and around galaxies) and simulations to more holistically study the conditions under which star formation proceeds (or doesn't!) in local dwarf galaxies and galaxies at high redshift. An up-to-date list of quenched, isolated dwarf galaxy candidates and their inferred physical properties is available [here](https://avapolzin.github.io/projects/quench_list/).
 

@@ -26,6 +26,6 @@ In conjunction with the ALeRCE team and under the supervision of Prof. Francisco
 
 Our deep learning method (which employs the CNN to identify a transient's host from survey postage stamps) consistently does as well as, or better than, predicting hosts from normalized distances or gradient ascent measurements.
 
-DELIGHT was featured in [El Mostrador](https://www.elmostrador.cl/cultura/2023/01/11/broker-astronomico-chileno-alerce-crea-herramienta-para-identificar-de-forma-automatica-las-galaxias-donde-se-producen-nuevas-supernovas/) and [Nova Ciencia](https://novaciencia.es/la-herramienta-para-identificar-de-forma-automatica-las-galaxias-donde-se-producen-nuevas-supernovas/).
+`DELIGHT` was featured in [El Mostrador](https://www.elmostrador.cl/cultura/2023/01/11/broker-astronomico-chileno-alerce-crea-herramienta-para-identificar-de-forma-automatica-las-galaxias-donde-se-producen-nuevas-supernovas/) and [Nova Ciencia](https://novaciencia.es/la-herramienta-para-identificar-de-forma-automatica-las-galaxias-donde-se-producen-nuevas-supernovas/).
 
-To install DELIGHT, simply follow the instructions on [GitHub](https://github.com/fforster/DELIGHT) or `pip install astro-delight`.
+To install `DELIGHT`, simply follow the instructions on [GitHub](https://github.com/fforster/DELIGHT) or `pip install astro-delight`.

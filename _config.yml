@@ -75,6 +75,7 @@ gitlab_username: # your GitLab user name
 twitter_username: avapolzin # your Twitter handle
 mastodon_username: mastodon.social/@avapolzin # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: ava-polzin-978a0584 # your LinkedIn user name
+bluesky_username: avapolzin.bsky.social
 telegram_username: # your Telegram user name
 scholar_userid: II7NnuoAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -379,7 +380,7 @@ bootstrap:
 bootstrap-table:
   version: "1.21.4"
 fontawesome:
-  version: "6.4.0"
+  version: "6.5.2" #was 6.4.0 in case this doesn't work
   integrity: "sha256-HtsXJanqjKTc8vVQjO4YMhiqFoXkfBsjBWcX91T1jr8="
 jquery:
   version: "3.6.0"

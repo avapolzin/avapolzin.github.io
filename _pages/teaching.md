@@ -5,6 +5,7 @@ title: Teaching
 # description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
+# display_categories: [Pedagogical Resources]
 social: false
 ---
 
@@ -20,6 +21,54 @@ I also maintain [astroteaching.github.io](https://astroteaching.github.io){:targ
 
 I recently created a primer on astrophysics for students interested in pursuing the field, involving more than 30 (!!) women in the effort. An online version of that book, *Astronomy as a Field: A Guide for Aspiring Astrophysicists*, is available [here](https://arxiv.org/abs/2312.04041){:target="_blank"}.
 
+<!-- pages/projects.md -->
+<div class="projects">
+{%- if site.enable_project_categories and page.display_categories %}
+  <!-- Display categorized projects -->
+  {%- for category in page.display_categories %}
+  <h2 class="category">{{ category }}</h2>
+  {%- assign categorized_projects = site.projects | where: "category", category -%}
+  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
+  <!-- Generate cards for each project -->
+  {% if page.horizontal -%}
+  <div class="container">
+    <div class="row row-cols-2">
+    {%- for project in sorted_projects -%}
+      {% include projects_horizontal.html %}
+    {%- endfor %}
+    </div>
+  </div>
+  {%- else -%}
+  <div class="grid">
+    {%- for project in sorted_projects -%}
+      {% include projects.html %}
+    {%- endfor %}
+  </div>
+  {%- endif -%}
+  {% endfor %}
+
+{%- else -%}
+<!-- Display projects without categories -->
+  {%- assign sorted_projects = site.projects | sort: "importance" -%}
+  <!-- Generate cards for each project -->
+  {% if page.horizontal -%}
+  <div class="container">
+    <div class="row row-cols-2">
+    {%- for project in sorted_projects -%}
+      {% include projects_horizontal.html %}
+    {%- endfor %}
+    </div>
+  </div>
+  {%- else -%}
+  <div class="grid">
+    {%- for project in sorted_projects -%}
+      {% include projects.html %}
+    {%- endfor %}
+  </div>
+  {%- endif -%}
+{%- endif -%}
+</div>
+
 
 Below is a list of my specific teaching involvements (past + present); evaluations are linked where available.
 
@@ -27,9 +76,16 @@ Below is a list of my specific teaching involvements (past + present); evaluatio
 
 #### University of Chicago
 
-I am a Graduate Fellow of the Chicago Center for Teaching & Learning. As a Fellow, I am charged with developing and delivering instruction and programming related to teaching and pedagogy to other early career scholars at the University of Chicago. In addition to the other responsibilities of that role, I have held the following positions through the CCTL:
-- **Teaching Mentor**, CCTE 50000: *Course Design and College Teaching*, Autumn 2023
-- **Instructor**, Fundamentals of Teaching in STEM, Winter 2024
+I am a (Senior) Graduate Fellow of the Chicago Center for Teaching & Learning. As a Fellow, I am charged with developing and delivering instruction and programming related to teaching and pedagogy to other early career scholars at the University of Chicago. In addition to the other responsibilities of that role, I have held the following positions through the CCTL:
+- **Instructor**, Teaching@Chicago
+	- *Lecturing for Student Learning*, Autumn 2023
+	- *Effective Lecturing*, Autumn 2024 (upcoming)
+- **Teaching Mentor**, CCTE 50000: *Course Design and College Teaching*
+	- Autumn 2023 with Dr. Samuel Harris
+	- Winter 2025 (upcoming)
+- **Instructor**, Fundamentals of Teaching in STEM
+	- Winter 2024
+	- Autumn 2024 (upcoming)
 - **Founder/Facilitator**, Pedagogy in the Physical Sciences talk series, 2024 - Present
 
 <hr style="height:1px; visibility:hidden;" />
@@ -92,14 +148,15 @@ I'm also very interested in good mentorship practices. My current + past student
 I'm sometimes approached by students for informational interviews; please do reach out if you're interested in learning more about my research or trajectory. One of the most informative things I did as an undergraduate (which I wish I had done even sooner) was cold email astrophysicists at various career stages to chat about their work and path to/through science.
 
 ### University of Chicago
-- Catherine Mah (Hong Kong University Physics '25, exchange student at UChicago) -- Recovering photometry and structural properties for a diverse sample of dwarf galaxies; work conducted in the Chen group
+- Catherine Mah (Hong Kong University Physics '25, exchange student at UChicago) -- Recovering photometry and structural properties for a diverse sample of dwarf galaxies
+- Vicky Bardon Soto (University of Chicago '27) -- Analyzing spatially resolved optical spectra of low-mass dwarf galaxies
 
 
 I have also worked with a number of high school students, both through my research involvements in graduate school and through [Polygence](https://www.polygence.org){:target="_blank"}. If you are a high schooler interested in working with me through Polygence, just make sure to list me as your preference for mentor when you go through the application process.
 
 #### Yale University
-- Rohan S. (Choate Rosemary Hall externship; now Yale '27) -- Integrated light photometry, galaxy morphology, Dragonfly Wide-Field Survey; work conducted in the van Dokkum group
-<!-- - Jack P. (Windward School) -- 21cm, neutral hydrogen detection/mapping; work conducted in the Newburgh group -->
+- Rohan S. (Choate Rosemary Hall externship; now Yale '27) -- Integrated light photometry, galaxy morphology, Dragonfly Wide-Field Survey
+
 
 #### Polygence
 - Anagha R. (Millburn High School; now University of Rochester Physics and Astronomy '26) -- "*Finding the constant of an accelerating universe: the Hubble constant*" ([JOURNYS](https://issuu.com/journys7/docs/journys_12.2/4){:target="_blank"})
@@ -121,3 +178,5 @@ I have also worked with a number of high school students, both through my resear
 - Inaya K. (Homeschooled) -- Neutron stars
 - Jonathan S. (The Science Academy STEM Magnet) -- Recovering the role of AGN feedback from IllustrisTNG
 - Jack P. (Windward School) -- Galactic 21 cm measurements with homemade setup (improvement on Fong+23) 
+- Cameron H. (Palisades Charter High School) -- Inferring globular cluster stellar population ages from resolved photometry
+- Anya P. (Irvington High School)
