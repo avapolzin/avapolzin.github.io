@@ -4,7 +4,7 @@ title: "SilkScreen: Dwarf galaxy masses, distances, and metallicities from surve
 description: 
 img: assets/img/silkscreenlogo.png
 importance: 6
-category: 
+category: Galaxy Evolution
 ---
 
 <div class="row">
