@@ -16,7 +16,7 @@ category: Galaxy Evolution
     This image can also have a caption. It's like magic.
 </div> -->
 
-[Miller, Pasha, Polzin, & van Dokkum 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240704091M/abstract)
+[Miller, Pasha, Polzin, & van Dokkum (2024)](https://ui.adsabs.harvard.edu/abs/2024arXiv240704091M/abstract)
 {: style="font-size: 110%; text-align: center;"}
 
 Dwarf galaxies represent a fascinating, but challenging regime for observational study. New low surface brightness-optimized instruments have enabled us to detect and follow-up extremely faint, low mass galaxies. Recovering distances to such galaxies remains particularly difficult as they're intrinsically faint, posing problems for TRGB estimates; blue enough for SBF relations to be poorly calibrated; and often nearby enough for peculiar velocities to preclude easy distance determination from radial velocities. At the same time, accurate distance estimation is crucial for inferring physical properties.

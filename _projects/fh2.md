@@ -16,7 +16,7 @@ category: Galaxy Evolution
     This image can also have a caption. It's like magic.
 </div> -->
 
-[Polzin et al. (2024)](https://ui.adsabs.harvard.edu/abs/2023arXiv231010712P/abstract)
+[Polzin et al. (2024a)](https://ui.adsabs.harvard.edu/abs/2023arXiv231010712P/abstract)
 {: style="font-size: 110%; text-align: center;"}
 
 In this work, we present analytic prescriptions that can be used to accurately model molecular hydrogen in the interstellar medium based on gas density, metallicity, and ionizing radiation field. Previous models have been calibrated for higher metallicity galaxies; we have calibrated our expressions for f<sub>H<sub>2</sub></sub> down to 0.01 Z<sub>sun</sub>, which corresponds to metallicities consistent with local dwarf galaxies and galaxies at high redshift where the global gas metallicity is lower.

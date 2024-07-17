@@ -99,7 +99,7 @@
 - title: Teaching Experience
   type: time_table
   contents:
-    - title: CCTL Graduate Fellow
+    - title: CCTL (Senior) Graduate Fellow
       institution: Chicago Center for Teaching and Learning, The University of Chicago
       year: 2023 - Present
       description: Develop and deliver instruction and programming related to teaching and pedagogy at the University of Chicago.
@@ -214,6 +214,7 @@
   contents:
     - year: 2024
       items:
+        - Quad Fellowship by IIE
         - Audience Choice Award, UChicago 3-Minute Thesis Competition (<a href="https://www.youtube.com/watch?v=WRYJjMpB_FY" target = "blank_" >Video</a>)
     - year: 2023
       items: 

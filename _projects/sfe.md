@@ -16,7 +16,7 @@ category: Galaxy Evolution
     This image can also have a caption. It's like magic.
 </div> -->
 
-[Polzin et al. sumbitted](https://ui.adsabs.harvard.edu/abs/2024arXiv240711125P/abstract)
+[Polzin et al. (2024c)](https://ui.adsabs.harvard.edu/abs/2024arXiv240711125P/abstract)
 {: style="font-size: 110%; text-align: center;"}
 
 The star formation efficiency (SFE) is a key means of describing star formation activity in galaxies; here we adopt the more theory-driven value of star formation efficiency per free fall time, which is \~equivalent to the fraction of gas converted into stars over the lifetime of dense star-forming regions. There have been a number of observational studies that have found that the SFE is at the percent-level in giant molecular clouds and galaxies regardless of the local conditions (gas phase metallicity, surface density, ionizing radation field strength).

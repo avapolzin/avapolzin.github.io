@@ -15,7 +15,7 @@ category: Galaxy Evolution
     This image can also have a caption. It's like magic.
 </div> -->
 
-[Polzin et al. submitted](https://ui.adsabs.harvard.edu/abs/2024arXiv240401382P/abstract)
+[Polzin et al. (2024b)](https://ui.adsabs.harvard.edu/abs/2024arXiv240401382P/abstract)
 {: style="font-size: 110%; text-align: center;"}
 
 The Canadian Hydrogen Intensity Mapping Experiment (CHIME) is an all-northern sky 21 cm intensity mapping experiment, designed to study the expansion history of the universe between z = 2.5 and z = 0.8. This epoch is also inherently interesting for star formation, encompassing both Cosmic Noon, the peak of star formation in the universe, and the substantial (and rather rapid) increase in the quenched fraction of galaxies in its wake. CHIME's sensitivity to the faint, but ubiquitous signal from neutral atomic hydrogen allows it to measure galaxies' gaseous reservoirs during this interesting period in cosmic history.
