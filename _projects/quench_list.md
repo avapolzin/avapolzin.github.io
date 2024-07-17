@@ -23,7 +23,7 @@ As addressed in greater detail in [Polzin et al. (2021)](https://ui.adsabs.harva
 |*dw0910+7326 (Blobby)*|*09:10:13.45 +73:26:19.15*|*3.21*|*9.5x10<sup>6</sup>*|*10*|*-1.2*|*0.790*|*< 3x10<sup>-10</sup>*| |*backsplash*|*[Casey et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.4715C/abstract){:target="_blank"}*|
 |PEARLSDG|12:12:18 +27:35:24|31.2|4.4x10<sup>7</sup>|1|-1.49|0.56|2x10<sup>-12</sup>|< 4x10<sup>5</sup>|isolated|[Carleton et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024ApJ...961L..37C/abstract){:target="_blank"}|
 |*UGC 5205*|*09:44:07.2 -00:39:30*|*~21*|*3x10<sup>8</sup>*|*0.1-0.3*||*-1.9*|*≲ 3x10<sup>-11</sup>*|*3.5x10<sup>8</sup>*|*dwarf-dwarf interaction*|*[Kado-Fong et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024ApJ...963...37K/abstract){:target="_blank"}*|
-|dw1322m2053 (Hedgehog)|13:22:46.88 -20:53:55.94|2.41|6.3x10<sup>5</sup>|5-7| |0.176|< 10<sup>-10</sup>|< 10<sup>6</sup>|possibly backsplash|[Li et al. (2024)](https://arxiv.org/abs/2406.00101){:target="_blank}|
+|dw1322m2053 (Hedgehog)|13:22:46.88 -20:53:55.94|2.41|6.3x10<sup>5</sup>|5-7| |0.176|< 10<sup>-10</sup>|< 10<sup>6</sup>|possibly backsplash|[Li et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024arXiv240600101L/abstract){:target="_blank}|
 
 
 Quenched, now-isolated dwarfs that are *likely* backsplash galaxies or experiencing dwarf-dwarf interactions are listed in italics. Though they are not isolated by every definition, they are isolated by some definitions (generally those that are concerned primarily with current proximity to massive neighbors).
@@ -33,5 +33,12 @@ Additional candidates not included in the table due to large uncertainties/neces
 - [Penny et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018MNRAS.476..979P/abstract){:target="_blank"}
 - [Prole et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.2049P/abstract){:target="_blank"}
 - Tucana B ([Sand et al. 2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...935L..17S/abstract){:target="_blank"})
+<!-- - Corvus A ([Jones et al. 2024](){:target="_blank"}) -- note that this dwarf is gas-rich and potentially observed in a transitory quiescent phase -->
 
 Some of these candidates are potentially higher mass and subject to AGN feedback and other processes not as readily seen in low mass dwarfs.
+
+<!-- For completeness, quenched, isolated dwarfs that are gas-rich and likely observed in a transitory quiescent phase are listed below:
+| **Name** | **RA/Dec** | **Distance (Mpc)** | **M<sub>star</sub> (M<sub>⊙</sub>)**| **Age (Gyr)** | **\[M/H\]** | **R<sub>eff</sub> (kpc)** | **sSFR (yr<sup>-1</sup>)** | **M<sub>HI</sub> (M<sub>⊙</sub>)** | **Environment** | **References**|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|*UGC 5205*|*09:44:07.2 -00:39:30*|*~21*|*3x10<sup>8</sup>*|*0.1-0.3*||*-1.9*|*≲ 3x10<sup>-11</sup>*|*3.5x10<sup>8</sup>*|*dwarf-dwarf interaction*|*[Kado-Fong et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024ApJ...963...37K/abstract){:target="_blank"}*|
+|Corvus A| |3.48|10<sup>6</sup>|||0.256|5.6x10<sup>-10</sup>|3.89x10<sup>8</sup>|isolated, but "associated with local sheet"|[Jones et al. 2024](){:target="_blank"}| -->

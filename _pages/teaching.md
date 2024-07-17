@@ -27,7 +27,7 @@ Below is a list of my specific teaching involvements (past + present); evaluatio
 
 #### University of Chicago
 
-I am a (Senior) Graduate Fellow of the Chicago Center for Teaching & Learning. As a Fellow, I am charged with developing and delivering instruction and programming related to teaching and pedagogy to other early career scholars at the University of Chicago. In addition to the other responsibilities of that role, I have held the following positions through the CCTL:
+I am a **(Senior) Graduate Fellow of the Chicago Center for Teaching & Learning**. As a Fellow, I am charged with developing and delivering instruction and programming related to teaching and pedagogy to other early career scholars at the University of Chicago. In addition to the other responsibilities of that role, I have held the following positions through the CCTL:
 - **Instructor**, Teaching@Chicago
 	- *Lecturing for Student Learning*, Autumn 2023
 	- *Effective Lecturing*, Autumn 2024 (upcoming)
@@ -107,6 +107,7 @@ I have also worked with a number of high school students, both through my resear
 
 #### Yale University
 - Rohan S. (Choate Rosemary Hall externship; now Yale '27) -- Integrated light photometry, galaxy morphology, Dragonfly Wide-Field Survey
+<!-- - Jack P. (Windward School) --  -->
 
 
 #### Polygence
@@ -126,8 +127,8 @@ I have also worked with a number of high school students, both through my resear
 - Mahika K. (Leland High School) -- Sky brightness; correlation with lunar phase, seeing, azimuthal angle
 - Ila B. (Dougherty Valley High School) -- Recovering the X-ray light curve of SN 2012ca
 - Zhi Ling (Lauren) C. (Downe House School) -- Varying AGN observability with changing physical parameters
-- Inaya K. (Homeschooled) -- Neutron stars
+- Inaya K. (Homeschooled) -- Neutron stars in the era of multi-messenger observations
 - Jonathan S. (The Science Academy STEM Magnet) -- Recovering the role of AGN feedback from IllustrisTNG
 - Jack P. (Windward School) -- Galactic 21 cm measurements with homemade setup (improvement on Fong+23) 
 - Cameron H. (Palisades Charter High School) -- Inferring globular cluster stellar population ages from resolved photometry
-- Anya P. (Irvington High School)
+- Anya P. (Irvington High School) -- Interpreting multiwavelength observations of tidal disruption events
