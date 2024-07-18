@@ -3,8 +3,8 @@ layout: page
 title: Modeling Star Formation in Low Metallicity Galaxies
 description: 
 img: assets/img/fsf.png
-importance: 
-category: Galaxy Evolution
+importance: 7
+category: 
 ---
 
 <div class="row">
