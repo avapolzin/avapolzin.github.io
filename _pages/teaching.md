@@ -131,4 +131,4 @@ I have also worked with a number of high school students, both through my resear
 - Jonathan S. (The Science Academy STEM Magnet) -- Recovering the role of AGN feedback from IllustrisTNG
 - Jack P. (Windward School) -- Galactic 21 cm measurements with homemade setup (improvement on Fong+23) 
 - Cameron H. (Palisades Charter High School) -- Inferring globular cluster stellar population ages from resolved photometry
-- Anya P. (Irvington High School) -- Interpreting multiwavelength observations of tidal disruption events
+<!-- - Anya P. (Irvington High School) -- Interpreting multiwavelength observations of tidal disruption events -->
