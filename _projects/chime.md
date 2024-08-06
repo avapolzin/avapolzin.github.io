@@ -13,7 +13,7 @@ category: Galaxy Evolution
 </div>
 <!-- <div class="caption">
     This image can also have a caption. It's like magic.
-</div> -->
+</div>  -->
 
 [Polzin et al. (2024b)](https://ui.adsabs.harvard.edu/abs/2024arXiv240401382P/abstract)
 {: style="font-size: 110%; text-align: center;"}
