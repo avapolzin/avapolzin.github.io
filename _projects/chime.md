@@ -24,4 +24,4 @@ Galaxy clusters are some of the most crowded environments, where the first galax
 
 In this paper, we find that CHIME can recover the (average) mass of the HI reservoirs in galaxy clusters during this interesting epoch. By stacking on N > 100 clusters (consistent with the expected size of high redshift spectroscopic catalogs in the coming years and the current size of cluster catalogs with photo-zs at z > 1), it should be possible to accurately estimate the average HI flux (and so average HI mass) of the stacked sources. This can be done for clusters at different redshifts and/or with different selection criteria to study the reservoir of star-forming gas in these dense environments.
 
-Code, beams, maps, and catalogs will be made available [here](https://github.com/avapolzin/CHIMExIllustrisTNG){:target="_blank"} once the paper is accepted.
+Code, beams, maps, and catalogs are available [here](https://github.com/avapolzin/CHIMExIllustrisTNG){:target="_blank"}.
