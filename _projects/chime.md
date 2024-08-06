@@ -1,19 +1,19 @@
 ---
 layout: page
 title: CHIME as an Instrument for Studying Galaxy Evolution
-img: assets/img/chime_clusters.pdf
+img: assets/img/chime_clusters.jpg
 importance: 3
 category: Galaxy Evolution
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/chime_clusters.pdf" title="CHIMExTNG cluster stacks" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/chime_clusters.jpg" title="CHIMExTNG cluster stacks" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <!-- <div class="caption">
     This image can also have a caption. It's like magic.
-</div>  -->
+</div> -->
 
 [Polzin et al. (2024b)](https://ui.adsabs.harvard.edu/abs/2024arXiv240401382P/abstract)
 {: style="font-size: 110%; text-align: center;"}
