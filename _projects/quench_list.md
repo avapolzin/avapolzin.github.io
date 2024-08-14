@@ -15,7 +15,7 @@ As addressed in greater detail in [Polzin et al. (2021)](https://ui.adsabs.harva
 &nbsp;
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe src="/assets/html/quenchlist.html" style="position:absolute; height:100%; border:none"></iframe>
+        <iframe src="/assets/html/quenchlist.html" frameborder='0' scrolling='yes' height="630px" width="800pt"></iframe>
     </div>
 </div>
 
