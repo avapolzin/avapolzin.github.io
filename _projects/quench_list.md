@@ -12,7 +12,7 @@ Please look at the references linked in the table for extended discussion of the
 
 As addressed in greater detail in [Polzin et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...914L..23P/abstract){:target="_blank"}, the non-backsplash quiescent field dwarfs share common characteristics including young (\~ 1 Gyr) stellar populations and low (10<sup>6</sup> - 10<sup>7</sup> M<sub>⊙</sub>) stellar masses, pointing to similar physical mechanisms informing the cessation of star formation in each case.
 
-&nbsp;
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <iframe src="/assets/html/quenchlist.html" frameborder='0' scrolling='yes' height="630px" width="800pt"></iframe>
