@@ -75,11 +75,12 @@ In a past life, my research was focused on time-domain astronomy (it's where my 
 In my spare time, I enjoy working on more computationally oriented projects that will hopefully be useful to (or fun for) the larger community. A few such projects are in the works right now, so do check back for updates.
 - [`albumpl`](https://github.com/avapolzin/albumpl) -- Custom matplotlib color palettes based on album covers.
 - [`angelus`](https://github.com/avapolzin/angelus) -- Crossmatch a field with existing galaxy catalogs and check virial coverage. (This idea was spun off of a function in [`uwstatus`](https://github.com/avapolzin/UWSStatusSearch), my package for checking the status of Dragonfly UW observations and cross-matching UW fields with existing galaxy catalogs.)
-<!-- - [`teltrace`](https://github.com/ben-sappey/teltrace) -- Recover temperature and pressure of exoplanet atmospheres from Voigt profile fitting of telluric lines. (Made during Code/Astro 2023.) -->
 <!-- - [`gaiacmds`](https://github.com/avapolzin/goodenough_gaia_cmds) -- "Good enough" star cluster color-magnitude diagrams recovered automatically from Gaia data.  (designed for use in the classroom, rather than research). -->
 <!-- - [`spike`](https://github.com/avapolzin/spike) -- Properly drizzled space-based point spread functions for more accurate photometry. -->
+<!-- - [`teltrace`](https://github.com/ben-sappey/teltrace) -- Recover temperature and pressure of exoplanet atmospheres from Voigt profile fitting of telluric lines. (Made during Code/Astro 2023.) -->
 
 Some software comes out of the course of my usual (published) work, too!
+<!-- - [`buffys`](https://github.com/avapolzin/BUFFyS) -- Backsplash vs. Unbound Field From galaxy Simulations -->
 - [`delight`](https://github.com/fforster/DELIGHT) -- Deep Learning Identification of Galaxy Hosts of Transients
 - [`silkscreen`](https://github.com/tbmiller-astro/silkscreen) -- Infer properties of dwarf galaxies and star clusters from survey imaging using simulation-based inference.
 - [`xraydlps`](https://github.com/avapolzin/X-rayLCs) -- Plot and classify X-ray transient light curves.

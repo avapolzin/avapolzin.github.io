@@ -105,6 +105,7 @@ I'm sometimes approached by students for informational interviews; please do rea
 
 I have also worked with a number of high school students, both through my research involvements in graduate school and through [Polygence](https://www.polygence.org){:target="_blank"}. If you are a high schooler interested in working with me through Polygence, just make sure to list me as your preference for mentor when you go through the application process.
 
+{% details Expand for list of HS students %}
 #### Yale University
 - Rohan S. (Choate Rosemary Hall externship; now Yale '27) -- Integrated light photometry, galaxy morphology, Dragonfly Wide-Field Survey
 <!-- - Jack P. (Windward School) --  -->
@@ -121,14 +122,15 @@ I have also worked with a number of high school students, both through my resear
 - Gabriel K. (La Canada High School) -- "*Fitting Luminosity Decay Curves of Long Gamma-Ray Bursts, Short Gamma-Ray Bursts, Magnetar Flares, and Kilonovae"* (in prep for submission to a HS journal)
 - Aaron F. (Bronx High School of Science; now Boston University Astronomy '27) -- "*How do our solar system's planets fit with other exoplanets?"*
 - Paul B. (Carlmont High School) -- Redshift, radial velocity measurements (in prep for submission to a HS journal)
-<!-- - Maitrii P. (Vidyashilp Academy) -- Cosmology -->
 - Harshitha M. (Strawberry Crest High School) -- "*What evidence points to the existence of Planet 9?"* (in prep for submission to a HS journal)
 - Nishant Kartik N. (Sai International School; now Penn VIPER '28) -- Dark matter
 - Mahika K. (Leland High School) -- Sky brightness; correlation with lunar phase, seeing, azimuthal angle
 - Ila B. (Dougherty Valley High School) -- Recovering the X-ray light curve of SN 2012ca
-- Zhi Ling (Lauren) C. (Downe House School) -- Varying AGN observability with changing physical parameters
+- Zhi Ling (Lauren) C. (Downe House School) -- Varying AGN observability with changing physical parameters ([Blog with paper summaries](https://learningaboutsmbh.github.io){:target="_blank"})
 - Inaya K. (Homeschooled) -- Neutron stars in the era of multi-messenger observations
 - Jonathan S. (The Science Academy STEM Magnet) -- Recovering the role of AGN feedback from IllustrisTNG
 - Jack P. (Windward School) -- Galactic 21 cm measurements with homemade setup (improvement on Fong+23) 
 - Cameron H. (Palisades Charter High School) -- Inferring globular cluster stellar population ages from resolved photometry
-<!-- - Anya P. (Irvington High School) -- Interpreting multiwavelength observations of tidal disruption events -->
+- Anshveer B. (Oberoi International School) - Review of QFT as applied to de Sitter space
+- Chris B. (Needham High School) - Cosmic microwave background
+{% end details %}
