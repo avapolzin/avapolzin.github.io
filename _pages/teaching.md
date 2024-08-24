@@ -133,4 +133,4 @@ I have also worked with a number of high school students, both through my resear
 - Cameron H. (Palisades Charter High School) -- Inferring globular cluster stellar population ages from resolved photometry
 - Anshveer B. (Oberoi International School) - Review of QFT as applied to de Sitter space
 - Chris B. (Needham High School) - Cosmic microwave background
-{% end details %}
+{% enddetails %}
