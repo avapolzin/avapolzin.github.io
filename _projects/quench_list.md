@@ -15,7 +15,7 @@ As addressed in greater detail in [Polzin et al. (2021)](https://ui.adsabs.harva
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe src="/assets/html/quenchlist.html" frameborder='0' scrolling='yes' height="800px" width="800pt"></iframe>
+        <iframe src="/assets/html/quenchlist.html" frameborder='0' scrolling='yes' height="750px" width="800pt"></iframe>
     </div>
 </div>
 
@@ -36,7 +36,7 @@ As addressed in greater detail in [Polzin et al. (2021)](https://ui.adsabs.harva
 
 Quenched, now-isolated dwarfs that are *likely* backsplash galaxies or experiencing dwarf-dwarf interactions are listed in italics. Though they are not isolated by every definition, they are isolated by some definitions (generally those that are concerned primarily with current proximity to massive neighbors). 
 
-Similarly, while all quenched, isolated, low-mass galaxy candidates are included here for completeness, it is worth noting that the sample is not homogeneous. Some of these candidates are potentially higher mass and subject to AGN feedback and other processes not as readily seen in low mass dwarfs. Similarly, candidate quenched, isolated ultrafaint dwarfs (log<sub>10</sub>(M<sub>star</sub>/M<sub>⊙</sub> < 6) may be susceptible to the effects of reionization in addition to environmental and feedback mechanisms that impact more massive galaxies.
+Similarly, while all quenched, isolated, low-mass galaxy candidates are included here for completeness, it is worth noting that the sample is not homogeneous. Some of these candidates are potentially higher mass and subject to AGN feedback and other processes not as readily seen in low mass dwarfs. Candidate quenched, isolated ultrafaint dwarfs (log<sub>10</sub>(M<sub>star</sub>/M<sub>⊙</sub> < 6) may be susceptible to the effects of reionization in addition to environmental and feedback mechanisms that impact more massive galaxies.
 
 Additional candidates not included in the table due to large uncertainties/necessary follow-up:
 - APPLES I ([Pasquali et al. 2005](https://ui.adsabs.harvard.edu/abs/2005AJ....129..148P/abstract){:target="_blank"})
@@ -46,6 +46,7 @@ Additional candidates not included in the table due to large uncertainties/neces
 <!-- - Corvus A ([Jones et al. 2024](){:target="_blank"}) -- note that this dwarf is gas-rich and potentially observed in a transitory quiescent phase -->
 
 Notes and caveats:
+- Metallicity estimates for Tucana are discrepant between the linked references. The one listed in the table is from [Lavery & Mighell (1992)](https://ui.adsabs.harvard.edu/abs/1992AJ....103...81L/abstract){:target="_blank"}, while [Monelli et al. (2010c)](https://ui.adsabs.harvard.edu/abs/2010ApJ...722.1864M/abstract){:target="_blank"} suggest that Tucana is somewhat higher metallicity.
 - **PEARLSDG has now been reported to likely be part of a group at 124 Mpc ([Carleton et al. 2024b](https://ui.adsabs.harvard.edu/abs/2024RNAAS...8..181C/abstract){:target="_blank"}). It has now been removed from the list.**
 <!-- It will remain (crossed out) on the list for completeness for now, but will be removed in the future.** -->
 - FAST has reported an HI mass for COSMOS-dw1 (log<sub>10</sub>(M<sub>HI</sub>/M<sub>⊙</sub>) = 6.69, [Pan et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240816597P/abstract){:target="_blank"}). While it's included in the table as superseding the HI non-detection in CHILES, it should be noted that the source appears to be offset by \~6.5 arcsec, which is >R<sub>eff</sub> for the galaxy. Since the redshift is consistent with COSMOS-dw1, it is possible that this is still representative of the galaxy's HI reservoir and the offset comes from FAST's large pixel scale (60 arcsec) and large beam size (174 arcsec x 174 arcsec). 
