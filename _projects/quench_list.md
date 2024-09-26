@@ -8,7 +8,7 @@ category:
 
 Since there are still relatively few candidate quenched, isolated dwarf galaxies known, this is a way to keep track and easily compare their properties. 
 
-Please look at the references linked in the table for extended discussion of these galaxies and their properties. The physical and chemical parameters listed here are derived in a different ways from different data, so though every effort is made to show values consistently, rigorous one-to-one comparison will require understanding the nuance of each individual measurement and approach to analysis.
+Please look at the references linked in the table for extended discussion of these galaxies and their properties. The physical and chemical parameters listed here are derived in different ways from different data, so though every effort is made to show values consistently, rigorous one-to-one comparison will require understanding the nuance of each individual measurement and approach to analysis.
 
 As addressed in greater detail in [Polzin et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...914L..23P/abstract){:target="_blank"}, the non-backsplash quiescent field dwarfs share common characteristics including young (\~ 1 Gyr) stellar populations and low (10<sup>6</sup> - 10<sup>7</sup> M<sub>⊙</sub>) stellar masses, pointing to similar physical mechanisms informing the cessation of star formation in each case.
 
@@ -36,8 +36,10 @@ As addressed in greater detail in [Polzin et al. (2021)](https://ui.adsabs.harva
 
 Quenched, now-isolated dwarfs that are *likely* backsplash galaxies or experiencing dwarf-dwarf interactions are listed in italics. Though they are not isolated by every definition, they are isolated by some definitions (generally those that are concerned primarily with current proximity to massive neighbors).
 
-**PEARLSDG has now been reported to likely be part of a group at 124 Mpc ([Carleton et al. 2024b](https://ui.adsabs.harvard.edu/abs/2024RNAAS...8..181C/abstract)). It has now been removed from the list.**
+**PEARLSDG has now been reported to likely be part of a group at 124 Mpc ([Carleton et al. 2024b](https://ui.adsabs.harvard.edu/abs/2024RNAAS...8..181C/abstract){:target="_blank"}). It has now been removed from the list.**
 <!-- It will remain (crossed out) on the list for completeness for now, but will be removed in the future.** -->
+
+FAST has reported an HI mass for COSMOS-dw1 (log<sub>10</sub>(M<sub>HI</sub>/M<sub>⊙</sub>) = 6.69, [Pan et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240816597P/abstract){:target="_blank"}). While it's included in the table as superseding the HI non-detection in CHILES, it should be noted that the source appears to be offset by \~6.5 arcsec, which is >R<sub>eff</sub> for the galaxy. Since the redshift is consistent with COSMOS-dw1, it is possible that this is still representative of the galaxy's HI reservoir and the offset comes from FAST's large pixel scale (60 arcsec) and large beam size (174 arcsec x 174 arcsec).
 
 Additional candidates not included in the table due to large uncertainties/necessary follow-up:
 - APPLES I ([Pasquali et al. 2005](https://ui.adsabs.harvard.edu/abs/2005AJ....129..148P/abstract){:target="_blank"})
@@ -46,7 +48,7 @@ Additional candidates not included in the table due to large uncertainties/neces
 - Tucana B ([Sand et al. 2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...935L..17S/abstract){:target="_blank"})
 <!-- - Corvus A ([Jones et al. 2024](){:target="_blank"}) -- note that this dwarf is gas-rich and potentially observed in a transitory quiescent phase -->
 
-Some of these candidates are potentially higher mass and subject to AGN feedback and other processes not as readily seen in low mass dwarfs.
+Some of these candidates are potentially higher mass and subject to AGN feedback and other processes not as readily seen in low mass dwarfs. Similarly, candidate quenched, isolated ultrafaint dwarfs (log<sub>10</sub>(M<sub>star</sub>/M<sub>⊙</sub> < 6) may be susceptible to the effects of reionization in addition to environmental and feedback mechanisms that impact more massive galaxies.
 
 <!-- For completeness, quenched, isolated dwarfs that are gas-rich and likely observed in a transitory quiescent phase are listed below:
 | **Name** | **RA/Dec** | **Distance (Mpc)** | **M<sub>star</sub> (M<sub>⊙</sub>)**| **Age (Gyr)** | **\[M/H\]** | **R<sub>eff</sub> (kpc)** | **sSFR (yr<sup>-1</sup>)** | **M<sub>HI</sub> (M<sub>⊙</sub>)** | **Environment** | **References**|

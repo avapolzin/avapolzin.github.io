@@ -28,9 +28,9 @@ Below is a list of my specific teaching involvements (past + present); evaluatio
 #### University of Chicago
 
 I am a **(Senior) Graduate Fellow of the Chicago Center for Teaching & Learning**. As a Fellow, I am charged with developing and delivering instruction and programming related to teaching and pedagogy to other early career scholars at the University of Chicago. In addition to the other responsibilities of that role, I have held the following positions through the CCTL:
-- **Instructor**, Teaching@Chicago
-	- *Lecturing for Student Learning*, Autumn 2023
-	- *Effective Lecturing*, Autumn 2024 (upcoming)
+- **Instructor**, Teaching@Chicago: *Lecturing for Student Learning*
+	- Autumn 2023
+	- Autumn 2024
 - **Teaching Mentor**, CCTE 50000: *Course Design and College Teaching*
 	- Autumn 2023 with Dr. Samuel Harris
 	- Winter 2025 (upcoming)
@@ -132,5 +132,5 @@ I have also worked with a number of high school students, both through my resear
 - Jack P. (Windward School) -- Galactic 21 cm measurements with homemade setup (improvement on Fong+23) 
 - Cameron H. (Palisades Charter High School) -- Inferring globular cluster stellar population ages from resolved photometry
 - Anshveer B. (Oberoi International School) - Review of QFT as applied to de Sitter space
-- Chris B. (Needham High School) - Cosmic microwave background
+- Chris B. (Needham High School) - False vacuum decay
 {% enddetails %}
