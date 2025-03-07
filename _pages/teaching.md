@@ -33,10 +33,10 @@ I am a **(Senior) Graduate Fellow of the Chicago Center for Teaching & Learning*
 	- Autumn 2024
 - **Teaching Mentor**, CCTE 50000: *Course Design and College Teaching*
 	- Autumn 2023 with Dr. Samuel Harris
-	- Winter 2025 (upcoming)
+	- Winter 2025 with Dr. Amanda Jungels
 - **Instructor**, Fundamentals of Teaching in STEM
 	- Winter 2024
-	- Autumn 2024 (upcoming)
+	- Autumn 2024
 - **Founder/Facilitator**, Pedagogy in the Physical Sciences talk series, 2024 - Present
 
 <hr style="height:1px; visibility:hidden;" />
@@ -107,30 +107,33 @@ I have also worked with a number of high school students, both through my resear
 
 {% details Expand for list of HS students %}
 #### Yale University
-- Rohan S. (Choate Rosemary Hall externship; now Yale '27) -- Integrated light photometry, galaxy morphology, Dragonfly Wide-Field Survey
+- Rohan Shivakumar (Choate Rosemary Hall externship; now Yale '27) -- Integrated light photometry, galaxy morphology, Dragonfly Wide-Field Survey
 <!-- - Jack P. (Windward School) --  -->
 
 
 #### Polygence
-- Anagha R. (Millburn High School; now University of Rochester Physics and Astronomy '26) -- "*Finding the constant of an accelerating universe: the Hubble constant*" ([JOURNYS](https://issuu.com/journys7/docs/journys_12.2/4){:target="_blank"})
-- Cora C. (Issaquah High School; now UCSB Physics '25) -- "*Fourth order integration of the solar system*"
-- Anirudh K. (The Shri Ram School Aravali; now UCLA Comp Sci + Math '25) -- "*A review of black hole X-ray transients*"
-- Jacqueline H. (Campolindo High School; now UCSD Comp Sci '25) -- "*A surface brightness profile of M31 from archival SDSS data*" (JOURNYS, submitted)
-- Jeshwanth M. (Arcadia High School; now UC Berkeley Engineering Physics '26) -- "*Multi-messenger observability of neutron star binary systems*" (JOURNYS, submitted)
-- Tommaso F. (Longfields-Davidson Heights Secondary School; now University of Waterloo Physics and Astronomy '27) -- "*The correlation between the luminosity of active galactic nuclei and host galaxy parameters"* ([Research Archive of Rising Scholars](https://research-archive.org/index.php/rars/preprint/view/37){:target = "_blank"})
-- Saanvi K. (La Martiniere for Girls) -- "*A review of modern X-ray instrumentation*"
-- Gabriel K. (La Canada High School) -- "*Fitting Luminosity Decay Curves of Long Gamma-Ray Bursts, Short Gamma-Ray Bursts, Magnetar Flares, and Kilonovae"* (in prep for submission to a HS journal)
-- Aaron F. (Bronx High School of Science; now Boston University Astronomy '27) -- "*How do our solar system's planets fit with other exoplanets?"*
-- Paul B. (Carlmont High School) -- Redshift, radial velocity measurements (in prep for submission to a HS journal)
-- Harshitha M. (Strawberry Crest High School) -- "*What evidence points to the existence of Planet 9?"* (in prep for submission to a HS journal)
-- Nishant Kartik N. (Sai International School; now Penn VIPER '28) -- Dark matter
-- Mahika K. (Leland High School) -- Sky brightness; correlation with lunar phase, seeing, azimuthal angle
-- Ila B. (Dougherty Valley High School) -- Recovering the X-ray light curve of SN 2012ca
-- Zhi Ling (Lauren) C. (Downe House School) -- Varying AGN observability with changing physical parameters ([Blog with paper summaries](https://learningaboutsmbh.github.io){:target="_blank"})
-- Inaya K. (Homeschooled) -- Neutron stars in the era of multi-messenger observations
-- Jonathan S. (The Science Academy STEM Magnet) -- Recovering the role of AGN feedback from IllustrisTNG
-- Jack P. (Windward School) -- Galactic 21 cm measurements with homemade setup (improvement on Fong+23) 
-- Cameron H. (Palisades Charter High School) -- Inferring globular cluster stellar population ages from resolved photometry
-- Anshveer B. (Oberoi International School) - Review of QFT as applied to de Sitter space
-- Chris B. (Needham High School) - False vacuum decay
+- Anagha Ramnath (Millburn High School; now University of Rochester Physics and Astronomy '26) -- "*Finding the constant of an accelerating universe: the Hubble constant*" ([JOURNYS](https://issuu.com/journys7/docs/journys_12.2/4){:target="_blank"})
+- Cora Constantinescu (Issaquah High School; now UCSB Physics '25) -- "*Fourth order integration of the solar system*"
+- Anirudh Krishna (The Shri Ram School Aravali; now UCLA Comp Sci + Math '25) -- "*A review of black hole X-ray transients*"
+- Jacqueline Huebner (Campolindo High School; now UCSD Comp Sci '25) -- "*A surface brightness profile of M31 from archival SDSS data*" (JOURNYS, submitted)
+- Jeshwanth Mohan (Arcadia High School; now UC Berkeley Engineering Physics '26) -- "*Multi-messenger observability of neutron star binary systems*" (JOURNYS, submitted)
+- Tommaso Freschi (Longfields-Davidson Heights Secondary School; now University of Waterloo Physics and Astronomy '27) -- "*The correlation between the luminosity of active galactic nuclei and host galaxy parameters"* ([Research Archive of Rising Scholars](https://research-archive.org/index.php/rars/preprint/view/37){:target = "_blank"})
+- Saanvi Khemka (La Martiniere for Girls) -- "*A review of modern X-ray instrumentation*"
+- Gabriel Kronson (La Canada High School) -- "*Fitting Luminosity Decay Curves of Long Gamma-Ray Bursts, Short Gamma-Ray Bursts, Magnetar Flares, and Kilonovae"* (in prep for submission to a HS journal)
+- Aaron Fu (Bronx High School of Science; now Boston University Astronomy '27) -- "*How do our solar system's planets fit with other exoplanets?"*
+- Paul Beroza (Carlmont High School) -- Redshift, radial velocity measurements (in prep for submission to a HS journal)
+- Harshitha Madabhushani (Strawberry Crest High School; now University of South Florida Physics '28) -- "*What evidence points to the existence of Planet 9?"* (in prep for submission to a HS journal)
+- Nishant Kartik Nayak (Sai International School; now Penn VIPER '28) -- Dark matter
+- Mahika Khosla (Leland High School) -- Sky brightness; correlation with lunar phase, seeing, azimuthal angle
+- Ila Bhimshetty (Dougherty Valley High School) -- Recovering the X-ray light curve of SN 2012ca
+- Zhi Ling (Lauren) Chu (Downe House School) -- Varying AGN observability with changing physical parameters ([Blog with paper summaries](https://learningaboutsmbh.github.io){:target="_blank"})
+- Inaya Khwaja (Homeschooled) -- Neutron stars in the era of multi-messenger observations
+- Jonathan Svilik (The Science Academy STEM Magnet) -- Recovering the role of AGN feedback from IllustrisTNG
+- Jack Phelps (Windward School, Princeton Astrophysics '29) -- Galactic 21 cm measurements with homemade setup ([arXiv](https://arxiv.org/abs/2411.00057){:target="_blank"}) 
+	- Project covered by [Universe Today](https://www.universetoday.com/169185/you-can-build-a-home-radio-telescope-to-detect-clouds-of-hydrogen-in-the-milky-way/){:target="_blank"}, [Phys.org](https://phys.org/news/2024-11-home-radio-telescope-clouds-hydrogen.html){:target="_blank"}, [Hackaday](https://hackaday.com/2024/11/05/tracking-hydrogen-in-space-with-a-home-radio-telescope-for-21-cm-emissions/){:target="_blank"}, [RTL-SDR](https://www.rtl-sdr.com/paper-on-building-a-low-cost-rtl-sdr-based-hydrogen-line-radio-telescope/#comments){:target="_blank"}, [Y-combinator forum](https://news.ycombinator.com/item?id=42044494){:target="_blank"} (said “This is better than what most of my MSc students produce”), [Discover Magazine](https://www.discovermagazine.com/the-sciences/how-to-build-a-backyard-radio-telescope){:target="_blank"}, [Muy Interesante (ES)](https://www.muyinteresante.com/tecnologia/astronomo-construir-radiotelescopio-casero.html#google_vignette){:target="_blank"}
+- Cameron Hall (Palisades Charter High School) -- Inferring globular cluster stellar population ages from resolved photometry ([Isochrone fitting explainer video](https://www.youtube.com/watch?v=WvgZJw1y2Og){:target="_blank"})
+- Anshveer Bindra (Oberoi International School) - Review of QFT as applied to de Sitter space
+- Chris Brenner (Needham High School) - Review of false vacuum decay in the context of cosmological theories
+- Harshil Soni (South Brunswick High School) -- "*Analyzing the velocity and inclination of the galaxy M33 using spectral image cubes*"
+- Ian McDonnell (St. Andrew's School) -- Solar system vs. exoplanetary system rocky planet properties in the context of detection bias
 {% enddetails %}

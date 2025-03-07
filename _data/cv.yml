@@ -164,15 +164,22 @@
 - title: Accepted Proposals
   type: time_table
   contents:
+    - title: Star formation in low-mass dwarf galaxies with CGM constraints
+      institution: "Magellan/IMACS (Submitter/Co-I; PI: Chen)"
+      description: Graduate students are not able to PI Magellan proposals at UChicago, so “submitter” indicates primary responsibility.
+      year: 2025A
+    - title: The star formation-ISM-GCM connection in dwarf galaxies
+      institution: "MMT/Binospec (Submitter/Co-I; PI: Strom)"
+      description: Primarily responsible for proposal.
+      year: 2025A
     - title: Completing a Southern sky sub-sample of representative dwarf galaxies as a test of the baryon cycle
       institution: "Magellan/IMACS (Submitter/Co-I; PI: Chen)"
       year: 2024A
-      description: Graduate students are not able to PI Magellan proposals at UChicago, so “submitter” indicates primary responsibility.
     - title: Elucidating galaxy quenching in low-mass dwarfs
       institution: "Magellan/IMACS (Submitter/Co-I; PI: Chen)"
       year: 2023A
     - title: Elucidating galaxy quenching with absorption probes of halos around low-mass dwarfs
-      institution: HST AR-17049 (PI)
+      institution: "HST AR-17049 (PI)"
       year: Cycle 30
     - title: A galaxy apparently formed by star formation in massive, extremely dense clumps of gas
       institution: "Keck LRIS + KCWI (Co-I, PI: van Dokkum)"
@@ -212,6 +219,9 @@
 - title: Selected Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - K. Patricia Cross Future Leaders Award, AAC&U
     - year: 2024
       items:
         - Quad Fellowship by IIE (<a href="https://physicalsciences.uchicago.edu/news/article/astronomy-and-astrophysics-phd-student-ava-polzin-selected-as-a-2024-quad-fellow/" target = "blank_">UChicago PSD News</a>)
