@@ -29,7 +29,7 @@ concurrency:
 jobs:
   # Build job
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04 # https://talk.jekyllrb.com/t/building-error-on-github-actions/9471
     steps:
       - name: Checkout
         uses: actions/checkout@v4
