@@ -44,6 +44,7 @@ Additional candidates not included in the table due to large uncertainties/neces
 - [Prole et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.2049P/abstract){:target="_blank"}
 - Tucana B ([Sand et al. 2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...935L..17S/abstract){:target="_blank"})
 <!-- - Corvus A ([Jones et al. 2024](){:target="_blank"}) -- note that this dwarf is gas-rich and potentially observed in a transitory quiescent phase -->
+- Zangetsu ([Wei et al. 2025](https://arxiv.org/abs/2505.14073))
 
 Notes and caveats:
 - Metallicity estimates for Tucana are discrepant between the linked references. The one listed in the table is from [Lavery & Mighell (1992)](https://ui.adsabs.harvard.edu/abs/1992AJ....103...81L/abstract){:target="_blank"}, while [Monelli et al. (2010c)](https://ui.adsabs.harvard.edu/abs/2010ApJ...722.1864M/abstract){:target="_blank"} suggest that Tucana is somewhat more metal-enriched.

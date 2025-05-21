@@ -39,6 +39,11 @@ I am a **(Senior) Graduate Fellow of the Chicago Center for Teaching & Learning*
 	- Autumn 2024
 - **Founder/Facilitator**, Pedagogy in the Physical Sciences talk series, 2024 - Present
 
+**Instructor of Record**, University of Chicago Summer Session, 2025
+- ASTR 11901: *The Physics of Stars - An Introduction*
+	- Invited by department to lead at-capacity, three-week intensive summer course
+
+
 <hr style="height:1px; visibility:hidden;" />
 
 #### Yale University
@@ -135,5 +140,5 @@ I have also worked with a number of high school students, both through my resear
 - Anshveer Bindra (Oberoi International School) - Review of QFT as applied to de Sitter space
 - Chris Brenner (Needham High School) - Review of false vacuum decay in the context of cosmological theories
 - Harshil Soni (South Brunswick High School) -- "*Analyzing the velocity and inclination of the galaxy M33 using spectral image cubes*"
-- Ian McDonnell (St. Andrew's School) -- Solar system vs. exoplanetary system rocky planet properties in the context of detection bias
+- Ian McDonnell (St. Andrew's School) -- Solar system vs. exoplanetary system rocky planet properties in the context of detection/characterization bias
 {% enddetails %}

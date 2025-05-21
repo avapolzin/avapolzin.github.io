@@ -107,6 +107,12 @@
       #     contents:
       #       - Sub-description 1.
       #       - Sub-description 2.
+
+    - title: Instructor of Record
+      institution: University of Chicago Summer Session
+      year: 2025
+      description: "Invited by department to serve as instructor of record for at-capacity, three-week intensive summer course, ASTR 11901: The Physics of Stars - An Introduction."
+
     - title: Lead Instructor
       institution: Yale Young Global Scholars, Yale University
       year: 2020 - 2022
@@ -164,12 +170,19 @@
 - title: Accepted Proposals
   type: time_table
   contents:
-    - title: Star formation in low-mass dwarf galaxies with CGM constraints
+    - title: The star formation-ISM-GCM connection in dwarf galaxies
+      institution: "Palomar/NGPS (Co-I; PI: Qu)"
+      description: Primarily responsible for proposal.
+      year: 2025B
+    - title: Emission mapping of the diffuse gas in and around star-forming galaxies
       institution: "Magellan/IMACS (Submitter/Co-I; PI: Chen)"
       description: Graduate students are not able to PI Magellan proposals at UChicago, so “submitter” indicates primary responsibility.
+      year: 2025B
+    - title: Star formation in low-mass dwarf galaxies with CGM constraints
+      institution: "Magellan/IMACS (Submitter/Co-I; PI: Chen)"
       year: 2025A
     - title: The star formation-ISM-GCM connection in dwarf galaxies
-      institution: "MMT/Binospec (Submitter/Co-I; PI: Strom)"
+      institution: "MMT/Binospec (Co-I; PI: Strom)"
       description: Primarily responsible for proposal.
       year: 2025A
     - title: Completing a Southern sky sub-sample of representative dwarf galaxies as a test of the baryon cycle
@@ -196,12 +209,14 @@
   contents:
     - title: Dragonfly Telephoto Array
       year: 52 nights
+    - title: Keck/KCWI
+      year: 1 night
     - title: Keck/LRIS
       year: 2 nights
     - title: Keck/NIRES
       year: 2 nights
     - title: Magellan/IMACS
-      year: 4 nights
+      year: 6 nights
     - title: Magellan/LDSS3
       year: 1 night
     - title: Palomar/TripleSpec
