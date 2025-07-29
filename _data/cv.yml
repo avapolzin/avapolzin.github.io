@@ -170,6 +170,9 @@
 - title: Accepted Proposals
   type: time_table
   contents:
+    - title: "PANCHO: Piloting a Novel Calibration for H2 Observations"
+      institution: HST/COS GO-18074
+      year: Cycle 33
     - title: The star formation-ISM-GCM connection in dwarf galaxies
       institution: "Palomar/NGPS (Co-I; PI: Qu)"
       description: Primarily responsible for proposal.
@@ -217,8 +220,12 @@
       year: 2 nights
     - title: Magellan/IMACS
       year: 6 nights
+    - title: Magellan/LLAMAS
+      year: 2 nights
     - title: Magellan/LDSS3
       year: 1 night
+    - title: Magellan/Rosie-IFU
+      year: 2 nights
     - title: Palomar/TripleSpec
       year: 2 nights
     - title: Midway High Performance Computing Cluster

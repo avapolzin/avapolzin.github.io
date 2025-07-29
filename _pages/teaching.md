@@ -31,13 +31,17 @@ I am a **(Senior) Graduate Fellow of the Chicago Center for Teaching & Learning*
 - **Instructor**, Teaching@Chicago: *Lecturing for Student Learning*
 	- Autumn 2023
 	- Autumn 2024
+- **Instructor**, Teaching@Chicago: *Giving/Receiving Effective Feedback*, Autumn 2025
 - **Teaching Mentor**, CCTE 50000: *Course Design and College Teaching*
 	- Autumn 2023 with Dr. Samuel Harris
 	- Winter 2025 with Dr. Amanda Jungels
+	- *Spring 2026 (upcoming)*
 - **Instructor**, Fundamentals of Teaching in STEM
 	- Winter 2024
 	- Autumn 2024
+	- *Winter 2026 (upcoming)*
 - **Founder/Facilitator**, Pedagogy in the Physical Sciences talk series, 2024 - Present
+- **Instructor**, Effectively Communicating Complex Information, Spring 2025
 
 **Instructor of Record**, University of Chicago Summer Session, 2025
 - ASTR 11901: *The Physics of Stars - An Introduction*
@@ -140,5 +144,6 @@ I have also worked with a number of high school students, both through my resear
 - Anshveer Bindra (Oberoi International School) - Review of QFT as applied to de Sitter space
 - Chris Brenner (Needham High School) - Review of false vacuum decay in the context of cosmological theories
 - Harshil Soni (South Brunswick High School) -- "*Analyzing the velocity and inclination of the galaxy M33 using spectral image cubes*"
-- Ian McDonnell (St. Andrew's School) -- Solar system vs. exoplanetary system rocky planet properties in the context of detection/characterization bias
+- Ian McDonnell (St. Andrew's School) -- Review of detection/characterization bias using transit spectroscopy to study exoplanet atmospheres
+- Gentry Thatcher (Phillips Academy) -- N-body simulations including Planet 9/Planet X candidates
 {% enddetails %}
