@@ -74,9 +74,10 @@ In a past life, my research was focused on time-domain astronomy (it's where my 
 
 In my spare time, I enjoy working on more computationally oriented projects that will hopefully be useful to (or fun for) the larger community. A few such projects are in the works right now, so do check back for updates.
 - [`albumpl`](https://github.com/avapolzin/albumpl) -- Custom matplotlib color palettes based on album covers.
-- [`angelus`](https://github.com/avapolzin/angelus) -- Crossmatch a field with existing galaxy and QSO catalogs and check virial coverage. (This idea was spun off of a function in [`uwstatus`](https://github.com/avapolzin/UWSStatusSearch), my package for checking the status of Dragonfly UW observations and cross-matching UW fields with existing galaxy catalogs.)
+- [`angelus`](https://github.com/avapolzin/angelus) -- Crossmatch a field with existing galaxy and QSO catalogs and check virial coverage. 
+<!-- (This idea was spun off of a function in [`uwstatus`](https://github.com/avapolzin/UWSStatusSearch), my package for checking the status of Dragonfly UW observations and cross-matching UW fields with existing galaxy catalogs.) -->
 - [`cutout`](https://github.com/avapolzin/cutout) -- Quick view survey cutouts; no user choices, just plotting!
-- [`gaiacmds`](https://github.com/avapolzin/goodenough_gaia_cmds) -- "Good enough" star cluster color-magnitude diagrams recovered from Gaia data.  (Designed for use in the classroom, rather than research).
+- [`gaiacmds`](https://github.com/avapolzin/goodenough_gaia_cmds) -- "Good enough" color-magnitude diagrams recovered from Gaia data.  (Designed for use in the classroom, rather than research).
 - [`rahrah`](https://github.com/avapolzin/rahrah) -- University-inspired matplotlib color palettes.
 <!-- - [`teltrace`](https://github.com/ben-sappey/teltrace) -- Recover temperature and pressure of exoplanet atmospheres from Voigt profile fitting of telluric lines. (Made during Code/Astro 2023.) -->
 

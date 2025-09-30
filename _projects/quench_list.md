@@ -36,7 +36,7 @@ As addressed in greater detail in [Polzin et al. (2021)](https://ui.adsabs.harva
 
 Quenched, now-isolated dwarfs that are *likely* backsplash galaxies or experiencing dwarf-dwarf interactions are listed in italics. Though they are not isolated by every definition, they are isolated by some definitions (generally those that are concerned primarily with current proximity to massive neighbors). 
 
-Similarly, while all quenched, isolated, low-mass galaxy candidates are included here for completeness, it is worth noting that the sample is not homogeneous. Some of these candidates are potentially higher mass and subject to AGN feedback and other processes not as readily seen in low mass dwarfs. Candidate quenched, isolated ultrafaint dwarfs (log<sub>10</sub>(M<sub>star</sub>/M<sub>⊙</sub> < 6) may be susceptible to the effects of reionization in addition to environmental and feedback mechanisms that impact more massive galaxies.
+Similarly, while all quenched, isolated, low-mass galaxy candidates are included here for completeness, it is worth noting that the sample is not homogeneous. Some of these candidates are potentially higher mass and subject to AGN feedback and other processes not as readily seen in low mass dwarfs. Candidate quenched, isolated ultrafaint dwarfs (log<sub>10</sub>(M<sub>star</sub>/M<sub>⊙</sub> < 6)) may be susceptible to the effects of reionization in addition to environmental and feedback mechanisms that impact more massive galaxies.
 
 Additional candidates not included in the table due to large uncertainties/necessary follow-up:
 - APPLES I ([Pasquali et al. 2005](https://ui.adsabs.harvard.edu/abs/2005AJ....129..148P/abstract){:target="_blank"})

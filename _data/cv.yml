@@ -171,14 +171,14 @@
   type: time_table
   contents:
     - title: "PANCHO: Piloting a Novel Calibration for H2 Observations"
-      institution: HST/COS GO-18074
+      institution: HST/COS GO-18074 (PI)
       year: Cycle 33
     - title: The star formation-ISM-GCM connection in dwarf galaxies
       institution: "Palomar/NGPS (Co-I; PI: Qu)"
       description: Primarily responsible for proposal.
       year: 2025B
     - title: Emission mapping of the diffuse gas in and around star-forming galaxies
-      institution: "Magellan/IMACS (Submitter/Co-I; PI: Chen)"
+      institution: "Magellan/IMACS + LLAMAS (Submitter/Co-I; PI: Chen)"
       description: Graduate students are not able to PI Magellan proposals at UChicago, so “submitter” indicates primary responsibility.
       year: 2025B
     - title: Star formation in low-mass dwarf galaxies with CGM constraints
@@ -219,13 +219,11 @@
     - title: Keck/NIRES
       year: 2 nights
     - title: Magellan/IMACS
-      year: 6 nights
+      year: 9 nights
     - title: Magellan/LLAMAS
-      year: 2 nights
+      year: 3 nights
     - title: Magellan/LDSS3
       year: 1 night
-    - title: Magellan/Rosie-IFU
-      year: 2 nights
     - title: Palomar/TripleSpec
       year: 2 nights
     - title: Midway High Performance Computing Cluster
@@ -243,6 +241,7 @@
   contents:
     - year: 2025
       items:
+        - Kavli Foundation Science and Society Sparks
         - K. Patricia Cross Future Leaders Award, AAC&U
     - year: 2024
       items:

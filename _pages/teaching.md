@@ -35,7 +35,7 @@ I am a **(Senior) Graduate Fellow of the Chicago Center for Teaching & Learning*
 - **Teaching Mentor**, CCTE 50000: *Course Design and College Teaching*
 	- Autumn 2023 with Dr. Samuel Harris
 	- Winter 2025 with Dr. Amanda Jungels
-	- *Spring 2026 (upcoming)*
+	- *Spring 2026 with Dr. Karin Maxey (upcoming)*
 - **Instructor**, Fundamentals of Teaching in STEM
 	- Winter 2024
 	- Autumn 2024
@@ -122,7 +122,7 @@ I have also worked with a number of high school students, both through my resear
 
 #### Polygence
 - Anagha Ramnath (Millburn High School; now University of Rochester Physics and Astronomy '26) -- "*Finding the constant of an accelerating universe: the Hubble constant*" ([JOURNYS](https://issuu.com/journys7/docs/journys_12.2/4){:target="_blank"})
-- Cora Constantinescu (Issaquah High School; now UCSB Physics '25) -- "*Fourth order integration of the solar system*"
+- Cora Constantinescu (Issaquah High School; UCSB Physics '25 -> Berkeley Planetary Science PhD student) -- "*Fourth order integration of the solar system*"
 - Anirudh Krishna (The Shri Ram School Aravali; now UCLA Comp Sci + Math '25) -- "*A review of black hole X-ray transients*"
 - Jacqueline Huebner (Campolindo High School; now UCSD Comp Sci '25) -- "*A surface brightness profile of M31 from archival SDSS data*" (JOURNYS, submitted)
 - Jeshwanth Mohan (Arcadia High School; now UC Berkeley Engineering Physics '26) -- "*Multi-messenger observability of neutron star binary systems*" (JOURNYS, submitted)
