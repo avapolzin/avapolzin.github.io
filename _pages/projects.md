@@ -79,7 +79,7 @@ In my spare time, I enjoy working on more computationally oriented projects that
 <!-- - [`angelus`](https://github.com/avapolzin/angelus) -- Crossmatch a field with existing galaxy and QSO catalogs and check virial coverage.  -->
 <!-- (This idea was spun off of a function in [`uwstatus`](https://github.com/avapolzin/UWSStatusSearch), my package for checking the status of Dragonfly UW observations and cross-matching UW fields with existing galaxy catalogs.) -->
 - [`cutout`](https://github.com/avapolzin/cutout) -- Quick view survey cutouts; no user choices, just plotting!
-- [`gaiacmds`](https://github.com/avapolzin/goodenough_gaia_cmds) -- "Good enough" color-magnitude diagrams recovered from Gaia data.  (Designed for use in the classroom, rather than research).
+- [`gaiacmds`](https://github.com/avapolzin/goodenough_gaia_cmds) -- "Good enough" color-magnitude diagrams recovered from Gaia data.  (Designed for use in the classroom, rather than research.)
 - [`rahrah`](https://github.com/avapolzin/rahrah) -- University-inspired matplotlib color palettes.
 <!-- - [`teltrace`](https://github.com/ben-sappey/teltrace) -- Recover temperature and pressure of exoplanet atmospheres from Voigt profile fitting of telluric lines. (Made during Code/Astro 2023.) -->
 
