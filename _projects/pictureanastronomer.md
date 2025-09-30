@@ -2,7 +2,7 @@
 layout: page
 title: Picture an Astronomer
 description: 
-img: assets/img/Rubin.png
+img: assets/img/Rubin_cover_serif.png
 importance: 2
 category: Other Work
 ---
