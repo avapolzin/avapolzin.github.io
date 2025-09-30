@@ -6,7 +6,7 @@ permalink: /research/
 years: [2025, 2024, 2023, 2022, 2021]
 nav: true
 nav_order: 2
-display_categories: [Galaxy Evolution, Time-Domain Astronomy]
+display_categories: [Galaxy Evolution, Time-Domain Astronomy, Other Work]
 horizontal: false
 ---
 
@@ -68,13 +68,15 @@ See below for some research highlights (with brief summaries) and a list of publ
 In a past life, my research was focused on time-domain astronomy (it's where my astrophysics research career started when I was an undergraduate at Northwestern!). It's a subfield I still love and return to sporadically.
 <!-- I started my astrophysics research career in time-domain astronomy when I was an undergraduate at Northwestern. It's a subfield I love and return to sporadically. Two of the projects came out of my time at NU, while the third (at right) came about as a result of my participation in the (2021) La Serena School for Data Science. -->
 
+I also periodically take on side efforts aimed at democratizing access to science and science education.
+
 <hr style="height:1px; visibility:hidden;" />
 
 #### Software
 
 In my spare time, I enjoy working on more computationally oriented projects that will hopefully be useful to (or fun for) the larger community. A few such projects are in the works right now, so do check back for updates.
 - [`albumpl`](https://github.com/avapolzin/albumpl) -- Custom matplotlib color palettes based on album covers.
-- [`angelus`](https://github.com/avapolzin/angelus) -- Crossmatch a field with existing galaxy and QSO catalogs and check virial coverage. 
+<!-- - [`angelus`](https://github.com/avapolzin/angelus) -- Crossmatch a field with existing galaxy and QSO catalogs and check virial coverage.  -->
 <!-- (This idea was spun off of a function in [`uwstatus`](https://github.com/avapolzin/UWSStatusSearch), my package for checking the status of Dragonfly UW observations and cross-matching UW fields with existing galaxy catalogs.) -->
 - [`cutout`](https://github.com/avapolzin/cutout) -- Quick view survey cutouts; no user choices, just plotting!
 - [`gaiacmds`](https://github.com/avapolzin/goodenough_gaia_cmds) -- "Good enough" color-magnitude diagrams recovered from Gaia data.  (Designed for use in the classroom, rather than research).
