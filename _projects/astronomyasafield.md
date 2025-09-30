@@ -37,3 +37,5 @@ In addition to being shared widely online, hard copies have been distributed at 
 If you would like to order print copies of *Astronomy as a Field* (at-cost), please email me! 
 
 Similarly, Astronomy as a Field is currently being translated into languages other than English. If you would like to volunteer to (help) translate, please also reach out.
+
+*Astronomy as a Field* was highlighted by Yale [Physics](https://physics.yale.edu/news/yale-astronomy-and-physics-members-contribute-guide-aspiring-astrophysicists){:target="_blank"}, Astronomy (in their [news](https://astronomy.yale.edu/news/yale-astronomy-members-contribute-guide-aspiring-astrophysicists){:target="_blank"} and [newsletter](https://astronomy.yale.edu/sites/default/files/files/Astronomy%20Newsletter%20Winter%202023.pdf){:target="_blank"}), and [Wright Laboratory](https://web.archive.org/web/20250430033008/https://wlab.yale.edu/news/yale-astronomy-and-physics-members-contribute-guide-aspiring-astrophysicists){:target="_blank"}.
