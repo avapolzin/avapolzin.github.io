@@ -104,7 +104,7 @@ instagram_id: # your instagram id
 facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
-ads_query: fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy)&p_=0&q=author%3A%22polzin%2C%20ava%22%20OR%20orcid%3A0000-0002-5283-933X%20OR%20ack%3A%22ava%20polzin%22&sort=date%20desc%2C%20bibcode%20desc
+ads_query: fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy)&q=author%3A%22polzin%2C%20ava%22%20OR%20orcid%3A0000-0002-5283-933X&sort=date%20desc%2C%20bibcode%20desc&p_=0
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
