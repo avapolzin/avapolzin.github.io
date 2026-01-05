@@ -46,6 +46,7 @@ I am a **(Senior) Graduate Fellow of the Chicago Center for Teaching & Learning*
 **Instructor of Record**, University of Chicago Summer Session, 2025
 - ASTR 11901: *The Physics of Stars - An Introduction*
 	- Invited by department to lead at-capacity, three-week intensive summer course
+	- Course materials are available [here](https://github.com/avapolzin/ASTR11901_Summer2025){:target = "_blank"}.
 
 
 <hr style="height:1px; visibility:hidden;" />

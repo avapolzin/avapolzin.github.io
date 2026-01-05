@@ -170,6 +170,10 @@
 - title: Accepted Proposals
   type: time_table
   contents:
+    - title: Observing the inner CGM of early universe galaxy analogs
+      institution: "Magellan/IMACS (Submitter/Co-I; PI: Chen)"
+      description: Graduate students are not able to PI Magellan proposals at UChicago, so “submitter” indicates primary responsibility.
+      year: 2026A
     - title: "PANCHO: Piloting a Novel Calibration for H2 Observations"
       institution: HST/COS GO-18074 (PI)
       year: Cycle 33
@@ -179,7 +183,6 @@
       year: 2025B
     - title: Emission mapping of the diffuse gas in and around star-forming galaxies
       institution: "Magellan/IMACS + LLAMAS (Submitter/Co-I; PI: Chen)"
-      description: Graduate students are not able to PI Magellan proposals at UChicago, so “submitter” indicates primary responsibility.
       year: 2025B
     - title: Star formation in low-mass dwarf galaxies with CGM constraints
       institution: "Magellan/IMACS (Submitter/Co-I; PI: Chen)"
@@ -224,6 +227,8 @@
       year: 3 nights
     - title: Magellan/LDSS3
       year: 1 night
+    - title: Palomar/NGPS
+      year: 1 night
     - title: Palomar/TripleSpec
       year: 2 nights
     - title: Midway High Performance Computing Cluster
@@ -239,6 +244,8 @@
 - title: Selected Honors and Awards
   type: time_table
   contents:
+    - year: 2026
+        - Rodger Doxsey Travel Prize, American Astronomical Society
     - year: 2025
       items:
         - Kavli Foundation Science and Society Sparks
@@ -246,6 +253,7 @@
     - year: 2024
       items:
         - Quad Fellowship by IIE (<a href="https://physicalsciences.uchicago.edu/news/article/astronomy-and-astrophysics-phd-student-ava-polzin-selected-as-a-2024-quad-fellow/" target = "blank_">UChicago PSD News</a>)
+        - Buchalter Cosmology Prize, as part of the CHIME Collaboration (for <a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...947...16A/abstract" target= "blank_"> ApJ, 947, 16</a>)
         - Audience Choice Award, UChicago 3-Minute Thesis Competition (<a href="https://www.youtube.com/watch?v=WRYJjMpB_FY" target = "blank_" >Video</a>)
     - year: 2023
       items: 

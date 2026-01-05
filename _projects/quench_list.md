@@ -15,7 +15,7 @@ As addressed in greater detail in [Polzin et al. (2021)](https://ui.adsabs.harva
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe src="/assets/html/quenchlist.html" frameborder='0' scrolling='yes' height="750px" width="800pt"></iframe>
+        <iframe src="/assets/html/quenchlist.html" frameborder='0' scrolling='yes' height="770px" width="800pt"></iframe>
     </div>
 </div>
 
@@ -36,7 +36,7 @@ As addressed in greater detail in [Polzin et al. (2021)](https://ui.adsabs.harva
 
 Quenched, now-isolated dwarfs that are *likely* backsplash galaxies or experiencing dwarf-dwarf interactions are listed in italics. Though they are not isolated by every definition, they are isolated by some definitions (generally those that are concerned primarily with current proximity to massive neighbors). 
 
-Similarly, while all quenched, isolated, low-mass galaxy candidates are included here for completeness, it is worth noting that the sample is not homogeneous. Some of these candidates are potentially higher mass and subject to AGN feedback and other processes not as readily seen in low mass dwarfs. Candidate quenched, isolated ultrafaint dwarfs (log<sub>10</sub>(M<sub>star</sub>/M<sub>⊙</sub> < 6)) may be susceptible to the effects of reionization in addition to environmental and feedback mechanisms that impact more massive galaxies.
+Similarly, while all quenched, isolated, low-mass galaxy candidates are included here for completeness, it is worth noting that the sample is not homogeneous. Some of these candidates are potentially higher mass and subject to AGN feedback and other processes not as readily seen in low mass dwarfs. Candidate quenched, isolated ultrafaint dwarfs (log<sub>10</sub>(M<sub>star</sub>/M<sub>⊙</sub>) < 6) may be susceptible to the effects of reionization in addition to environmental and feedback mechanisms that impact more massive galaxies, though galaxies for which reionization is the primary mechanism to which quenching is attributed are not included here.
 
 Additional candidates not included in the table due to large uncertainties/necessary follow-up:
 - APPLES I ([Pasquali et al. 2005](https://ui.adsabs.harvard.edu/abs/2005AJ....129..148P/abstract){:target="_blank"})
@@ -45,6 +45,7 @@ Additional candidates not included in the table due to large uncertainties/neces
 - Tucana B ([Sand et al. 2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...935L..17S/abstract){:target="_blank"})
 <!-- - Corvus A ([Jones et al. 2024](){:target="_blank"}) -- note that this dwarf is gas-rich and potentially observed in a transitory quiescent phase -->
 - Zangetsu ([Wei et al. 2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250514073W/abstract))
+- [Shapiro (2025)](https://arxiv.org/abs/2512.14808){:target="_blank"} -- note: distances (via *purported* TRGB measurements) appear extremely suspect
 
 Notes and caveats:
 - Metallicity estimates for Tucana are discrepant between the linked references. The one listed in the table is from [Lavery & Mighell (1992)](https://ui.adsabs.harvard.edu/abs/1992AJ....103...81L/abstract){:target="_blank"}, while [Monelli et al. (2010c)](https://ui.adsabs.harvard.edu/abs/2010ApJ...722.1864M/abstract){:target="_blank"} suggest that Tucana is somewhat more metal-enriched.
