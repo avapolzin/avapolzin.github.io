@@ -245,6 +245,7 @@
   type: time_table
   contents:
     - year: 2026
+      items:
         - Rodger Doxsey Travel Prize, American Astronomical Society
     - year: 2025
       items:
