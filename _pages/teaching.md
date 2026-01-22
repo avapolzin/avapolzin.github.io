@@ -106,8 +106,6 @@ I am a **(Senior) Graduate Fellow of the Chicago Center for Teaching & Learning*
 
 I'm also very interested in good mentorship practices. My current + past students are listed below. 
 
-I'm sometimes approached by students for informational interviews; please do reach out if you're interested in learning more about my research or trajectory. One of the most informative things I did as an undergraduate (which I wish I had done even sooner) was cold email astrophysicists at various career stages to chat about their work and path to/through science.
-
 ### University of Chicago
 - Catherine Mah (Hong Kong University Physics '25, exchange student at UChicago) -- Recovering photometry and structural properties for a diverse sample of dwarf galaxies
 - Vicky Bardon Soto (University of Chicago '27) -- Analyzing spatially resolved optical spectra of low-mass dwarf galaxies
