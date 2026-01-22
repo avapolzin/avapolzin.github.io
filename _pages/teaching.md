@@ -39,7 +39,7 @@ I am a **(Senior) Graduate Fellow of the Chicago Center for Teaching & Learning*
 - **Instructor**, Fundamentals of Teaching in STEM
 	- Winter 2024
 	- Autumn 2024
-	- *Winter 2026 (upcoming)*
+	- Winter 2026
 - **Founder/Facilitator**, Pedagogy in the Physical Sciences talk series, 2024 - Present
 - **Instructor**, Effectively Communicating Complex Information, Spring 2025
 
