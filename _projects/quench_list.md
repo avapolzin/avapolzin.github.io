@@ -44,8 +44,11 @@ Additional candidates not included in the table due to large uncertainties/neces
 - [Prole et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.2049P/abstract){:target="_blank"}
 - Tucana B ([Sand et al. 2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...935L..17S/abstract){:target="_blank"})
 <!-- - Corvus A ([Jones et al. 2024](){:target="_blank"}) -- note that this dwarf is gas-rich and potentially observed in a transitory quiescent phase -->
-- Zangetsu ([Wei et al. 2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250514073W/abstract))
+- Zangetsu ([Wei et al. 2026](https://ui.adsabs.harvard.edu/abs/2026ApJ...997...32W/abstract){:target="_blank"})
 - [Shapiro (2025)](https://arxiv.org/abs/2512.14808){:target="_blank"} -- note: distances (via *purported* TRGB measurements) appear extremely suspect
+<!-- - ELVES-Field sample ([Carlsten et al. 2026](https://arxiv.org/abs/2602.16778){:target="_blank"})-- of particular interest as a population-level study; uses an optical and NUV color criterion to determine quenching and including both field and dwarf group galaxies -->
+
+ELVES-Field ([Carlsten et al. 2026](https://arxiv.org/abs/2602.16778){:target="_blank"}) may be of partiular interest as a population-level study, but note that galaxies in the sample are differentiated between star forming and quenched using an optical and NUV color criterion unlike other similar works and include both field and dwarf group galaxies.
 
 Notes and caveats:
 - Metallicity estimates for Tucana are discrepant between the linked references. The one listed in the table is from [Lavery & Mighell (1992)](https://ui.adsabs.harvard.edu/abs/1992AJ....103...81L/abstract){:target="_blank"}, while [Monelli et al. (2010c)](https://ui.adsabs.harvard.edu/abs/2010ApJ...722.1864M/abstract){:target="_blank"} suggest that Tucana is somewhat more metal-enriched.
