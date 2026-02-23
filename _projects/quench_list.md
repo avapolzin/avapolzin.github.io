@@ -8,14 +8,14 @@ category:
 
 Since there are still relatively few candidate quenched, isolated dwarf galaxies known, this is a way to keep track and easily compare their properties. 
 
-Please look at the references linked in the table for extended discussion of these galaxies and their properties. The physical and chemical parameters listed here are derived in different ways from different data, so though every effort is made to show values consistently, rigorous one-to-one comparison will require understanding the nuance of each individual measurement and approach to analysis.
+Please look at the references linked in the table for extended discussion of these galaxies and their properties. The physical and chemical parameters listed here are derived in different ways from different data, so though every effort is made to show values consistently, rigorous one-to-one comparison will require understanding the nuance of each individual measurement and approach to analysis. If you find any errors or are aware of more updated references, do feel free to email me.
 
 As addressed in greater detail in [Polzin et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...914L..23P/abstract){:target="_blank"}, the non-backsplash quiescent field dwarfs share common characteristics including young (\~ 1 Gyr) stellar populations and low (10<sup>6</sup> - 10<sup>7</sup> M<sub>⊙</sub>) stellar masses, pointing to similar physical mechanisms informing the cessation of star formation in each case.
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe src="/assets/html/quenchlist.html" frameborder='0' scrolling='yes' height="770px" width="800pt"></iframe>
+        <iframe src="/assets/html/quenchlist.html" frameborder='0' scrolling='yes' height="780px" width="800pt"></iframe>
     </div>
 </div>
 
@@ -48,10 +48,11 @@ Additional candidates not included in the table due to large uncertainties/neces
 - [Shapiro (2025)](https://arxiv.org/abs/2512.14808){:target="_blank"} -- note: distances (via *purported* TRGB measurements) appear extremely suspect
 <!-- - ELVES-Field sample ([Carlsten et al. 2026](https://arxiv.org/abs/2602.16778){:target="_blank"})-- of particular interest as a population-level study; uses an optical and NUV color criterion to determine quenching and including both field and dwarf group galaxies -->
 
-ELVES-Field ([Carlsten et al. 2026](https://arxiv.org/abs/2602.16778){:target="_blank"}) may be of partiular interest as a population-level study, but note that galaxies in the sample are differentiated between star forming and quenched using an optical and NUV color criterion unlike other similar works and include both field and dwarf group galaxies.
+ELVES-Field ([Carlsten et al. 2026](https://arxiv.org/abs/2602.16778){:target="_blank"}) may be of particular interest as a population-level study, but note that galaxies in the sample are differentiated between star forming and quenched using an optical and NUV color criterion unlike other similar works and include both field and dwarf group galaxies.
 
-Notes and caveats:
-- Metallicity estimates for Tucana are discrepant between the linked references. The one listed in the table is from [Lavery & Mighell (1992)](https://ui.adsabs.harvard.edu/abs/1992AJ....103...81L/abstract){:target="_blank"}, while [Monelli et al. (2010c)](https://ui.adsabs.harvard.edu/abs/2010ApJ...722.1864M/abstract){:target="_blank"} suggest that Tucana is somewhat more metal-enriched.
+<!-- Notes and caveats: -->
+Comments and caveats:
+- Metallicity estimates for Tucana are discrepant between the linked references. The value listed in the table is from [Lavery & Mighell (1992)](https://ui.adsabs.harvard.edu/abs/1992AJ....103...81L/abstract){:target="_blank"}, while [Monelli et al. (2010c)](https://ui.adsabs.harvard.edu/abs/2010ApJ...722.1864M/abstract){:target="_blank"} suggest that Tucana is somewhat more metal-enriched.
 - **PEARLSDG has now been reported to likely be part of a group at 124 Mpc ([Carleton et al. 2024b](https://ui.adsabs.harvard.edu/abs/2024RNAAS...8..181C/abstract){:target="_blank"}). It has been removed from the list.**
 <!-- It will remain (crossed out) on the list for completeness for now, but will be removed in the future.** -->
 - FAST has reported an HI mass for COSMOS-dw1 (log<sub>10</sub>(M<sub>HI</sub>/M<sub>⊙</sub>) = 6.69, [Pan et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240816597P/abstract){:target="_blank"}). While it's included in the table as superseding the HI non-detection in CHILES, it should be noted that the source appears to be offset by \~6.5 arcsec, which is >R<sub>eff</sub> for the galaxy. Since the redshift is consistent with COSMOS-dw1, it is possible that this is still representative of the galaxy's HI reservoir and the offset comes from FAST's large pixel scale (60 arcsec) and large beam size (174 arcsec x 174 arcsec). 
@@ -61,3 +62,17 @@ Notes and caveats:
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |*UGC 5205*|*09:44:07.2 -00:39:30*|*~21*|*3x10<sup>8</sup>*|*0.1-0.3*||*-1.9*|*≲ 3x10<sup>-11</sup>*|*3.5x10<sup>8</sup>*|*dwarf-dwarf interaction*|*[Kado-Fong et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024ApJ...963...37K/abstract){:target="_blank"}*|
 |Corvus A| |3.48|10<sup>6</sup>|||0.256|5.6x10<sup>-10</sup>|3.89x10<sup>8</sup>|isolated, but "associated with local sheet"|[Jones et al. 2024](){:target="_blank"}| -->
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe src="{{ '/assets/plotly/isoquench.html' | relative_url }}" frameborder='0' scrolling='no' height="630px" width="800pt"></iframe>
+    </div>
+</div>
+
+<div class="caption">
+    An interactive version of the above table of named quenched isolated dwarf galaxies. Use the dropdown menus on the side to change which values are showing. Mousing over a point will show the name of the galaxy. You can also zoom and pan.
+
+    Upper limits are indicated by arbitary large, unidirectional error bars and uncertainties are shown where available from the literature. As always, please refer to the original references for more detailed information about individual measurements.
+
+    When using the discrete "isolation" criterion, the mapping is 0 = dwarf group, 1 = backsplash, 2 = likely backsplash, 3 = possibly backsplash, 4 = possible extreme backsplash, and 5 = isolated.
+</div>
