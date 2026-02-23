@@ -15,7 +15,7 @@ As addressed in greater detail in [Polzin et al. (2021)](https://ui.adsabs.harva
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe src="/assets/html/quenchlist.html" frameborder='0' scrolling='yes' height="900px" width="800pt"></iframe>
+        <iframe src="/assets/html/quenchlist.html" frameborder='0' scrolling='yes' height="1000px" width="800pt"></iframe>
     </div>
 </div>
 
@@ -60,7 +60,6 @@ Additional candidates not included here due to large uncertainties/necessary fol
 <!-- - Corvus A ([Jones et al. 2024](){:target="_blank"}) -- note that this dwarf is gas-rich and potentially observed in a transitory quiescent phase -->
 - Zangetsu ([Wei et al. 2026](https://ui.adsabs.harvard.edu/abs/2026ApJ...997...32W/abstract){:target="_blank"})
 - [Shapiro (2025)](https://arxiv.org/abs/2512.14808){:target="_blank"} -- note: distances (via *purported* TRGB measurements) appear extremely suspect
-<!-- - ELVES-Field sample ([Carlsten et al. 2026](https://arxiv.org/abs/2602.16778){:target="_blank"})-- of particular interest as a population-level study; uses an optical and NUV color criterion to determine quenching and including both field and dwarf group galaxies -->
 
 <!-- ELVES-Field ([Carlsten et al. 2026b](https://arxiv.org/abs/2602.16778){:target="_blank"}) may be of particular interest as a population-level study, but note that galaxies in this small sample are differentiated between star forming and quenched using an optical and NUV color criterion unlike other similar works and include both field and dwarf group galaxies. -->
 
