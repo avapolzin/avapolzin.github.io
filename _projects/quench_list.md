@@ -57,9 +57,9 @@ ELVES-Field ([Carlsten et al. 2026](https://arxiv.org/abs/2602.16778){:target="_
 </div>
 
 <div class="caption">
-    An interactive version of the above table of named quenched isolated dwarf galaxies. Use the dropdown menus on the side to change which values are shown. Mousing over a point will show the name of the galaxy. You can also zoom and pan.
+    An interactive version of the above table of named quenched isolated dwarf galaxies. Use the dropdown menus on the side to change which values are shown (NaN values in the color variable will appear gray). Mousing over a point will show the name of the galaxy. You can also zoom and pan.
 
-    Upper limits are indicated by arbitary large, unidirectional error bars and uncertainties are shown where available from the literature. As always, please refer to the original references for more detailed information about individual measurements.
+    Limits are indicated by arbitary large, unidirectional error bars and uncertainties are shown where available from the literature. As always, please refer to the original references for more detailed information about individual measurements.
 
     When using the discrete "isolation" criterion, the mapping is 0 = dwarf group, 1 = backsplash, 2 = likely backsplash, 3 = possibly backsplash, 4 = possible extreme backsplash, and 5 = isolated.
 </div>
