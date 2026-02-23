@@ -15,7 +15,7 @@ As addressed in greater detail in [Polzin et al. (2021)](https://ui.adsabs.harva
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe src="/assets/html/quenchlist.html" frameborder='0' scrolling='yes' height="850px" width="800pt"></iframe>
+        <iframe src="/assets/html/quenchlist.html" frameborder='0' scrolling='yes' height="900px" width="800pt"></iframe>
     </div>
 </div>
 
@@ -34,11 +34,25 @@ As addressed in greater detail in [Polzin et al. (2021)](https://ui.adsabs.harva
 |dw1322m2053 (Hedgehog)|13:22:46.88 -20:53:55.94|2.41|6.3x10<sup>5</sup>|5-7| |0.176|< 10<sup>-10</sup>|< 10<sup>6</sup>|possibly backsplash|[Li et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024arXiv240600101L/abstract){:target="_blank}|
 -->
 
-Quenched, now-isolated dwarfs that are *likely* backsplash galaxies or experiencing dwarf-dwarf interactions are listed in italics. Though they are not isolated by every definition, they are isolated by some definitions (generally those that are concerned primarily with current proximity to massive neighbors). 
+Quenched, now-isolated dwarfs that are *likely* backsplash galaxies or experiencing dwarf-dwarf interactions are listed in italics. Though they are not isolated by every definition, they are isolated by some definitions (generally those that are concerned primarily with current proximity to massive neighbors). Similarly, galaxies with nearby massive neighbors (not necessarily within R<sub>vir</sub>) or close in projection to a massive group are listed in italics.
 
-Similarly, while all quenched, isolated, low-mass galaxy candidates are included here for completeness, it is worth noting that the sample is not homogeneous. Some of these candidates are potentially higher mass and subject to AGN feedback and other processes not as readily seen in low mass dwarfs. Candidate quenched, isolated ultrafaint dwarfs (log<sub>10</sub>(M<sub>star</sub>/M<sub>⊙</sub>) < 6) may be susceptible to the effects of reionization in addition to environmental and feedback mechanisms that impact more massive galaxies, though galaxies for which reionization is the primary mechanism to which quenching is attributed are not included here.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe src="{{ '/assets/plotly/isoquench.html' | relative_url }}" frameborder='0' scrolling='no' height="630px" width="800pt"></iframe>
+    </div>
+</div>
 
-Additional candidates not included in the table due to large uncertainties/necessary follow-up:
+<div class="caption">
+    An interactive version of the above table. Use the dropdown menus on the side to change which values are shown (NaN values in the color variable will appear gray). Mousing over a point will show the name of the galaxy. You can also zoom and pan.
+
+    Limits are indicated by arbitary large, unidirectional error bars and uncertainties are shown where available from the literature. As always, please refer to the original references for more detailed information about individual measurements.
+
+    When using the discrete and qualitative "isolation" criterion, the mapping is 0 = dwarf group, 1 = backsplash/massive neighbor, 2 = likely backsplash/near massive group, 3 = possibly backsplash, 4 = possible extreme backsplash/isolated from massive neighbors, and 5 = isolated.
+</div>
+
+Similarly, while all reported quenched, isolated, low-mass galaxy candidates are included here for completeness, it is worth noting that the sample is not homogeneous. Some of these candidates are potentially higher mass and subject to AGN feedback and other processes not as readily seen in low mass dwarfs. Candidate quenched, isolated ultrafaint dwarfs (log<sub>10</sub>(M<sub>star</sub>/M<sub>⊙</sub>) < 6) may be susceptible to the effects of reionization in addition to environmental and feedback mechanisms that impact more massive galaxies, though galaxies for which reionization is the primary mechanism to which quenching is attributed are not included here.
+
+Additional candidates not included here due to large uncertainties/necessary follow-up:
 - APPLES I ([Pasquali et al. 2005](https://ui.adsabs.harvard.edu/abs/2005AJ....129..148P/abstract){:target="_blank"})
 - [Penny et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018MNRAS.476..979P/abstract){:target="_blank"}
 - [Prole et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.2049P/abstract){:target="_blank"}
@@ -48,21 +62,8 @@ Additional candidates not included in the table due to large uncertainties/neces
 - [Shapiro (2025)](https://arxiv.org/abs/2512.14808){:target="_blank"} -- note: distances (via *purported* TRGB measurements) appear extremely suspect
 <!-- - ELVES-Field sample ([Carlsten et al. 2026](https://arxiv.org/abs/2602.16778){:target="_blank"})-- of particular interest as a population-level study; uses an optical and NUV color criterion to determine quenching and including both field and dwarf group galaxies -->
 
-ELVES-Field ([Carlsten et al. 2026](https://arxiv.org/abs/2602.16778){:target="_blank"}) may be of particular interest as a population-level study, but note that galaxies in the sample are differentiated between star forming and quenched using an optical and NUV color criterion unlike other similar works and include both field and dwarf group galaxies.
+<!-- ELVES-Field ([Carlsten et al. 2026b](https://arxiv.org/abs/2602.16778){:target="_blank"}) may be of particular interest as a population-level study, but note that galaxies in this small sample are differentiated between star forming and quenched using an optical and NUV color criterion unlike other similar works and include both field and dwarf group galaxies. -->
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <iframe src="{{ '/assets/plotly/isoquench.html' | relative_url }}" frameborder='0' scrolling='no' height="630px" width="800pt"></iframe>
-    </div>
-</div>
-
-<div class="caption">
-    An interactive version of the above table of named quenched isolated dwarf galaxies. Use the dropdown menus on the side to change which values are shown (NaN values in the color variable will appear gray). Mousing over a point will show the name of the galaxy. You can also zoom and pan.
-
-    Limits are indicated by arbitary large, unidirectional error bars and uncertainties are shown where available from the literature. As always, please refer to the original references for more detailed information about individual measurements.
-
-    When using the discrete "isolation" criterion, the mapping is 0 = dwarf group, 1 = backsplash, 2 = likely backsplash, 3 = possibly backsplash, 4 = possible extreme backsplash, and 5 = isolated.
-</div>
 
 <!-- Notes and caveats: -->
 Comments and caveats:
