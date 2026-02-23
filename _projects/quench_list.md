@@ -34,7 +34,7 @@ As addressed in greater detail in [Polzin et al. (2021)](https://ui.adsabs.harva
 |dw1322m2053 (Hedgehog)|13:22:46.88 -20:53:55.94|2.41|6.3x10<sup>5</sup>|5-7| |0.176|< 10<sup>-10</sup>|< 10<sup>6</sup>|possibly backsplash|[Li et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024arXiv240600101L/abstract){:target="_blank}|
 -->
 
-Quenched, now-isolated dwarfs that are *likely* backsplash galaxies or experiencing dwarf-dwarf interactions are listed in italics. Though they are not isolated by every definition, they are isolated by some definitions (generally those that are concerned primarily with current proximity to massive neighbors). Similarly, galaxies with nearby massive neighbors (not necessarily within R<sub>vir</sub>) or close in projection to a massive group are listed in italics.
+Quenched, now-isolated dwarfs that are *likely* backsplash galaxies or experiencing dwarf-dwarf interactions are listed in italics. Though they are not isolated by every definition, they are isolated by some definitions (generally those that are concerned primarily with current proximity to massive neighbors). Galaxies reported as isolated with nearby massive neighbors (not necessarily within R<sub>vir</sub>) or close in projection to a massive group are also listed in italics.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
