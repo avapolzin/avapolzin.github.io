@@ -6,7 +6,7 @@ importance:
 category: 
 ---
 
-Since there are still relatively few candidate quenched, isolated dwarf galaxies known, this is a way to keep track and easily compare their properties. 
+Since there are still relatively few candidate low-mass quenched, isolated dwarf galaxies known, this is a way to keep track and easily compare their properties. 
 
 Please look at the references linked in the table for extended discussion of these galaxies and their properties. The physical and chemical parameters listed here are derived in different ways from different data, so though every effort is made to show values consistently, rigorous one-to-one comparison will require understanding the nuance of each individual measurement and approach to analysis. If you find any errors or are aware of more updated references, do feel free to email me.
 
