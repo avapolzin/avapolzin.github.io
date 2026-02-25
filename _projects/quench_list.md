@@ -15,7 +15,7 @@ As addressed in greater detail in [Polzin et al. (2021)](https://ui.adsabs.harva
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe src="/assets/html/quenchlist.html" frameborder='0' scrolling='yes' height="900px" width="800pt"></iframe>
+        <iframe src="/assets/html/quenchlist.html" frameborder='0' scrolling='yes' height="1030px" width="800pt"></iframe>
     </div>
 </div>
 
@@ -47,7 +47,7 @@ Quenched, now-isolated dwarfs that are *likely* backsplash galaxies or experienc
 
     Limits are indicated by arbitary large, unidirectional error bars and uncertainties are shown where available from the literature. As always, please refer to the original references for more detailed information about individual measurements.
 
-    When using the discrete and qualitative "isolation" criterion, the mapping is 0 = dwarf group, 1 = backsplash, 2 = likely backsplash, 3 = possibly backsplash, 4 = possible extreme backsplash, and 5 = isolated.
+    When using the discrete and qualitative "isolation" criterion, the mapping is 0 = dwarf group, 1 = backsplash, 2 = likely backsplash, 3 = possibly backsplash/near massive group, 4 = possible extreme backsplash, and 5 = isolated.
 </div>
 
 While all reported quenched, isolated, low-mass galaxy candidates are included here for completeness, it is worth noting that the sample is not homogeneous. Some of these candidates are potentially higher mass and subject to AGN feedback and other processes not as readily seen in low mass dwarfs. Candidate quenched, isolated ultrafaint dwarfs (log<sub>10</sub>(M<sub>star</sub>/M<sub>⊙</sub>) < 6) may be susceptible to the effects of reionization in addition to environmental and feedback mechanisms that impact more massive galaxies, though galaxies for which reionization is the primary mechanism to which quenching is attributed are not included here. Further, galaxies are identified using various definitions of both "quenched" and "isolated".
@@ -61,7 +61,7 @@ Additional candidates not included here due to large uncertainties/necessary fol
 - Zangetsu ([Wei et al. 2026](https://ui.adsabs.harvard.edu/abs/2026ApJ...997...32W/abstract){:target="_blank"})
 - [Shapiro (2025)](https://arxiv.org/abs/2512.14808){:target="_blank"} -- note: distances (via *purported* TRGB measurements) appear extremely suspect
 
-ELVES-Field ([Carlsten et al. 2026](https://arxiv.org/abs/2602.16778){:target="_blank"}) may be of particular interest as a population-level study, but note that galaxies in this small sample are differentiated between star forming and quenched using an optical and NUV color criterion unlike other similar works and include both field and dwarf group galaxies.
+<!-- ELVES-Field ([Carlsten et al. 2026](https://arxiv.org/abs/2602.16778){:target="_blank"}) may be of particular interest as a population-level study, but note that galaxies in this small sample are differentiated between star forming and quenched using an optical and NUV color criterion unlike other similar works and include both field and dwarf group galaxies. -->
 
 
 <!-- Notes and caveats: -->
