@@ -45,7 +45,7 @@ Quenched, now-isolated dwarfs that are *likely* backsplash galaxies or experienc
 <div class="caption">
     An interactive version of the above table. Use the dropdown menus on the side to change which values are shown (NaN values in the color variable will appear gray). Mousing over a point will show the name of the galaxy. You can also zoom and pan.
 
-    Limits are indicated by arbitary large, unidirectional error bars and uncertainties are shown where available from the literature. As always, please refer to the original references for more detailed information about individual measurements.
+    Limits are indicated by arbitarily large, unidirectional error bars and uncertainties are shown where available from the literature. As always, please refer to the original references for more detailed information about individual measurements.
 
     When using the discrete and qualitative "isolation" criterion, the mapping is 0 = dwarf group, 1 = backsplash, 2 = likely backsplash, 3 = possibly backsplash/near massive group, 4 = possible extreme backsplash, and 5 = isolated.
 </div>

@@ -35,7 +35,7 @@ I am a **(Senior) Graduate Fellow of the Chicago Center for Teaching & Learning*
 - **Teaching Mentor**, CCTE 50000: *Course Design and College Teaching*
 	- Autumn 2023 with Dr. Samuel Harris
 	- Winter 2025 with Dr. Amanda Jungels
-	- *Spring 2026 with Dr. Karin Maxey (upcoming)*
+	- Spring 2026 with Dr. Karin Maxey
 - **Instructor**, Fundamentals of Teaching in STEM
 	- Winter 2024
 	- Autumn 2024
@@ -146,3 +146,6 @@ I have also worked with a number of high school students, both through my resear
 - Ian McDonnell (St. Andrew's School) -- Review of detection/characterization bias using transit spectroscopy to study exoplanet atmospheres
 - Gentry Thatcher (Phillips Academy) -- N-body simulations including Planet 9/Planet X candidates
 {% enddetails %}
+
+
+<!-- As many people, I keep a list of useful resources for students [here](https://avapolzin.github.io/projects/student_resources/). -->
