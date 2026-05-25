@@ -76,7 +76,7 @@ I also periodically take on side efforts aimed at democratizing access to scienc
 
 In my spare time, I enjoy working on more computationally oriented projects that will hopefully be useful to (or fun for) the larger community. A few such projects are in the works right now, so do check back for updates.
 - [`albumpl`](https://github.com/avapolzin/albumpl) -- Custom matplotlib color palettes based on album covers.
-<!-- - [`angelus`](https://github.com/avapolzin/angelus) -- Crossmatch a field with existing galaxy and QSO catalogs and check virial coverage.  -->
+<!-- - [`angelus`](https://github.com/avapolzin/angelus) -- Crossmatch a field with existing galaxy and QSO catalogs and check virial coverage. (In releasing `angelus`, I also crossmatched all of [Milliquas v8](https://quasars.org/milliquas.htm){:target="_blank"} with [_GALEX_ GR6/7](https://galex.stsci.edu/GR6/){:target="_blank"}. You can download my Milliquas x _GALEX_ catalog as [.txt](https://github.com/avapolzin/angelus/raw/main/data/milliquas_x_galex.txt.zip) or as [.fits](https://github.com/avapolzin/angelus/raw/main/data/milliquas_x_galex.fits.zip).) -->
 <!-- (This idea was spun off of a function in [`uwstatus`](https://github.com/avapolzin/UWSStatusSearch), my package for checking the status of Dragonfly UW observations and cross-matching UW fields with existing galaxy catalogs.) -->
 - [`cutout`](https://github.com/avapolzin/cutout) -- Quick view survey cutouts; no user choices, just plotting!
 - [`gaiacmds`](https://github.com/avapolzin/goodenough_gaia_cmds) -- "Good enough" color-magnitude diagrams recovered from Gaia data.  (Designed for use in the classroom, rather than research.)
@@ -86,6 +86,7 @@ In my spare time, I enjoy working on more computationally oriented projects that
 Some software comes out of the course of my usual (published) work, too!
 <!-- - [`buffys`](https://github.com/avapolzin/BUFFyS) -- Backsplash vs. Unbound Field From galaxy Simulations -->
 - [`delight`](https://github.com/fforster/DELIGHT) -- Deep Learning Identification of Galaxy Hosts of Transients
+- [`hih2`](https://github.com/avapolzin/hih2) -- Easily callable HI-H<sub>2</sub> models from the literature. So simple it should hardly be a package!
 - [`silkscreen`](https://github.com/tbmiller-astro/silkscreen) -- Infer properties of dwarf galaxies and star clusters from survey imaging using simulation-based inference.
 - [`spike`](https://github.com/avapolzin/spike) -- Properly drizzled space-based point spread functions for more accurate photometry.
 - [`xraydlps`](https://github.com/avapolzin/X-rayLCs) -- Plot and classify X-ray transient light curves.

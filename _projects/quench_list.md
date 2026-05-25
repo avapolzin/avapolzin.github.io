@@ -58,8 +58,10 @@ Additional candidates not included here due to large uncertainties/necessary fol
 - [Prole et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.2049P/abstract){:target="_blank"}
 - Tucana B ([Sand et al. 2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...935L..17S/abstract){:target="_blank"})
 <!-- - Corvus A ([Jones et al. 2024](){:target="_blank"}) -- note that this dwarf is gas-rich and potentially observed in a transitory quiescent phase -->
-- Zangetsu ([Wei et al. 2026](https://ui.adsabs.harvard.edu/abs/2026ApJ...997...32W/abstract){:target="_blank"})
+<!-- - dE01+09 [Paudel et al. 2025](https://arxiv.org/abs/2508.20459){:target="_blank"} -- extreme backsplash galaxy -->
+- [Bidaran et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...693L..16B/abstract)
 - [Shapiro (2025)](https://arxiv.org/abs/2512.14808){:target="_blank"} -- note: distances (via *purported* TRGB measurements) appear extremely suspect
+- Zangetsu ([Wei et al. 2026](https://ui.adsabs.harvard.edu/abs/2026ApJ...997...32W/abstract){:target="_blank"})
 
 <!-- ELVES-Field ([Carlsten et al. 2026](https://arxiv.org/abs/2602.16778){:target="_blank"}) may be of particular interest as a population-level study, but note that galaxies in this small sample are differentiated between star forming and quenched using an optical and NUV color criterion unlike other similar works and include both field and dwarf group galaxies. -->
 
