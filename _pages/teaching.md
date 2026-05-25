@@ -27,7 +27,7 @@ Below is a list of my specific teaching involvements (past + present); evaluatio
 
 #### University of Chicago
 
-I am a **(Senior) Graduate Fellow of the Chicago Center for Teaching & Learning**. As a Fellow, I am charged with developing and delivering instruction and programming related to teaching and pedagogy to other early career scholars at the University of Chicago. In addition to the other responsibilities of that role, I have held the following positions through the CCTL:
+From 2023-2026, I was a **(Senior) Graduate Fellow of the Chicago Center for Teaching & Learning**. As a Fellow, I was charged with developing and delivering instruction and programming related to teaching and pedagogy to other early career scholars at the University of Chicago. In addition to the other responsibilities of that role, I have held the following positions through the CCTL:
 - **Instructor**, Teaching@Chicago: *Lecturing for Student Learning*
 	- Autumn 2023
 	- Autumn 2024
@@ -40,7 +40,7 @@ I am a **(Senior) Graduate Fellow of the Chicago Center for Teaching & Learning*
 	- Winter 2024
 	- Autumn 2024
 	- Winter 2026
-- **Founder/Facilitator**, Pedagogy in the Physical Sciences talk series, 2024 - Present
+- **Founder/Facilitator**, Pedagogy in the Physical Sciences talk series, 2024 - 2026
 - **Instructor**, Effectively Communicating Complex Information, Spring 2025
 
 **Instructor of Record**, University of Chicago Summer Session, 2025
