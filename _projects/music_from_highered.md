@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 12 Years of Higher Education in 144-ish Songs
+title: 12 Years of Higher Education in 144 Songs
 img:
 importance:
 category: 
@@ -13,7 +13,7 @@ As I started college as a music major specifically hoping to go into music super
 As a quick key (that you could also get from my CV), my academic history is as follows:
 - 08/2014 to 08/2016 -- University of Southern California, Music Industry major in the Thornton School of Music
 - 09/2016 to 12/2018 -- Northwestern University, Physics BA
-- 08/2019 to 08/2022 -- Yale University, Astronomy MS, MPhil (en route to PhD); transferred to UofC post-candidacy
+- 08/2019 to 08/2022 -- Yale University, Astronomy MS, MPhil (en route to PhD); transferred to U of C post-candidacy
 - 08/2022 to 08/2026 -- University of Chicago, Astronomy & Astrophysics PhD
 
 While these are all phenomenal schools, they all have very different personalities (as I did when I attended them), which are reflected in the music I most associate with each year. I list below 12 songs (in no particular order) from each year I was an undergraduate or graduate student, noting that these are not always the *best* songs, but the ones that, when I hear, I immediately think of that period (though I did limit to one song per artist per year, often choosing my favorite of the contenders). I similarly highlight a particular album (or two...) that was (were) particularly relevant in a given year. Interestingly, this exercise works much better with significant hindsight; the hardest years to put together were 2024-2026, while 2014-2016 were the easiest.
