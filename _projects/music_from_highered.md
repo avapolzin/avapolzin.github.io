@@ -74,7 +74,7 @@ or *The Getaway* - Red Hot Chili Peppers
 9. Fight for What’s Right - The Rua
 10. Carry Me Ohio - Sun Kil Moon
 11. Lonesome Street - Blur
-12. Walter Reed - Michael Penn
+12. White Rabbit - Mayssa Karaa
 
 
 **2017** 
@@ -150,7 +150,7 @@ Album: *The Pact* - Slothrust
 
 [^2]: Not the most-played Dear Hunter song around 674 Orange St., but I couldn't not get into it after Juan Guerra (especially) and Imad Pasha moved into the unit below mine during the pandemic.
 
-[^3]: Ubiquitous that summer, but doubly so in Imad's subaru.
+[^3]: Ubiquitous that summer, but doubly so in Imad's Subaru.
 
 [^4]: Local Chicago horror punk band led by some of my old friends -- check them out!
 
@@ -255,7 +255,7 @@ Album: *Deep Dream* - Daddy Issues
 4. 16 Military Wives — The Decemberists
 5. Boys in the Better Land — Fontaines D.C.
 6. I Fink U Freeky - Die Antwoord
-7. I'll Come Crashing - A Giant Dog
+7. Divorce Song - Liz Phair
 8. Time Machine - TALK
 9. Asking For It - Hole
 10. Gut Feeling - DEVO
@@ -275,8 +275,7 @@ In a tradition that started in no small part because of Juan Guerra and Imad Pas
 
 
 
-
-Not that anyone asked for this, but in soundtracking my entire life, here are the artists that most exemplify the personality of, or at least my experience at, each university I've attended:
+In soundtracking my entire life, here are the artists that most exemplify the personality of, or at least my experience at, each university I've attended:
 
 **USC:**
 
