@@ -152,7 +152,7 @@ Album: *The Pact* - Slothrust
 
 [^3]: Ubiquitous that summer, but doubly so in Imad's Subaru.
 
-[^4]: See also [AOC (2020)](https://thehill.com/homenews/house/508519-ocasio-cortez-posts-video-with-doja-cats-bad-bitch-after-insult-from-gop/){:target="_blank"}.
+[^4]: See also [Ocasio-Cortez (2020)](https://thehill.com/homenews/house/508519-ocasio-cortez-posts-video-with-doja-cats-bad-bitch-after-insult-from-gop/){:target="_blank"}.
 
 [^5]: Local Chicago horror punk band led by some of my old friends -- check them out!
 
