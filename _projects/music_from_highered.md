@@ -264,7 +264,7 @@ Album: *Deep Dream* - Daddy Issues
 
 
 
-In a tradition that started in no small part because Juan bought me my first vinyl (and then the next year he and Imad gifted me a nice turntable), I've collected records for each first author paper I've submitted. For another slice of the PhD, I list those here:
+In a tradition that started in no small part because of Juan Guerra and Imad Pasha, since Juan bought me my first vinyl (and then the next year he and Imad gifted me a nice turntable), I've collected records for each first author paper I've submitted. For another slice of the PhD, I list those here:
 - Polzin et al. (2021) -- *London Calling* (first pressing, CBS London) - The Clash
 - Polzin et al. (2023a) -- *Plans* - Death Cab for Cutie
 - Polzin et al. (2024a) -- *An Awesome Wave* - Alt-J
