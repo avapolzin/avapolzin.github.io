@@ -142,7 +142,7 @@ I have also worked with a number of high school students, both through my resear
 - Cameron Hall (Palisades Charter High School; now Tufts Mechanical Engineering '29) -- Inferring globular cluster stellar population ages from resolved photometry ([Isochrone fitting explainer video](https://www.youtube.com/watch?v=WvgZJw1y2Og){:target="_blank"})
 - Anshveer Bindra (Oberoi International School) - Review of QFT as applied to de Sitter space
 - Chris Brenner (Needham High School) - Review of false vacuum decay in the context of cosmological theories
-- Harshil Soni (South Brunswick High School) -- "*Analyzing the velocity and inclination of the galaxy M33 using spectral image cubes*"
+- Harshil Soni (South Brunswick High School) -- "*Analyzing the velocity and inclination of the galaxy M33 using spectral image cubes*" ([NHSJS](https://nhsjs.com/2026/analyzing-the-inclination-and-velocity-of-galaxy-m33-using-spectral-image-cubes/){:target="_blank"})
 - Ian McDonnell (St. Andrew's School) -- Review of detection/characterization bias using transit spectroscopy to study exoplanet atmospheres
 - Gentry Thatcher (Phillips Academy) -- N-body simulations including Planet 9/Planet X candidates
 - Yu (Yolanda) Wen -- Spectral classification of stars
