@@ -6,9 +6,9 @@ importance:
 category: 
 ---
 
-This page is not specifically accessible on my site, so either you've accessed this directly (through the GitHub repo or by poking around a sitemap) and it's a bit of an an "easter egg" or you were at my PhD defense when I linked it directly (in which case, thank you!).
+This page is not specifically accessible on my site, so either you've accessed this directly (through the GitHub repo or by poking around a sitemap) and it's a bit of an an "easter egg", or you were at my PhD defense when I linked it directly (in which case, thank you!).
 
-As I started college as a music major specifically hoping to go into music supervision, I think it's only fair that I complete my formal education by soundtracking the whole experience (after all, I created a soundtrack for my USC Thornton application that I figure must have played a role in my acceptance).
+As I started college as a music major specifically hoping to go into music supervision, I think it's only fitting that I complete my formal education by soundtracking the whole experience (after all, I created a soundtrack for my USC Thornton application that I figure must have played a role in my acceptance).
 
 As a quick key (that you could also get from my CV), my academic history is as follows:
 - 08/2014 to 08/2016 -- University of Southern California, Music Industry major in the Thornton School of Music
@@ -35,9 +35,9 @@ Album: *The Bends* - Radiohead
 9. Elephant - Tame Impala
 10. So American - Portugal. The Man
 11. Cobrastyle - Teddybears
-12. Cigarette Daydream - Cage The Elephant
+12. Cigarette Daydreams - Cage The Elephant
 
-[^1]: As far as I know, the version of this song that I love (from before the Narwhals became Wallows) is no longer available anywhere. Cole Preston (the drummer) was a close friend of mine our freshman year of college and he sent me the draft mix of "I'm Full" the day they recorded it. I *really*, *really* liked it (it lives on in my iTunes, which is my primary music player), but the Wallows rerecord lacks the warmth and soul that made the song what it was.
+[^1]: As far as I know, the version of this song that I love (from before the Narwhals became Wallows) is no longer available anywhere. Cole Preston (the drummer) was a close friend of mine our freshman year of college, and he sent me the draft mix of "I'm Full" the day they recorded it. I *really*, *really* liked it (it lives on in my iTunes, which is my primary music player), but the Wallows rerecord lacks the warmth and soul that made the song what it was.
 
 **2015**
 
@@ -51,8 +51,8 @@ Album: *From a Basement on a Hill* - Elliott Smith
 6. Renegades - X Ambassadors
 7. Measuring Cups - Andrew Bird
 8. San Francisco - Foxygen
-9. Stars are Aligned - Darlia
-10. Cemetery Highrise Slum - Creepoid
+9. Stars Are Aligned - Darlia
+10. American Smile - Creepoid
 11. The Lake - Typhoon
 12. Low - Cracker
 
@@ -104,9 +104,9 @@ Album: *Be the Cowboy* - Mitski
 3. Fireworks - First Aid Kit
 4. Bang Bang Bang Bang - Soho Dolls
 5. Nobody’s Daughter - Hole
-6. Distant Radio - Devics
+6. Distant Radio - Dēvics
 7. Morning Light - Girls
-8. The Body is a Blade - Japanese Breakfast
+8. The Body Is a Blade - Japanese Breakfast
 9. Efil’s God - Eels
 10. Cells - Teenage Fanclub
 11. Fitzpleasure - Alt-J
@@ -120,7 +120,7 @@ Album: *Coral Fang* - The Distillers
 1. Brand New City - Mitski
 2. Chatterbox - New York Dolls
 3. Seek and You Shall Destroy - Smashing Pumpkins
-4. This is How I Disappear - My Chemical Romance
+4. This Is How I Disappear - My Chemical Romance
 5. Blood in Gutters - The Distillers
 6. Machu Picchu - The Strokes
 7. Cuban Slide - The Pretenders
@@ -145,14 +145,16 @@ Album: *The Pact* - Slothrust
 8. Peach - Slothrust
 9. Garden Song - CRY OUT
 10. I Love My Leather Jacket - The Chills
-11. Boss Bitch - Doja Cat
-12. Stolen Skin - Won’t Stay Dead[^4]
+11. Boss Bitch - Doja Cat[^4]
+12. Stolen Skin - Won’t Stay Dead[^5]
 
 [^2]: Not the most-played Dear Hunter song around 674 Orange St., but I couldn't not get into it after Juan Guerra (especially) and Imad Pasha moved into the unit below mine during the pandemic.
 
 [^3]: Ubiquitous that summer, but doubly so in Imad's Subaru.
 
-[^4]: Local Chicago horror punk band led by some of my old friends -- check them out!
+[^4]: See also [AOC (2020)](https://thehill.com/homenews/house/508519-ocasio-cortez-posts-video-with-doja-cats-bad-bitch-after-insult-from-gop/){:target="_blank"}.
+
+[^5]: Local Chicago horror punk band led by some of my old friends -- check them out!
 
 
 
@@ -295,12 +297,12 @@ In soundtracking my entire life, here are the artists that most exemplify the pe
 - Garbage
 - Girls
 - The Decemberists
-- Arcade Fire[^5]
+- Arcade Fire[^6]
 - Spoon
 
 **Yale:**
 
-- Japanese Breakfast[^6]
+- Japanese Breakfast[^7]
 - Ra Ra Riot
 - Vampire Weekend
 - The Shins
@@ -313,14 +315,14 @@ In soundtracking my entire life, here are the artists that most exemplify the pe
 
 - Dandy Warhols
 - Mitski
-- Andrew Bird[^7]
+- Andrew Bird[^8]
 - Bauhaus
 - The Phlegms
 - Gorillaz
 
-[^5]: Fitting as Will Butler attended NU.
+[^6]: Fitting as Will Butler attended NU.
 
-[^6]: By (perfect) chance, I got to see Japanese Breakfast for free at Yale's Spring Fling.
+[^7]: By (perfect) chance, I got to see Japanese Breakfast for free at Yale's Spring Fling.
 
-[^7]: Ironic as Andrew Bird attended NU.
+[^8]: Ironic as Andrew Bird attended NU.
 
