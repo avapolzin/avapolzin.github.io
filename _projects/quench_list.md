@@ -81,4 +81,4 @@ Comments and caveats:
 
 <hr style="height:15px; visibility:hidden;" />
 
-![Cumulative plot of quenched, isolated dwarf galaxy candidates]({{ "../assets/img/isodwarf_cumulative.png" | relative_url }})
+![Cumulative plot of quenched, isolated dwarf galaxy candidates]({{ "../assets/img/isodwarf_cumulative.png" | relative_url }}){:width="100%"}
