@@ -16,7 +16,7 @@ As a quick key (that you could also get from my CV), my academic history is as f
 - 08/2019 to 08/2022 -- Yale University, Astronomy MS, MPhil (en route to PhD); transferred to U of C post-candidacy
 - 08/2022 to 08/2026 -- University of Chicago, Astronomy & Astrophysics PhD
 
-While these are all phenomenal schools, they all have very different personalities (as I did when I attended them), which are reflected in the music I most associate with each year. I list below 12 songs (in no particular order) from each year I was an undergraduate or graduate student, noting that these are not always the *best* songs, but the ones that, when I hear, I immediately think of that period (though I did limit to one song per artist per year -- with the exception of 2026 -- often choosing my favorite of the contenders). I similarly highlight a particular album (or two...) that was (were) particularly relevant in a given year. Interestingly, this exercise works much better with significant hindsight; the hardest years to put together were 2024-2026, while 2014-2016 were the easiest.
+While these are all phenomenal schools, they all have very different personalities (as I did when I attended them), which are reflected in the music I most associate with each year. I list below 12 songs (in no particular order) from each year I was an undergraduate or graduate student, noting that these are not always the *best* songs, but the ones that, when I hear, I immediately think of that period (though I did limit to one song per artist per year often choosing my favorite of the contenders). I similarly highlight a particular album (or two...) that was (were) particularly relevant in a given year. Interestingly, this exercise works much better with significant hindsight; the hardest years to put together were 2024-2026, while 2014-2016 were the easiest.
 
 I considered making this into a giant Spotify playlist, but because (1) not all of these songs are available on Spotify, (2) not everyone wants to use Spotify as a moral stance (understandable, I mostly use my locally downloaded iTunes library), and (3) many of these songs/artists are well-known so the direct access is likely not needed to understand the reference.
 
@@ -251,7 +251,7 @@ Album: *Deep Dream* - Daddy Issues
 
 **2026** (so far, subject to change)
 
-1. Rusalka, Rusalka / The Wild Rushes - The Decemberists
+1. Just - Radiohead
 2. Take It From The Top - The Velveteers
 3. Raising the Skate — Speedy Ortiz
 4. 16 Military Wives — The Decemberists
@@ -264,6 +264,8 @@ Album: *Deep Dream* - Daddy Issues
 11. Tranz - Gorillaz
 12. Right Wing - Priests
 
+
+The Decemberists may seem massively overrepresented on this (relatively) short list, but, as another throwback to my music school application, Thornton required that I name my favorite band of the moment, and I selected the Decemberists.
 
 
 In a tradition that started in no small part because of Juan Guerra and Imad Pasha, since Juan bought me my first vinyl (and then the next year he and Imad gifted me a nice turntable), I've collected records for each first author paper I've submitted. For another slice of the PhD, I list those here:
