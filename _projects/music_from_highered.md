@@ -186,7 +186,7 @@ Album: *Blue Rev* - Alvvays
 3. Rigid - The Phlegms
 4. Stigmata Martyr - Bauhaus
 5. After the Earthquake - Alvvays
-6. Angelica - Wet Leg
+6. 6 Underground - Sneaker Pimps
 7. S’il Vous Plait - Otoboke Beaver
 8. Not If You Were the Last Junkie On Earth - Dandy Warhols
 9. All Too Well (10 Minute Version) - Taylor Swift
@@ -201,7 +201,7 @@ Album: *Thirteen Tales from Urban Bohemia* - Dandy Warhols
 
 1. Girls - The Dare
 2. Maya the Psychic - Gerard Way
-3. Severed - The Decemberists
+3. Crystalised - The xx
 4. Bhang, Bhang, I’m A Burnout - Dum Dum Girls
 5. Happy Idiot - TV On the Radio
 6. Get Off - The Dandy Warhols
@@ -228,7 +228,7 @@ Album: *This Land is Inhospitable and So Are We* - Mitski
 9. Beat A Drum - REM
 10. Fleeting One - First Aid Kit
 11. Face to Face - Siouxsie and the Banshees
-12. Cheer Up London - SOFT PLAY
+12. Severed - The Decemberists
 
 
 **2025**
