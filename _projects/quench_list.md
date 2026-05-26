@@ -79,5 +79,6 @@ Comments and caveats:
 |*UGC 5205*|*09:44:07.2 -00:39:30*|*~21*|*3x10<sup>8</sup>*|*0.1-0.3*||*-1.9*|*≲ 3x10<sup>-11</sup>*|*3.5x10<sup>8</sup>*|*dwarf-dwarf interaction*|*[Kado-Fong et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024ApJ...963...37K/abstract){:target="_blank"}*|
 |Corvus A| |3.48|10<sup>6</sup>|||0.256|5.6x10<sup>-10</sup>|3.89x10<sup>8</sup>|isolated, but "associated with local sheet"|[Jones et al. 2024](){:target="_blank"}| -->
 
+<hr style="height:15px; visibility:hidden;" />
 
 ![Cumulative plot of quenched, isolated dwarf galaxy candidates]({{ "../assets/img/isodwarf_cumulative.png" | relative_url }})
