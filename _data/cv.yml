@@ -13,7 +13,7 @@
   contents:
     - title: Ph.D. in Astronomy & Astrophysics
       institution: The University of Chicago
-      year: Exp. 2026
+      year: 2026
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -23,13 +23,13 @@
       #       - Sub-description 2.
     - title: M.S. and M.Phil. in Astronomy (en route)
       institution: Yale University
-      year: Dec. 2022
+      year: 2022
       description:
         - Dean's Emerging Scholars Fellowship
         - Transferred to UChicago post-candidacy
     - title: B.A. in Physics (with honors, concentration in Astronomy)
       institution: Northwestern University
-      year: Dec. 2018
+      year: 2018
       description:
         # - <a href="/assets/pdf/SeniorThesis_reallyfinal.pdf" target = "blank_" >Thesis&#58; Exploring the Eclipsing Binary Yield of the Large Synoptic Survey Telescope with Prof. Aaron Geller</a>
         # - "Thesis: Exploring the Eclipsing Binary Yield of the Large Synoptic Survey Telescope with Prof. Aaron Geller"

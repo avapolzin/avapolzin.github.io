@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a PhD candidate in Astronomy and Astrophysics at the University of Chicago, where I am co-advised by Andrey Kravtsov and Hsiao-Wen Chen. My research focuses broadly on galaxy evolution and more specifically on star formation and the baryon cycle in low mass, low metallicity galaxies. 
+I recently defended my PhD in Astronomy and Astrophysics at the University of Chicago, where I was co-advised by Andrey Kravtsov and Hsiao-Wen Chen. My research focuses broadly on galaxy evolution and more specifically on star formation and the baryon cycle in low mass, low metallicity galaxies. 
 
 In September 2026, I will start as a Dunlap Fellow at the University of Toronto.
 

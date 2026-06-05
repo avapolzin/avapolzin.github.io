@@ -43,6 +43,8 @@ From 2023-2026, I was a **(Senior) Graduate Fellow of the Chicago Center for Tea
 - **Founder/Facilitator**, Pedagogy in the Physical Sciences talk series, 2024 - 2026
 - **Instructor**, Effectively Communicating Complex Information, Spring 2025
 
+You can read a short (though still somewhat comprehensive) guide to including data and research practices in the classroom [here](https://avapolzin.github.io/assets/pdf/SeniorThesis_reallyfinal.pdf).
+
 **Instructor of Record**, University of Chicago Summer Session, 2025
 - ASTR 11901: *The Physics of Stars - An Introduction*
 	- Invited by department to lead at-capacity, three-week intensive summer course
