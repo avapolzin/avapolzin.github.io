@@ -88,7 +88,7 @@ Album: *The Stars Are Indifferent to Astronomy* - Nada Surf
 5. The Headmaster Ritual - The Smiths
 6. Codes and Keys - Death Cab for Cutie
 7. Shaman - Triptides
-8. Orange Crush - REM
+8. Black Like Me - Spoon
 9. Film Burn - Yppah
 10. Killian’s Red - Nada Surf
 11. My Me - T. Hardy Morris
