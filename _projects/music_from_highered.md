@@ -38,6 +38,7 @@ Album: *The Bends* - Radiohead
 12. Cigarette Daydreams - Cage The Elephant
 
 [^1]: Unavoidable from my time as in the horn section of the Trojan Marching Band (in which we played with each of Lindsey Buckingham and Mick Fleetwood).
+
     ![with Allie vs. Stanford 2015]({{ "../assets/img/TMB2015_Stanford.jpg" | relative_url }}){:width="30%"}  ![vs. Utah 2015]({{ "../assets/img/TMB2015_Utah.jpg" | relative_url }}){:width="30%"}  ![vs. Idaho 2015]({{ "../assets/img/TMB2015_Idaho.jpg" | relative_url }}){:width="30%"}
 
 
