@@ -24,10 +24,10 @@ I considered making this into a giant Spotify playlist, but because (1) not all 
 
 Album: *The Bends* - Radiohead
 
-1. Tusk - Fleetwood Mac
+1. Tusk - Fleetwood Mac[^1]
 2. Find Yourself - Jacco Gardner
 3. Anthem - Emancipator
-4. I’m Full - The Narwhals[^1]
+4. I’m Full - The Narwhals[^2]
 5. Suddenly I See - KT Tunstall
 6. Vagabond - MisterWives
 7. Mount Wroclai - Beirut
@@ -37,7 +37,13 @@ Album: *The Bends* - Radiohead
 11. Cobrastyle - Teddybears
 12. Cigarette Daydreams - Cage The Elephant
 
-[^1]: As far as I know, the version of this song that I love (from before the Narwhals became Wallows) is no longer available anywhere. Cole Preston (the drummer) was a close friend of mine our freshman year of college, and he sent me the draft mix of "I'm Full" the day they recorded it. I *really*, *really* liked it (it lives on in my iTunes, which is my primary music player), but the Wallows rerecord lacks the warmth and soul that made the song what it was.
+[^1]: Unavoidable from my time as in the horn section of the Trojan Marching Band (in which we played with each of Lindsey Buckingham and Mick Fleetwood).
+    ![with Allie vs. Stanford 2015]({{ "../assets/img/TMB2015_Stanford.jpg" | relative_url }}){:width="30%"}  ![vs. Utah 2015]({{ "../assets/img/TMB2015_Utah.jpg" | relative_url }}){:width="30%"}  ![vs. Idaho 2015]({{ "../assets/img/TMB2015_Idaho.jpg" | relative_url }}){:width="30%"}
+
+
+
+
+[^2]: As far as I know, the version of this song that I love (from before the Narwhals became Wallows) is no longer available anywhere. Cole Preston (the drummer) was a close friend of mine our freshman year of college, and he sent me the draft mix of "I'm Full" the day they recorded it. I *really*, *really* liked it (it lives on in my iTunes, which is my primary music player), but the Wallows rerecord lacks the warmth and soul that made the song what it was.
 
 **2015**
 
@@ -138,23 +144,23 @@ Album: *The Pact* - Slothrust
 1. Waltz #2 (XO) - Elliott Smith
 2. Uptown Girl - The Beths
 3. Moon Over Marin  - Dead Kennedys
-4. The Dead Don’t Starve - The Dear Hunter[^2]
-5. Heat Waves - Glass Animals[^3]
+4. The Dead Don’t Starve - The Dear Hunter[^3]
+5. Heat Waves - Glass Animals[^4]
 6. Clash City Rockers - The Clash
 7. Head Over Heels - Go-Go’s
 8. Peach - Slothrust
 9. Garden Song - CRY OUT
 10. I Love My Leather Jacket - The Chills
-11. Boss Bitch - Doja Cat[^4]
-12. Stolen Skin - Won’t Stay Dead[^5]
+11. Boss Bitch - Doja Cat[^5]
+12. Stolen Skin - Won’t Stay Dead[^6]
 
-[^2]: Not the most-played Dear Hunter song around 674 Orange St., but I couldn't not get into it after Juan Guerra (especially) and Imad Pasha moved into the unit below mine during the pandemic.
+[^3]: Not the most-played Dear Hunter song around 674 Orange St., but I couldn't not get into it after Juan Guerra (especially) and Imad Pasha moved into the unit below mine during the pandemic.
 
-[^3]: Ubiquitous that summer, but doubly so in Imad's Subaru.
+[^4]: Ubiquitous that summer, but doubly so in Imad's Subaru.
 
-[^4]: See also [Ocasio-Cortez (2020)](https://thehill.com/homenews/house/508519-ocasio-cortez-posts-video-with-doja-cats-bad-bitch-after-insult-from-gop/){:target="_blank"}.
+[^5]: See also [Ocasio-Cortez (2020)](https://thehill.com/homenews/house/508519-ocasio-cortez-posts-video-with-doja-cats-bad-bitch-after-insult-from-gop/){:target="_blank"}.
 
-[^5]: Local Chicago horror punk band led by some of my old friends -- check them out!
+[^6]: Local Chicago horror punk band led by some of my old friends -- check them out!
 
 
 
@@ -253,7 +259,7 @@ Album: *Deep Dream* - Daddy Issues
 
 1. Just - Radiohead
 2. Take It From The Top - The Velveteers
-3. Raising the Skate — Speedy Ortiz
+3. Lucky 88 — Speedy Ortiz
 4. 16 Military Wives — The Decemberists
 5. Boys in the Better Land — Fontaines D.C.
 6. I Fink U Freeky - Die Antwoord
@@ -299,12 +305,12 @@ In soundtracking my entire life, here are the artists that most exemplify the pe
 - Garbage
 - Girls
 - The Decemberists
-- Arcade Fire[^6]
+- Arcade Fire[^7]
 - Spoon
 
 **Yale:**
 
-- Japanese Breakfast[^7]
+- Japanese Breakfast[^8]
 - Ra Ra Riot
 - Vampire Weekend
 - The Shins
@@ -317,14 +323,14 @@ In soundtracking my entire life, here are the artists that most exemplify the pe
 
 - Dandy Warhols
 - Mitski
-- Andrew Bird[^8]
+- Andrew Bird[^9]
 - Bauhaus
 - The Phlegms
 - Gorillaz
 
-[^6]: Fitting as Will Butler attended NU.
+[^7]: Fitting as Will Butler attended NU.
 
-[^7]: By (perfect) chance, I got to see Japanese Breakfast for free at Yale's Spring Fling.
+[^8]: By (perfect) chance, I got to see Japanese Breakfast for free at Yale's Spring Fling.
 
-[^8]: Ironic as Andrew Bird attended NU.
+[^9]: Ironic as Andrew Bird attended NU.
 
