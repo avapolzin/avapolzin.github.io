@@ -37,7 +37,7 @@ Album: *The Bends* - Radiohead
 11. Cobrastyle - Teddybears
 12. Cigarette Daydreams - Cage The Elephant
 
-[^1]: Unavoidable from my time in the horn section of the Trojan Marching Band with which the Tusk was originally recorded in 1979 (plus we played with each of Lindsey Buckingham and Mick Fleetwood).
+[^1]: Unavoidable from my time in the horn section of the Trojan Marching Band with which Tusk was originally recorded in 1979 (plus we played separately with Lindsey Buckingham and Mick Fleetwood).
 
     ![with Allie vs. Stanford 2015]({{ "../assets/img/TMB2015_Stanford.jpg" | relative_url }}){:width="31%"}  ![vs. Utah 2015]({{ "../assets/img/TMB2015_Utah.jpg" | relative_url }}){:width="31%"}  ![vs. Idaho 2015]({{ "../assets/img/TMB2015_Idaho.jpg" | relative_url }}){:width="31%"}
 
