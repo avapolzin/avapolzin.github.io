@@ -147,8 +147,9 @@ I have also worked with a number of high school students, both through my resear
 - Harshil Soni (South Brunswick High School) -- "*Analyzing the velocity and inclination of the galaxy M33 using spectral image cubes*" ([NHSJS](https://nhsjs.com/2026/analyzing-the-inclination-and-velocity-of-galaxy-m33-using-spectral-image-cubes/){:target="_blank"})
 - Ian McDonnell (St. Andrew's School) -- Review of detection/characterization bias using transit spectroscopy to study exoplanet atmospheres
 - Gentry Thatcher (Phillips Academy) -- N-body simulations including Planet 9/Planet X candidates
-- Yu (Yolanda) Wen -- Spectral classification of stars
+- Yu (Yolanda) Wen (Beijing 21st Century School) -- Spectral classification of stars
+- Ansar Abdumanap (Miras International School) -- Photometric stellar classification, HR diagrams
 {% enddetails %}
 
 
-<!-- As many people, I keep a list of useful resources for students [here](https://avapolzin.github.io/projects/student_resources/). -->
+As many people, I keep a list of useful resources for students [here](https://avapolzin.github.io/projects/student_resources/).

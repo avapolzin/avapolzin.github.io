@@ -3,14 +3,14 @@ layout: page
 title: Research
 permalink: /research/
 # description: A growing collection of your cool projects.
-years: [2025, 2024, 2023, 2022, 2021]
+years: [2026, 2025, 2024, 2023, 2022, 2021]
 nav: true
 nav_order: 2
 display_categories: [Galaxy Evolution, Time-Domain Astronomy, Other Work]
 horizontal: false
 ---
 
-My research focus is broadly galaxy evolution and cosmology. I have been a member of the Canadian Hydrogen Intensity Mapping Experiment, the Dragonfly Telephoto Array team, and the Time Domain/Multi-Messenger Sub-Group for the High Energy X-ray Probe ([HEX-P](https://hexp.org)) proposal team.
+My research focus is broadly galaxy evolution and cosmology. I am (a recent) part of the JWST VENUS collaboration and have been a member of the Canadian Hydrogen Intensity Mapping Experiment, the Dragonfly Telephoto Array team, and the Time Domain/Multi-Messenger Sub-Group for the High Energy X-ray Probe ([HEX-P](https://hexp.org)) proposal team.
 
 I am interested in understanding the processes that impact star formation and the baryon cycle in low mass, low metallicity galaxies. I use both observations (of stellar populations and the gas in and around galaxies) and simulations to more holistically study the conditions under which star formation proceeds (or doesn't!) in local dwarf galaxies and galaxies at high redshift. An up-to-date list of quenched, isolated dwarf galaxy candidates and their inferred physical properties is available [here](https://avapolzin.github.io/projects/quench_list/).
 

@@ -6,9 +6,9 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Ava
 middle_name:
 last_name: Polzin
-email: apolzin@uchicago.edu
+email: ava.polzin@dunlap.utoronto.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Astrophysics PhD Candidate at UChicago
+  Dunlap Postdoctoral Fellow at University of Toronto
 footer_text: >
 keywords:  # add your own keywords or leave empty
 

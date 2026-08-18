@@ -18,7 +18,7 @@ As a quick key (that you could also get from my CV), my academic history is as f
 
 While these are all phenomenal schools, they all have very different personalities (as I did when I attended them), which are reflected in the music I most associate with each year. I list below 12 songs (in no particular order) from each year I was an undergraduate or graduate student, noting that these are not always the *best* songs, but the ones that, when I hear, I immediately think of that period (though I did limit to one song per artist per year often choosing my favorite of the contenders). I similarly highlight a particular album (or two...) that was (were) particularly relevant in a given year. Interestingly, this exercise works much better with significant hindsight; the hardest years to put together were 2024-2026, while 2014-2016 were the easiest.
 
-I considered making this into a giant Spotify playlist, but because (1) not all of these songs are available on Spotify, (2) not everyone wants to use Spotify as a moral stance (understandable, I mostly use my locally downloaded iTunes library), and (3) many of these songs/artists are well-known so the direct access is likely not needed to understand the reference.
+I considered making this into a giant Spotify playlist but did not because (1) not all of these songs are available on Spotify, (2) not everyone wants to use Spotify as a moral stance (understandable, I mostly use my locally downloaded iTunes library), and (3) many of these songs/artists are well-known so the direct access is likely not needed to understand the reference.
 
 **2014**
 
@@ -37,7 +37,7 @@ Album: *The Bends* - Radiohead
 11. Cobrastyle - Teddybears
 12. Cigarette Daydreams - Cage The Elephant
 
-[^1]: Unavoidable from my time in the horn section of the Trojan Marching Band with which Tusk was originally recorded in 1979 (plus we played separately with Lindsey Buckingham and Mick Fleetwood).
+[^1]: Unavoidable from my time in the horn section of the Trojan Marching Band with which Tusk was originally recorded in 1979 (plus in my two years in the TMB, we played separately with Lindsey Buckingham and Mick Fleetwood).
 
     ![with Allie vs. Stanford 2015]({{ "../assets/img/TMB2015_Stanford.jpg" | relative_url }}){:width="31%"}  ![vs. Utah 2015]({{ "../assets/img/TMB2015_Utah.jpg" | relative_url }}){:width="31%"}  ![vs. Idaho 2015]({{ "../assets/img/TMB2015_Idaho.jpg" | relative_url }}){:width="31%"}
 
@@ -265,7 +265,7 @@ Album: *Deep Dream* - Daddy Issues
 5. Boys in the Better Land — Fontaines D.C.
 6. I Fink U Freeky - Die Antwoord
 7. Divorce Song - Liz Phair
-8. Time Machine - TALK
+8. Liar - Built to Spill
 9. Asking For It - Hole
 10. Gut Feeling - DEVO
 11. Tranz - Gorillaz
@@ -283,6 +283,8 @@ In a tradition that started in no small part because of Juan Guerra and Imad Pas
 - Polzin et al. (2024c) -- *Moon Mirror* - Nada Surf
 - Polzin (2025) -- *Coral Fang* - The Distillers
 - Polzin et al. (2026a) -- *Deep Dream* - Daddy Issues
+
+Incidentially, in both Polzin et al. (2024b) and Polzin (2025), I used colormaps/color palettes based on album covers (accessible via a package I wrote, [`albumpl`](https://github.com/avapolzin/albumpl)).
 
 
 

@@ -14,8 +14,9 @@
     - title: Ph.D. in Astronomy & Astrophysics
       institution: The University of Chicago
       year: 2026
-      # description:
-      #   - Description 1.
+      description:
+        - Dissertation&#58; "Toward a Complete Picture of Star Formation and the Baryon Cycle in Dwarf Galaxies"(<a href="/assets/pdf/Polzin_University_of_Chicago_PhD_Dissertation.pdf" target = "blank_">PDF</a>)
+        - Advisors&#58; Andrey Kravtsov and Hsiao-Wen Chen
       #   - Description 2.
       #   - title: Description 3.
       #     contents:
@@ -42,7 +43,7 @@
   contents:
     - title: Graduate Research Assistant
       institution: The University of Chicago
-      year: 2022 - Present
+      year: 2022 - 2026
       description: 
         - "Theory/computation and observation; advisors: Profs. Andrey Kravtsov and Hsiao-Wen Chen"
         - Focusing on star formation and the baryon cycle in dwarf galaxies.

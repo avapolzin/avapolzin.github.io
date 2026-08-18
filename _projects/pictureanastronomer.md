@@ -21,7 +21,8 @@ category: Other Work
 
 In January, February, and March 2025, we ran the [Picture an Astronomer](https://pictureanastronomer.github.io){:target="_blank"} series funded by a generous grant from the University of Chicago Women's Board and supported by both the Kavli Institute for Cosmological Physics and the Department of Astronomy & Astrophysics. In addition to events and talks for the public (recordings available on the Picture an Astronomer page and linked below), more than 200 astronomers came together in a hybrid symposium focused on the state of the field for female scientists, engaging to both share science and discuss policies and practices that aid in retention of talent in the field. The Picture an Astronomer White Paper is the result of those discussions and is now out on [arXiv](https://arxiv.org/abs/2512.24465){:target="_blank"}.
 
-The Picture an Astronomer symposium was covered by [astrobites](https://astrobites.org/2025/02/11/the-picture-an-astronomer-symposium/){:target="_blank"}.
+The Picture an Astronomer symposium was covered by [astrobites](https://astrobites.org/2025/02/11/the-picture-an-astronomer-symposium/){:target="_blank"}. The Picture an Astronomer [white paper](https://womeninastronomy.blogspot.com/2026/01/crosspost-picture-astronomer-best.html){:target="_blank"} and [foreword](https://womeninastronomy.blogspot.com/2026/01/meg-urrys-full-remarks-from-cswa1400.html){:target="_blank"} were highlighted by the AAS CSWA blog, and the white paper also received a brief shout out from the [StarXiv](https://starxiv.com/2026/01/12/episode-28-fading-stars-digesting-planets-and-dark-matter-conundrums/){:target="_blank"} podcast.
+
 
 Recordings from the Picture an Astronomer public events:
 - [Kick-off Celebration](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b8fb0b8b-2ea4-4a12-8a5c-b2b3013b19eb){:target="_blank"} featuring Chihway Chang, Hsiao-Wen Chen, and Leslie Rogers
