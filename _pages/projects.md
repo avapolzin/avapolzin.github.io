@@ -95,7 +95,7 @@ Some software comes out of the course of my usual (published) work, too!
 
 ## Publications
 
-Below is a list of submitted, accepted, and published papers. My CV lists some additional *in preparation* papers, which have not yet been submitted, but for which drafts exist. These drafts may be made available upon reasonable request (as for fellowship or grant evaluation).
+Below is a list of submitted, accepted, and published papers. My CV lists some additional *in preparation* papers, which have not yet been submitted, but for which drafts exist, as well as some submitted papers which are not yet public. These manuscripts may be made available upon reasonable request (as for fellowship or grant evaluation).
 
 <!-- _pages/publications.md -->
 <div class="publications">

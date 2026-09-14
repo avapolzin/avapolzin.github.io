@@ -62,6 +62,7 @@ Additional candidates not included here due to large uncertainties/necessary fol
 - [Bidaran et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...693L..16B/abstract)
 - [Shapiro (2025)](https://arxiv.org/abs/2512.14808){:target="_blank"} -- note: distances (via *purported* TRGB measurements) appear extremely suspect
 - Zangetsu ([Wei et al. 2026](https://ui.adsabs.harvard.edu/abs/2026ApJ...997...32W/abstract){:target="_blank"})
+<!-- - DFUWS 258 ([Forbes et al. 2026](https://arxiv.org/abs/2609.00693)) -- note that neither dwarf reported here is isolated by typical definitions -->
 
 <!-- ELVES-Field ([Carlsten et al. 2026](https://arxiv.org/abs/2602.16778){:target="_blank"}) may be of particular interest as a population-level study, but note that galaxies in this small sample are differentiated between star forming and quenched using an optical and NUV color criterion unlike other similar works and include both field and dwarf group galaxies. -->
 

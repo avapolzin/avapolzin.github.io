@@ -203,6 +203,12 @@
           {%- if entry.novaciencia %}
             <a href="{{ entry.novaciencia }}" class="btn btn-sm z-depth-0" role="button">Nova Ciencia (ES)</a>
           {%- endif %}
+          {%- if entry.uchi %}
+            <a href="{{ entry.data }}" class="btn btn-sm z-depth-0" role="button">UChicago Knowledge</a>
+          {%- endif %}
+          {%- if entry.proquest %}
+            <a href="{{ entry.data }}" class="btn btn-sm z-depth-0" role="button">ProQuest</a>
+          {%- endif %}
           {%- if entry.poster %}
             {% if entry.poster contains '://' -%}
             <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button">Poster</a>

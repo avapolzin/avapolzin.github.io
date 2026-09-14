@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Ava
 middle_name:
 last_name: Polzin
-email: ava.polzin@dunlap.utoronto.ca
+email: ava.polzin@utoronto.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Dunlap Postdoctoral Fellow at University of Toronto
 footer_text: >
