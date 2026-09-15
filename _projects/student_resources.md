@@ -18,7 +18,7 @@ One of the primary challenges in starting out in a field is to have a mental map
 #### Presenting Research
 - [List of astronomy conferences](https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/){:target="_blank"} maintained by the Canadian Astronomy Data Centre
 - [Astrotalks](https://dhendriks.gitlab.io/astrotalks/index.html){:target="_blank"} -- David Hendriks' list of astronomy talks, which may help as example presentations
-- + many talk series hosted on YouTube (see a list of some under [astroteaching.github.io/resources](https://astroteaching.github.io/resources/){:target="_blank"})
+- \+ many talk series hosted on YouTube (see a list of some under [astroteaching.github.io/resources](https://astroteaching.github.io/resources/){:target="_blank"})
 
 #### Finding the Next Position
 There are lots of different places to find job postings. Below are two of the most commonly used:
