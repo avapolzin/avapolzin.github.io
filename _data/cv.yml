@@ -8,6 +8,16 @@
 #     - name: Languages
 #       value: English, German
 
+- title: Appointments
+  type: time_table
+  contents:
+    - title: Dunlap Fellow
+      institution: University of Toronto
+      year: 2026 - Present
+    - title: FAS Fellow
+      institution: University of Toronto
+      year: 2026 - Present
+
 - title: Education
   type: time_table
   contents:
@@ -38,7 +48,7 @@
         - Minor in Earth & Planetary Sciences
 
 
-- title: Research Experience
+- title: Pre-doctoral Research Experience
   type: time_table
   contents:
     - title: Graduate Research Assistant
