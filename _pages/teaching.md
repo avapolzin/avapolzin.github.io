@@ -108,10 +108,12 @@ You can read my short (though still somewhat comprehensive) guide to including d
 
 I'm also very interested in good mentorship practices. My current + past students are listed below. 
 
-### University of Chicago
+### University of Toronto
 - Thato Sotashe (University of Toronto '27) -- Empirically calibrating a "blue" stellar population SBF relation for WFC3/UVIS
 - Garv Choudhury (University of Toronto '27) -- Identifying and characterizing low-luminosity galaxies in Euclid Q1
 - Yan Ivanov (University of Toronto Mississauga '27) -- Testing galaxy-absorber physical association in projection using cosmological simulations
+
+### University of Chicago
 - Vicky Bardón Soto (University of Chicago '27) -- Analyzing spatially resolved optical spectra of the low-mass shell galaxy UGC 75
 - Catherine Mah (Hong Kong University Physics '25, exchange student at UChicago -> finance) -- Recovering photometry and structural properties for a diverse sample of dwarf galaxies
 
