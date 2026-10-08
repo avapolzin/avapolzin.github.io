@@ -109,47 +109,49 @@ You can read my short (though still somewhat comprehensive) guide to including d
 I'm also very interested in good mentorship practices. My current + past students are listed below. 
 
 ### University of Chicago
-- Catherine Mah (Hong Kong University Physics '25, exchange student at UChicago) -- Recovering photometry and structural properties for a diverse sample of dwarf galaxies
-- Vicky Bardon Soto (University of Chicago '27) -- Analyzing spatially resolved optical spectra of low-mass dwarf galaxies
-
+- Thato Sotashe (University of Toronto '27) -- Empirically calibrating a "blue" stellar population SBF relation for WFC3/UVIS
+- Garv Choudhury (University of Toronto '27) -- Identifying and characterizing low-luminosity galaxies in Euclid Q1
+- Yan Ivanov (University of Toronto Mississauga '27) -- Testing galaxy-absorber physical association in projection using cosmological simulations
+- Vicky Bardón Soto (University of Chicago '27) -- Analyzing spatially resolved optical spectra of the low-mass shell galaxy UGC 75
+- Catherine Mah (Hong Kong University Physics '25, exchange student at UChicago -> finance) -- Recovering photometry and structural properties for a diverse sample of dwarf galaxies
 
 I have also worked with a number of high school students, both through my research involvements in graduate school and through [Polygence](https://www.polygence.org){:target="_blank"}. If you are a high schooler interested in working with me through Polygence, just make sure to list me as your preference for mentor when you go through the application process.
 
 {% details Expand for list of HS students %}
 #### Yale University
 - Rohan Shivakumar (Choate Rosemary Hall externship; now Yale '27) -- Integrated light photometry, galaxy morphology, Dragonfly Wide-Field Survey
-<!-- - Jack P. (Windward School) --  -->
 
 
 #### Polygence
-- Anagha Ramnath (Millburn High School; now University of Rochester Physics and Astronomy '26) -- "*Finding the constant of an accelerating universe: the Hubble constant*" ([JOURNYS](https://issuu.com/journys7/docs/journys_12.2/4){:target="_blank"})
-- Cora Constantinescu (Issaquah High School; UCSB Physics '25 -> Berkeley Planetary Science PhD student) -- "*Fourth order integration of the solar system*"
-- Anirudh Krishna (The Shri Ram School Aravali; UCLA Comp Sci + Math '25 -> software engineer @ Samsara) -- "*A review of black hole X-ray transients*"
-- Jacqueline Huebner (Campolindo High School; UCSD Comp Sci '25 -> engineer @ Johns Hopkins APL) -- "*A surface brightness profile of M31 from archival SDSS data*" (JOURNYS, submitted)
-- Jeshwanth Mohan (Arcadia High School; now UC Berkeley Engineering Physics '26) -- "*Multi-messenger observability of neutron star binary systems*" (JOURNYS, submitted)
-- Tommaso Freschi (Longfields-Davidson Heights Secondary School; now University of Waterloo Physics and Astronomy '27) -- "*The correlation between the luminosity of active galactic nuclei and host galaxy parameters"* ([Research Archive of Rising Scholars](https://research-archive.org/index.php/rars/preprint/view/37){:target = "_blank"})
-- Saanvi Khemka (La Martiniere for Girls; now Nanying Technological University Comp Sci + Econ '27) -- "*A review of modern X-ray instrumentation*"
-- Gabriel Kronson (La Canada High School; now USC Biochemistry '29) -- "*Fitting Luminosity Decay Curves of Long Gamma-Ray Bursts, Short Gamma-Ray Bursts, Magnetar Flares, and Kilonovae"* (in prep for submission to a HS journal)
-- Aaron Fu (Bronx High School of Science; now Boston University Astronomy '27) -- "*How do our solar system's planets fit with other exoplanets?"*
-- Paul Beroza (Carlmont High School) -- Redshift, radial velocity measurements (in prep for submission to a HS journal)
-- Harshitha Madabhushani (Strawberry Crest High School; now University of South Florida Physics '28) -- "*What evidence points to the existence of Planet 9?"* (in prep for submission to a HS journal)
-- Nishant Kartik Nayak (Sai International School; now Penn VIPER '28) -- Dark matter
-- Mahika Khosla (Leland High School; now Purdue Aeronautical and Astronautical Engineering '30) -- Sky brightness; correlation with lunar phase, seeing, azimuthal angle
-- Ila Bhimshetty (Dougherty Valley High School, UCSD Applied Math '28) -- Recovering the X-ray light curve of SN 2012ca
-- Zhi Ling (Lauren) Chu (Downe House School; now UCSD Astronomy & Astrophysics '29) -- Varying AGN observability with changing physical parameters ([Blog with paper summaries](https://learningaboutsmbh.github.io){:target="_blank"})
-- Inaya Khwaja (Homeschooled; now Macaulay Honors College @ CUNY) -- Neutron stars in the era of multi-messenger observations
-- Jonathan Svilik (The Science Academy STEM Magnet) -- Recovering the role of AGN feedback from IllustrisTNG
+- Ansar Abdumanap (Miras International School) -- Photometric stellar classification, HR diagrams
+- Yu (Yolanda) Wen (Beijing 21st Century School) -- Spectral classification of stars ([GitHub containing classification code](https://github.com/YolandaWen08/Star-classifier))
+- Gentry Thatcher (Phillips Academy) -- N-body simulations including Planet 9/Planet X candidates
+- Ian McDonnell (St. Andrew's School) -- Review of detection/characterization bias using transit spectroscopy to study exoplanet atmospheres
+- Harshil Soni (South Brunswick High School) -- "*Analyzing the velocity and inclination of the galaxy M33 using spectral image cubes*" ([NHSJS](https://nhsjs.com/2026/analyzing-the-inclination-and-velocity-of-galaxy-m33-using-spectral-image-cubes/){:target="_blank"})
+- Chris Brenner (Needham High School) - Review of false vacuum decay in the context of cosmological theories
+- Anshveer Bindra (Oberoi International School) - Review of QFT as applied to de Sitter space
+- Cameron Hall (Palisades Charter High School; now Tufts Mechanical Engineering '29) -- Inferring globular cluster stellar population ages from resolved photometry ([Isochrone fitting explainer video](https://www.youtube.com/watch?v=WvgZJw1y2Og){:target="_blank"})
 - Jack Phelps (Windward School; now Princeton Astrophysics '29) -- Galactic 21 cm measurements with homemade setup ([arXiv](https://arxiv.org/abs/2411.00057){:target="_blank"}) 
 	- Project covered by [Universe Today](https://www.universetoday.com/169185/you-can-build-a-home-radio-telescope-to-detect-clouds-of-hydrogen-in-the-milky-way/){:target="_blank"}, [Phys.org](https://phys.org/news/2024-11-home-radio-telescope-clouds-hydrogen.html){:target="_blank"}, [Hackaday](https://hackaday.com/2024/11/05/tracking-hydrogen-in-space-with-a-home-radio-telescope-for-21-cm-emissions/){:target="_blank"}, [RTL-SDR](https://www.rtl-sdr.com/paper-on-building-a-low-cost-rtl-sdr-based-hydrogen-line-radio-telescope/#comments){:target="_blank"}, [Y-combinator forum](https://news.ycombinator.com/item?id=42044494){:target="_blank"} (said “This is better than what most of my MSc students produce”), [Discover Magazine](https://www.discovermagazine.com/the-sciences/how-to-build-a-backyard-radio-telescope){:target="_blank"}, [Muy Interesante (ES)](https://www.muyinteresante.com/tecnologia/astronomo-construir-radiotelescopio-casero.html#google_vignette){:target="_blank"}
-- Cameron Hall (Palisades Charter High School; now Tufts Mechanical Engineering '29) -- Inferring globular cluster stellar population ages from resolved photometry ([Isochrone fitting explainer video](https://www.youtube.com/watch?v=WvgZJw1y2Og){:target="_blank"})
-- Anshveer Bindra (Oberoi International School) - Review of QFT as applied to de Sitter space
-- Chris Brenner (Needham High School) - Review of false vacuum decay in the context of cosmological theories
-- Harshil Soni (South Brunswick High School) -- "*Analyzing the velocity and inclination of the galaxy M33 using spectral image cubes*" ([NHSJS](https://nhsjs.com/2026/analyzing-the-inclination-and-velocity-of-galaxy-m33-using-spectral-image-cubes/){:target="_blank"})
-- Ian McDonnell (St. Andrew's School) -- Review of detection/characterization bias using transit spectroscopy to study exoplanet atmospheres
-- Gentry Thatcher (Phillips Academy) -- N-body simulations including Planet 9/Planet X candidates
-- Yu (Yolanda) Wen (Beijing 21st Century School) -- Spectral classification of stars ([GitHub containing classification code](https://github.com/YolandaWen08/Star-classifier))
-- Ansar Abdumanap (Miras International School) -- Photometric stellar classification, HR diagrams
+- Jonathan Svilik (The Science Academy STEM Magnet) -- Recovering the role of AGN feedback from IllustrisTNG
+- Inaya Khwaja (Homeschooled; now Macaulay Honors College @ CUNY) -- Neutron stars in the era of multi-messenger observations
+- Zhi Ling (Lauren) Chu (Downe House School; now UCSD Astronomy & Astrophysics '29) -- Varying AGN observability with changing physical parameters ([Blog with paper summaries](https://learningaboutsmbh.github.io){:target="_blank"})
+- Ila Bhimshetty (Dougherty Valley High School, UCSD Applied Math '28) -- Recovering the X-ray light curve of SN 2012ca
+- Mahika Khosla (Leland High School; now Purdue Aeronautical and Astronautical Engineering '30) -- Sky brightness; correlation with lunar phase, seeing, azimuthal angle
+- Nishant Kartik Nayak (Sai International School; now Penn VIPER '28) -- Dark matter
+- Harshitha Madabhushani (Strawberry Crest High School; now University of South Florida Physics '28) -- "*What evidence points to the existence of Planet 9?"* (in prep for submission to a HS journal)
+- Paul Beroza (Carlmont High School) -- Redshift, radial velocity measurements (in prep for submission to a HS journal)
+- Aaron Fu (Bronx High School of Science; now Boston University Astronomy '27) -- "*How do our solar system's planets fit with other exoplanets?"*
+- Gabriel Kronson (La Canada High School; now USC Biochemistry '29) -- "*Fitting Luminosity Decay Curves of Long Gamma-Ray Bursts, Short Gamma-Ray Bursts, Magnetar Flares, and Kilonovae"* (in prep for submission to a HS journal)
+- Saanvi Khemka (La Martiniere for Girls; now Nanying Technological University Comp Sci + Econ '27) -- "*A review of modern X-ray instrumentation*"
+- Tommaso Freschi (Longfields-Davidson Heights Secondary School; now University of Waterloo Physics and Astronomy '27) -- "*The correlation between the luminosity of active galactic nuclei and host galaxy parameters"* ([Research Archive of Rising Scholars](https://research-archive.org/index.php/rars/preprint/view/37){:target = "_blank"})
+- Jeshwanth Mohan (Arcadia High School; now UC Berkeley Engineering Physics '26) -- "*Multi-messenger observability of neutron star binary systems*" (JOURNYS, submitted)
+- Jacqueline Huebner (Campolindo High School; UCSD Comp Sci '25 -> engineer @ Johns Hopkins APL) -- "*A surface brightness profile of M31 from archival SDSS data*" (JOURNYS, submitted)
+- Anirudh Krishna (The Shri Ram School Aravali; UCLA Comp Sci + Math '25 -> software engineer @ Samsara) -- "*A review of black hole X-ray transients*"
+- Cora Constantinescu (Issaquah High School; UCSB Physics '25 -> Berkeley Planetary Science PhD student) -- "*Fourth order integration of the solar system*"
+- Anagha Ramnath (Millburn High School; now University of Rochester Physics and Astronomy '26) -- "*Finding the constant of an accelerating universe: the Hubble constant*" ([JOURNYS](https://issuu.com/journys7/docs/journys_12.2/4){:target="_blank"})
 {% enddetails %}
 
+<hr style="height:15px; visibility:hidden;" />
 
-As many people, I keep a list of useful resources for students [here](https://avapolzin.github.io/projects/student_resources/).
+As many people, I keep a(n incomplete) list of useful resources for students [here](https://avapolzin.github.io/projects/student_resources/).

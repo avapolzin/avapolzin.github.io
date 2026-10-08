@@ -27,7 +27,7 @@ There are lots of different places to find job postings. Below are two of the mo
 
 I'm not necessarily suggesting that it's a *healthy* practice to compare profiles, but it can certainly be edifying! Rumor pages exist for other disciplines and people sometimes maintain informal rumor boards elsewhere, but these links go to the most frequently used astro sites:
 - [physicsgre.com](https://physicsgre.com){:target="_blank"} -- find the graduate admissions rumor mill under "Prospective Physics Graduate Student Topics"
-- [The Grad Cafe](https://www.thegradcafe.com){:target="_blank"}
+- [The Grad Cafe](https://www.thegradcafe.com){:target="_blank"} -- (largely) anonymized rumors about grad admissions
 - [Rumor Mill](https://www.astrobetter.com/wiki/Previous+Rumor+Mill+Pages){:target="_blank"} -- for postdoc/faculty/research scientist job news
 
 There are also separate rumor sites for [HEP-Ex](https://sites.google.com/site/hepexrumor/){:target='_blank'} and [HEP Theory postdocs](https://sites.google.com/site/postdocrumor/){:target="_blank"} and [faculty](https://particle.physics.ucdavis.edu/rumor/doku.php){:target="_blank"}, which may have relevant overlap for certain positions.
@@ -36,9 +36,13 @@ There are also separate rumor sites for [HEP-Ex](https://sites.google.com/site/h
 - [SciX](https://scixplorer.org){:target="_blank"} -- the successor to [NASA/ADS](https://ui.adsabs.harvard.edu){:target="_blank"} which still indexes [arXiv](https://arxiv.org){:target="_blank"} and journals but now for more disciplines
 - [INSPIRE](https://inspirehep.net){:target="_blank"} -- ADS, but for high energy physics, so sometimes better/more complete for cosmology and astroparticle literature
 
+
+Telescope and computing time are both awarded through competitive proposal processes. Public data (observed and simulated) create oppportunities for to access existing resources without those proposals, but the original team that collected or generated those data should be credited appropriately. Similarly, if you are working with your supervisor's (or group's) data, you should be sure to understand the provenance and any restrictions on those data, including what you can/cannot share before (and after!) publication.
+
 Note: I will eventually populate this section with more links to large data repositories.
 
 - [MAST](https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html){:target="_blank"}
+
 
 #### Research Funding/Opportunities
 If you're an **undergraduate**, be sure to keep an eye out for REUs (Research Experience for Undergraduates) and similar programs, which are usually advertised in the fall/winter. Prestigious summer research opportunities can translate not just to time to do focused work on a project, but also to key contacts as you apply for graduate positions and beyond.
@@ -47,7 +51,7 @@ If you're an **undergraduate**, be sure to keep an eye out for REUs (Research Ex
 - [Dunlap SURP](https://www.dunlap.utoronto.ca/training/surp/){:target="_blank"}
 - [ESO Summer Research Programme](https://www.eso.org/sci/meetings/2026/SummerResearch2026.html){:target="_blank"}
 
-It is also good practice to reach out to faculty and postdoctoral fellows directly about research opportunities[^1]. Not everyone will take undergraduate students 
+It is also good practice to reach out to faculty and postdoctoral fellows directly about research opportunities[^1]. Not everyone will take undergraduate students, but most lab openings come from personal contact.
 
 There are some fellowships/awards that are considered standout (within US academia):
 - [NSF GRFP](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program){:target="_blank"}
@@ -55,7 +59,7 @@ There are some fellowships/awards that are considered standout (within US academ
 - [Barry Goldwater Scholarship](https://goldwaterscholarship.gov){:target="_blank"}
 - [Brooke Owens Fellowship](http://www.brookeowensfellowship.org){:target="_blank"} -- for women in aerospace, but held by many now-astronomers
 
-If you're a **graduate student**, apply early and often for fellowships to fund your own research! There are awards like the NSF GRFP and NASA FINESST that everyone with eligibility will apply to on roughly the same timeline, but also look for opportunities through other organizations -- many awards will be through philanthropic or education-focused groups, but some will also be from computing or quant finance firms that want to cultivate the next generation of talent. Look at the CVs of people to whom you look up in order to get a sense of the full breadth of possible awards.
+If you're a **graduate student** (and even if you're funded by your advisor's grants), apply early and often for fellowships to fund your own research! There are awards like the NSF GRFP and NASA FINESST that everyone with eligibility will apply to on roughly the same timeline, but also look for opportunities through other organizations -- many awards will be through philanthropic or education-focused groups, but some will also be from computing or quant finance firms that want to cultivate the next generation of talent. Look at the CVs of people to whom you look up in order to get a sense of the full breadth of possible awards. (I would commit some to this site, but variable funding means that the availability of even the most prestigious awards is in regular flux, so it can be hard to predict what will be offered year-to-year.)
 
 There are also numerous predoctoral programs that expressly encourage you to get research experience outside of your home institution. These fellowships can help expand your research network and broaden your research interests.
 - [CCA Pre-doctoral Program](https://www.simonsfoundation.org/flatiron-institute-center-for-computational-astrophysics-pre-doctoral-program/){:target="_blank"}
