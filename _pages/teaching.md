@@ -106,7 +106,10 @@ You can read my short (though still somewhat comprehensive) guide to including d
 
 # Mentorship
 
-I'm also very interested in good mentorship practices. My current + past students are listed below. 
+I'm also very interested in good mentorship practices. 
+<!-- As in my course syllabi, I ask that students conducting research with me _do their own work_ and not rely on generative artificial intelligence. (For students who are curious about my rationale, I've compiled a brief -- and completely non-comprehensive -- [list of relevant studies](https://avapolzin.github.io/projects/on_genai/).) -->
+
+My current + past students are listed below. 
 
 ### University of Toronto
 - Thato Sotashe (University of Toronto '27) -- Empirically calibrating a "blue" stellar population SBF relation for WFC3/UVIS
