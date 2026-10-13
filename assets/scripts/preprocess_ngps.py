@@ -1,5 +1,7 @@
 """
-For some reason none of the headers are exactly how they're supposed to be...
+Written by Ava Polzin (ava.polzin [at] utoronto.ca) to accompany ngps_pipeline and PypeIt for reducing Palomar/NGPS data.
+
+For some reason none of the headers are exactly how they're supposed to be... (last used Oct. 12, 2026)
 
 This code is an attempt to automate overwriting the problem frame types/lack of lamp details.
 
