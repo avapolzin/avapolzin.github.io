@@ -10,9 +10,10 @@ display_categories: [Galaxy Evolution, Time-Domain Astronomy, Other Work]
 horizontal: false
 ---
 
-My research focus is broadly galaxy evolution and cosmology. I am (a recent) part of the JWST VENUS and MINERVA collaborations and have been a member of the Canadian Hydrogen Intensity Mapping Experiment, the Dragonfly Telephoto Array team, and the Time Domain/Multi-Messenger Sub-Group for the High Energy X-ray Probe ([HEX-P](https://hexp.org)) proposal team.
+My research focus is broadly galaxy evolution and cosmology. I am (a recent) part of the JWST VENUS and MINERVA collaborations and have been a member of the Canadian Hydrogen Intensity Mapping Experiment, the Dragonfly Telephoto Array team, and the High Energy X-ray Probe (HEX-P) proposal team.
+<!-- Time Domain/Multi-Messenger Sub-Group for the High Energy X-ray Probe ([HEX-P](https://hexp.org)) proposal team. -->
 
-I am interested in understanding the processes that impact star formation and the baryon cycle in low mass, low metallicity galaxies. I use both observations (of stellar populations and the gas in and around galaxies) and simulations to more holistically study the conditions under which star formation proceeds (or doesn't!) in local dwarf galaxies and galaxies at high redshift. An up-to-date list of quenched, isolated dwarf galaxy candidates and their inferred physical properties is available [here](https://avapolzin.github.io/projects/quench_list/).
+I am interested in understanding the processes that impact star formation and the baryon cycle in low-mass, low-metallicity galaxies. I use both observations (of stellar populations and the gas in and around galaxies) and simulations to more holistically study the conditions under which star formation proceeds (or doesn't!) in local dwarf galaxies and galaxies at high redshift. An up-to-date list of quenched, isolated dwarf galaxy candidates and their inferred physical properties is available [here](https://avapolzin.github.io/projects/quench_list/).
 
 See below for some research highlights (with brief summaries) and a list of publications.
 
@@ -74,7 +75,7 @@ I also periodically take on side efforts aimed at democratizing access to scienc
 
 #### Software
 
-In my spare time, I enjoy working on more computationally oriented projects that will hopefully be useful to (or fun for) the larger community. A few such projects are in the works right now, so do check back for updates.
+In my spare time, I enjoy working on more computationally oriented projects that will hopefully be useful to (or fun for) the larger community. A few such projects are always in the works, so do check back for updates.
 - [`albumpl`](https://github.com/avapolzin/albumpl) -- Custom matplotlib color palettes based on album covers.
 <!-- - [`angelus`](https://github.com/avapolzin/angelus) -- Crossmatch a field with existing galaxy and QSO catalogs and check virial coverage. (In releasing `angelus`, I also crossmatched all of [Milliquas v8](https://quasars.org/milliquas.htm){:target="_blank"} with [_GALEX_ GR6/7](https://galex.stsci.edu/GR6/){:target="_blank"}. You can download my Milliquas x _GALEX_ catalog as [.txt](https://github.com/avapolzin/angelus/raw/main/data/milliquas_x_galex.txt.zip) or as [.fits](https://github.com/avapolzin/angelus/raw/main/data/milliquas_x_galex.fits.zip).) -->
 <!-- (This idea was spun off of a function in [`uwstatus`](https://github.com/avapolzin/UWSStatusSearch), my package for checking the status of Dragonfly UW observations and cross-matching UW fields with existing galaxy catalogs.) -->
@@ -95,7 +96,7 @@ Some software comes out of the course of my usual (published) work, too!
 
 ## Publications
 
-Below is a list of submitted, accepted, and published papers. My CV lists some additional *in preparation* papers, which have not yet been submitted, but for which drafts exist, as well as some submitted papers which are not yet public. These manuscripts may be made available upon reasonable request (as for fellowship or grant evaluation).
+Below is a list of publicly available submitted, accepted, and published papers. My CV lists some additional *in preparation* papers, which have not yet been submitted, but for which drafts exist, as well as some submitted papers which are not yet public. These manuscripts may be made available upon reasonable request (as for fellowship, grant, or award evaluation).
 
 <!-- _pages/publications.md -->
 <div class="publications">

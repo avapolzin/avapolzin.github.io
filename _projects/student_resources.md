@@ -42,6 +42,14 @@ Telescope and computing time are both awarded through competitive proposal proce
 Note: I will eventually populate this section with more links to large data repositories.
 
 - [MAST](https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html){:target="_blank"}
+- [ESO Archive](https://archive.eso.org/scienceportal/home){:target="_blank"}
+- [Keck Observatory Archive](https://koa.ipac.caltech.edu/cgi-bin/KOA/nph-KOAlogin){:target="_blank"}
+
+There are also a number of ways to access imaging of, and information about, individual targets:
+- [Legacy Survey](https://www.legacysurvey.org/viewer){:target="_blank"}
+- [Aladin Lite](https://aladin.cds.unistra.fr/AladinLite/){:target="_blank"}
+- [Simbad](https://simbad.cds.unistra.fr/simbad/){:target="_blank"} (often more up to date than [NED](https://ned.ipac.caltech.edu){:target="_blank"}?)
+- [NASA/IPAC Extragalactic Database](https://ned.ipac.caltech.edu){:target="_blank"}
 
 
 #### Research Funding/Opportunities
