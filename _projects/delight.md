@@ -17,7 +17,7 @@ category: Time-Domain Astronomy
     This image can also have a caption. It's like magic.
 </div> -->
 
-[Förster et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022AJ....164..195F/abstract)
+[Förster et al. (2022)](https://scixplorer.org/abs/2022AJ....164..195F/abstract)
 {: style="font-size: 110%; text-align: center;"}
 
 This project was started during the 2021 La Serena School for Data Science, and represents the first publication to come out of an LSSDS session in program history.

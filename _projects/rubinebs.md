@@ -17,7 +17,7 @@ category: Time-Domain Astronomy
     Histograms showing the ratio of recoverable-to-observable, observable-to-all, and recoverable-to-all eclipsing binaries in our simulation as a function of their properties. Solid lines show the <i>baseline</i> simulation and dotted lines show the <i>colossus</i> simulation; <i>baseline</i> refers to the standard planned observing cadence for the Rubin Observatory Legacy Survey of Space and Time. Recoverable EBs are ones for which we return an accurate period given observations over the ten-year run of the survey.
 </div>
 
-[Geller, Polzin et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...919...83G/abstract)
+[Geller, Polzin et al. (2021)](https://scixplorer.org/abs/2021ApJ...919...83G/abstract)
 {: style="font-size: 110%; text-align: center;"}
 
 <!-- This work examined looked at how many eclipsing binaries (EBs) we should anticipate observing (and correctly characterizing) during the Rubin Observatory's Legacy Survey of Space and Time. We explore two observing cadences -- the first, *baseline2018a* (*baseline*) is LSST's default cadence (roughly even sky coverage every \~3 days) and the second, *colossus_2664* (*colossus*), is a proposed cadence that better samples the plane of the Galaxy.

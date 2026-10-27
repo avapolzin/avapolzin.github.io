@@ -10,7 +10,7 @@ Since there are still relatively few candidate low-mass quenched, isolated dwarf
 
 Please look at the references linked in the table for extended discussion of these galaxies and their properties. The physical and chemical parameters listed here are derived in different ways from different data, so though every effort is made to show values consistently, rigorous one-to-one comparison will require understanding the nuance of each individual measurement and approach to analysis. If you find any errors or are aware of more updated references, do feel free to email me.
 
-As addressed in greater detail in [Polzin et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...914L..23P/abstract){:target="_blank"}, the non-backsplash quiescent field dwarfs share common characteristics including young (\~ 1 Gyr) stellar populations and low (10<sup>6</sup> - 10<sup>7</sup> M<sub>⊙</sub>) stellar masses, pointing to similar physical mechanisms informing the cessation of star formation in each case.
+As addressed in greater detail in [Polzin et al. (2021)](https://scixplorer.org/abs/2021ApJ...914L..23P/abstract){:target="_blank"}, the non-backsplash quiescent field dwarfs share common characteristics including young (\~ 1 Gyr) stellar populations and low (10<sup>6</sup> - 10<sup>7</sup> M<sub>⊙</sub>) stellar masses, pointing to similar physical mechanisms informing the cessation of star formation in each case.
 
 
 <div class="row">

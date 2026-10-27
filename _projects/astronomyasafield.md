@@ -16,7 +16,7 @@ category: Other Work
     This image can also have a caption. It's like magic.
 </div> -->
 
-[Polzin et al. (2023b)](https://ui.adsabs.harvard.edu/abs/2023arXiv231204041P/abstract)
+[Polzin et al. (2023b)](https://scixplorer.org/abs/2023arXiv231204041P/abstract)
 {: style="font-size: 110%; text-align: center;"}
 
 *Astronomy as a Field* was created for students participating in the [SIRIUS B](https://siriusb.org){:target="_blank"} VERGE program. It serves as a general introduction to the field for students and enthusiasts alike, with content that is useful/informative for anyone interested in astronomy. A virtual copy can be accessed on arXiv or – in a more interactive form – here:

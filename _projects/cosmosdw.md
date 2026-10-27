@@ -16,7 +16,7 @@ category: Galaxy Evolution
     This image can also have a caption. It's like magic.
 </div> -->
 
-[Polzin et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...914L..23P/abstract)
+[Polzin et al. (2021)](https://scixplorer.org/abs/2021ApJ...914L..23P/abstract)
 {: style="font-size: 110%; text-align: center;"}
 
 Low mass dwarf galaxies are thought to quench primarily due to environmental mechanisms, such as galaxy-galaxy interactions, stripping, or harassment. As a result, it is very unusual to find a quiescent dwarf galaxy in the field. In this paper, we present the third such example (and the first outside of the Local Group), which is also the youngest and most isolated. We posit that star formation shut off only recently, and the clump of bright blue stars in the NE may represent the site of the stellar feedback event that has temporarily quenched COSMOS-dw1.

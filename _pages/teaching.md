@@ -123,8 +123,6 @@ My current + past students are listed below.
 I have also worked with a number of high school students, both through my research involvements in graduate school and through [Polygence](https://www.polygence.org){:target="_blank"}. If you are a high schooler interested in working with me through Polygence, just make sure to list me as your preference for mentor when you go through the application process.
 
 {% details Expand for list of HS students %}
-#### Yale University
-- Rohan Shivakumar (Choate Rosemary Hall externship; now Yale '27) -- Integrated light photometry, galaxy morphology, Dragonfly Wide-Field Survey
 
 
 #### Polygence
@@ -155,6 +153,10 @@ I have also worked with a number of high school students, both through my resear
 - Anirudh Krishna (The Shri Ram School Aravali; UCLA Comp Sci + Math '25 -> software engineer @ Samsara) -- "*A review of black hole X-ray transients*"
 - Cora Constantinescu (Issaquah High School; UCSB Physics '25 -> Berkeley Planetary Science PhD student) -- "*Fourth order integration of the solar system*"
 - Anagha Ramnath (Millburn High School; now University of Rochester Physics and Astronomy '26) -- "*Finding the constant of an accelerating universe: the Hubble constant*" ([JOURNYS](https://issuu.com/journys7/docs/journys_12.2/4){:target="_blank"})
+
+#### Yale University
+- Rohan Shivakumar (Choate Rosemary Hall externship; now Yale '27) -- Integrated light photometry, galaxy morphology, Dragonfly Wide-Field Survey
+
 {% enddetails %}
 
 <hr style="height:15px; visibility:hidden;" />
