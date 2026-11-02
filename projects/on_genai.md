@@ -17,6 +17,7 @@ I share a non-comprehensive list of results and supporting literature here, thou
 - "Novel" results are likely plagiarized and unverifi(ed/able):
 	- Navier-Stokes + new preprint pointing to formalization issues
 
+<!-- https://scixplorer.org/abs/2025arXiv250608872K/abstract -->
 
 There are a couple of other points I'll add:
 - Critically, when an instructor asks a student to do something, it's not because that thing _needs_ to be done for the instructor. Instructors don't benefit from reading 20 student papers on the same topic; instead, students benefit from having written that paper. The goal of assignments (in education or in research) is for the student to actually undertake the work of completing the assigned task. That effort is what makes the exercise worthwhile. Using generative AI to offload work -- and I'd argue this is true even for professional scientists whose jobs center on creativity, discovery, and, best of all, getting paid to think big thoughts -- is like using a forklift to pick up weights at the gym, then wondering why you aren't getting any stronger. 
