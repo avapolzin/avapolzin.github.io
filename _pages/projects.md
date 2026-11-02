@@ -15,6 +15,10 @@ My research focus is broadly galaxy evolution and cosmology. I am (a recent) par
 
 I am interested in understanding the processes that impact star formation and the baryon cycle in low-mass, low-metallicity galaxies. I use both observations (of stellar populations and the gas in and around galaxies) and simulations to more holistically study the conditions under which star formation proceeds (or doesn't!) in local dwarf galaxies and galaxies at high redshift. An up-to-date list of quenched, isolated dwarf galaxy candidates and their inferred physical properties is available [here](https://avapolzin.github.io/projects/quench_list/).
 
+Some larger projects in which I'm involved also have their own websites to organize and make accessible results and data products. Those can be found at:
+- QUEST Dwarfs: [questdwarfs.github.io](https://questdwarfs.github.io){:target="_blank"}
+- PANCHO: [pancho-pilot.github.io](https://pancho-pilot.github.io){:target="_blank"}
+
 See below for some research highlights (with brief summaries) and a list of publications.
 
 
@@ -70,6 +74,7 @@ In a past life, my research was focused on time-domain astronomy (it's where my 
 <!-- I started my astrophysics research career in time-domain astronomy when I was an undergraduate at Northwestern. It's a subfield I love and return to sporadically. Two of the projects came out of my time at NU, while the third (at right) came about as a result of my participation in the (2021) La Serena School for Data Science. -->
 
 I also periodically take on side efforts aimed at democratizing access to science and science education.
+
 
 <hr style="height:1px; visibility:hidden;" />
 

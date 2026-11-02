@@ -44,6 +44,7 @@ Note: I will eventually populate this section with more links to large data repo
 - [MAST](https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html){:target="_blank"}
 - [ESO Archive](https://archive.eso.org/scienceportal/home){:target="_blank"}
 - [Keck Observatory Archive](https://koa.ipac.caltech.edu/cgi-bin/KOA/nph-KOAlogin){:target="_blank"}
+- [Swift Data Centre Archive](https://www.swift.ac.uk/archive/index.php){:target="_blank"}
 
 There are also a number of ways to access imaging of, and information about, individual targets:
 - [Legacy Survey](https://www.legacysurvey.org/viewer){:target="_blank"}

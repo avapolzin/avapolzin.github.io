@@ -14,7 +14,7 @@ social: false
 
 I'm very passionate about STEM education and pedagogical practices, especially as they relate to the math hesitant and to traditionally underrepresented groups in the sciences. My teaching statement and sample course materials are available on request.
 
-In May 2022, I earned a Certificate of College Teaching Preparation from the Yale University Poorvu Center for Teaching and Learning, which also meets the requirements for CIRTL Associate.  And, to the end of better conveying complex material to learners (and the public in an outreach capacity), I earned a Certificate in Science Communication through the Northwestern University Center for Interdisciplinary Exploration and Research in Astrophysics SCOPE program in June 2022 and a Kavli SciComm Essentials Certificate from the Kavli Foundation in December 2023.
+In May 2022, I earned a Certificate of College Teaching Preparation from the Yale University Poorvu Center for Teaching and Learning, which also meets the requirements for CIRTL Associate.  And, to the end of better conveying complex material to learners (and the public in an outreach capacity), I earned a Certificate in Science Communication through the Northwestern University Center for Interdisciplinary Exploration and Research in Astrophysics SCOPE program in June 2022 and a Kavli SciComm Essentials Certificate from the Kavli Foundation in December 2023. (Some of my thoughts on this connection are summarized in a [poster](https://avapolzin.github.io/assets/polzin_00448_iaus409_poster.pdf) I presented at IAUS 409.)
 
 I also maintain [astroteaching.github.io](https://astroteaching.github.io){:target = "_blank"}, where I have aggregated various open source course materials and visualizations/resources to make it easier for other instructors to find. Please feel free to e-mail me if you'd like to see something added!
 
@@ -109,15 +109,15 @@ You can read my short (though still somewhat comprehensive) guide to including d
 I'm also very interested in good mentorship practices. 
 <!-- As in my course syllabi, I ask that students conducting research with me _do their own work_ and not rely on generative artificial intelligence. (For students who are curious about my rationale, I've compiled a brief -- and completely non-comprehensive -- [list of relevant studies](https://avapolzin.github.io/projects/on_genai/).) -->
 
-My current + past students are listed below. 
+My current (\*) + past students are listed below. 
 
 ### University of Toronto
-- Thato Sotashe (University of Toronto '27) -- Empirically calibrating a "blue" stellar population SBF relation for WFC3/UVIS
-- Garv Choudhury (University of Toronto '27) -- Identifying and characterizing low-luminosity galaxies in Euclid Q1
-- Yan Ivanov (University of Toronto Mississauga '27) -- Testing galaxy-absorber physical association in projection using cosmological simulations
+- \*Thato Sotashe (University of Toronto '27) -- Empirically calibrating a "blue" stellar population SBF relation for WFC3/UVIS
+- \*Garv Choudhury (University of Toronto '27) -- Identifying and characterizing low-luminosity galaxies in Euclid Q1
+- \*Yan Ivanov (University of Toronto Mississauga '27) -- Testing galaxy-absorber physical association in projection using cosmological simulations
 
 ### University of Chicago
-- Vicky Bardón Soto (University of Chicago '27) -- Analyzing spatially resolved optical spectra of the low-mass shell galaxy UGC 75
+- \*Vicky Bardón Soto (University of Chicago '27) -- Analyzing spatially resolved optical spectra of the low-mass shell galaxy UGC 75
 - Catherine Mah (Hong Kong University Physics '25, exchange student at UChicago -> finance) -- Recovering photometry and structural properties for a diverse sample of dwarf galaxies
 
 I have also worked with a number of high school students, both through my research involvements in graduate school and through [Polygence](https://www.polygence.org){:target="_blank"}. If you are a high schooler interested in working with me through Polygence, just make sure to list me as your preference for mentor when you go through the application process.
