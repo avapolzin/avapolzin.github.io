@@ -18,7 +18,7 @@ Given how much academics travel, and my own habit of looking for lists of meanin
 - Pono Ono (Evanston, IL) -- regular Hawaiian bowl
 
 #### Nashville, TN, USA
-- Samurai Sushi (the Elliston Pl. specifically)
+- Samurai Sushi (the Elliston Pl. location specifically)
 
 #### New Haven, CT, USA
 - September in Bangkok -- my **favorite** Thai food, always willing to make it spicy :)
@@ -36,6 +36,11 @@ Given how much academics travel, and my own habit of looking for lists of meanin
 - Vietnam Lovely Noodle
 
 ### Rest of the world:
+#### Kyoto, Japan
+- Café Planet (dedicated GF) -- the pizza crust is amazing!
+- LOCO Chicken -- Kyoto habanero chicken; so naturally GF that gluten-containing items are labeled
+- Koma Gallery Cafe
+
 #### Lisbon, Portugal
 - Rice Me (dedicated GF) -- went to the bakery, wished I'd had enough time to try everything
 
@@ -43,7 +48,7 @@ Given how much academics travel, and my own habit of looking for lists of meanin
 - Cococo (dedicated GF) -- bento boxes
 - Copains (dedicated GF) -- chocolate hazelnut babka (the croissants at Gluten Free by l'Artisan in TO blow Copains' out of the water though)
 
-There are also some chains that I know are reliable and like while traveling:
+There are also some (largely regional) chains that I know are reliable and like while traveling:
 - Garden Catering -- despite the name, known for chicken nuggets
 - Lyfe Kitchen
 - Tatte -- a big thank you to Lamiya Mowla for introducing me to the option, which has become a standby for my many trips to Boston and DC

@@ -21,4 +21,4 @@ Coming soon: Polzin & Whitaker (2026)
 
 Following the release of the [Picture an Astronomer white paper](https://arxiv.org/abs/2512.24465), Kate Whitaker and I were invited to write a Comment in Nature Astronomy, synthesizing lessons about how to keep talent in the field, while also making astronomy a more hospitable discipline for everyone.
 
-That Comment is now submitted, so keep an eye out for that work to go public!
+That Comment is now in press, so keep an eye out for that work to go public!

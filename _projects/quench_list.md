@@ -60,7 +60,7 @@ Additional candidates not included here due to large uncertainties/necessary fol
 <!-- - Corvus A ([Jones et al. 2024](){:target="_blank"}) -- note that this dwarf is gas-rich and potentially observed in a transitory quiescent phase -->
 <!-- - dE01+09 [Paudel et al. 2025](https://arxiv.org/abs/2508.20459){:target="_blank"} -- extreme backsplash galaxy -->
 - [Bidaran et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...693L..16B/abstract)
-- [Shapiro (2025)](https://arxiv.org/abs/2512.14808){:target="_blank"} -- note: distances (via *purported* TRGB measurements) appear extremely suspect
+<!-- - [Shapiro (2025)](https://arxiv.org/abs/2512.14808){:target="_blank"} -- note: distances (via *purported* TRGB measurements) appear extremely suspect -->
 - Zangetsu ([Wei et al. 2026](https://ui.adsabs.harvard.edu/abs/2026ApJ...997...32W/abstract){:target="_blank"})
 <!-- - DFUWS 258 ([Forbes et al. 2026](https://arxiv.org/abs/2609.00693)) -- note that neither dwarf reported here is isolated by typical definitions -->
 
